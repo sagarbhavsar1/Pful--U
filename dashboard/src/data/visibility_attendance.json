@@ -1,0 +1,14 @@
+[
+  {
+    "visibility_scope": "friends_only",
+    "total_records": 3147568,
+    "attended_count": 1015753,
+    "attendance_rate": 32.27
+  },
+  {
+    "visibility_scope": "campus_public",
+    "total_records": 1328695,
+    "attended_count": 487303,
+    "attendance_rate": 36.68
+  }
+]

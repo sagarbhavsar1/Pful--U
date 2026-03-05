@@ -1,0 +1,4188 @@
+[
+  {
+    "cohort_week": 0,
+    "weeks_since_join": 0,
+    "active_users": 35420,
+    "cohort_size": 49134,
+    "retention_pct": 72.09
+  },
+  {
+    "cohort_week": 0,
+    "weeks_since_join": 1,
+    "active_users": 23082,
+    "cohort_size": 49134,
+    "retention_pct": 46.98
+  },
+  {
+    "cohort_week": 0,
+    "weeks_since_join": 2,
+    "active_users": 16645,
+    "cohort_size": 49134,
+    "retention_pct": 33.88
+  },
+  {
+    "cohort_week": 0,
+    "weeks_since_join": 3,
+    "active_users": 13274,
+    "cohort_size": 49134,
+    "retention_pct": 27.02
+  },
+  {
+    "cohort_week": 0,
+    "weeks_since_join": 4,
+    "active_users": 11017,
+    "cohort_size": 49134,
+    "retention_pct": 22.42
+  },
+  {
+    "cohort_week": 0,
+    "weeks_since_join": 5,
+    "active_users": 9247,
+    "cohort_size": 49134,
+    "retention_pct": 18.82
+  },
+  {
+    "cohort_week": 0,
+    "weeks_since_join": 6,
+    "active_users": 8206,
+    "cohort_size": 49134,
+    "retention_pct": 16.7
+  },
+  {
+    "cohort_week": 0,
+    "weeks_since_join": 7,
+    "active_users": 7439,
+    "cohort_size": 49134,
+    "retention_pct": 15.14
+  },
+  {
+    "cohort_week": 0,
+    "weeks_since_join": 8,
+    "active_users": 5595,
+    "cohort_size": 49134,
+    "retention_pct": 11.39
+  },
+  {
+    "cohort_week": 0,
+    "weeks_since_join": 9,
+    "active_users": 4363,
+    "cohort_size": 49134,
+    "retention_pct": 8.88
+  },
+  {
+    "cohort_week": 0,
+    "weeks_since_join": 10,
+    "active_users": 4208,
+    "cohort_size": 49134,
+    "retention_pct": 8.56
+  },
+  {
+    "cohort_week": 0,
+    "weeks_since_join": 11,
+    "active_users": 4724,
+    "cohort_size": 49134,
+    "retention_pct": 9.61
+  },
+  {
+    "cohort_week": 0,
+    "weeks_since_join": 12,
+    "active_users": 6926,
+    "cohort_size": 49134,
+    "retention_pct": 14.1
+  },
+  {
+    "cohort_week": 1,
+    "weeks_since_join": 0,
+    "active_users": 19510,
+    "cohort_size": 41600,
+    "retention_pct": 46.9
+  },
+  {
+    "cohort_week": 1,
+    "weeks_since_join": 1,
+    "active_users": 14242,
+    "cohort_size": 41600,
+    "retention_pct": 34.24
+  },
+  {
+    "cohort_week": 1,
+    "weeks_since_join": 2,
+    "active_users": 11046,
+    "cohort_size": 41600,
+    "retention_pct": 26.55
+  },
+  {
+    "cohort_week": 1,
+    "weeks_since_join": 3,
+    "active_users": 9260,
+    "cohort_size": 41600,
+    "retention_pct": 22.26
+  },
+  {
+    "cohort_week": 1,
+    "weeks_since_join": 4,
+    "active_users": 7921,
+    "cohort_size": 41600,
+    "retention_pct": 19.04
+  },
+  {
+    "cohort_week": 1,
+    "weeks_since_join": 5,
+    "active_users": 6912,
+    "cohort_size": 41600,
+    "retention_pct": 16.62
+  },
+  {
+    "cohort_week": 1,
+    "weeks_since_join": 6,
+    "active_users": 6515,
+    "cohort_size": 41600,
+    "retention_pct": 15.66
+  },
+  {
+    "cohort_week": 1,
+    "weeks_since_join": 7,
+    "active_users": 4810,
+    "cohort_size": 41600,
+    "retention_pct": 11.56
+  },
+  {
+    "cohort_week": 1,
+    "weeks_since_join": 8,
+    "active_users": 3366,
+    "cohort_size": 41600,
+    "retention_pct": 8.09
+  },
+  {
+    "cohort_week": 1,
+    "weeks_since_join": 9,
+    "active_users": 3591,
+    "cohort_size": 41600,
+    "retention_pct": 8.63
+  },
+  {
+    "cohort_week": 1,
+    "weeks_since_join": 10,
+    "active_users": 4002,
+    "cohort_size": 41600,
+    "retention_pct": 9.62
+  },
+  {
+    "cohort_week": 1,
+    "weeks_since_join": 11,
+    "active_users": 5765,
+    "cohort_size": 41600,
+    "retention_pct": 13.86
+  },
+  {
+    "cohort_week": 1,
+    "weeks_since_join": 12,
+    "active_users": 5686,
+    "cohort_size": 41600,
+    "retention_pct": 13.67
+  },
+  {
+    "cohort_week": 2,
+    "weeks_since_join": 0,
+    "active_users": 10174,
+    "cohort_size": 29854,
+    "retention_pct": 34.08
+  },
+  {
+    "cohort_week": 2,
+    "weeks_since_join": 1,
+    "active_users": 8135,
+    "cohort_size": 29854,
+    "retention_pct": 27.25
+  },
+  {
+    "cohort_week": 2,
+    "weeks_since_join": 2,
+    "active_users": 6527,
+    "cohort_size": 29854,
+    "retention_pct": 21.86
+  },
+  {
+    "cohort_week": 2,
+    "weeks_since_join": 3,
+    "active_users": 5692,
+    "cohort_size": 29854,
+    "retention_pct": 19.07
+  },
+  {
+    "cohort_week": 2,
+    "weeks_since_join": 4,
+    "active_users": 5001,
+    "cohort_size": 29854,
+    "retention_pct": 16.75
+  },
+  {
+    "cohort_week": 2,
+    "weeks_since_join": 5,
+    "active_users": 4584,
+    "cohort_size": 29854,
+    "retention_pct": 15.35
+  },
+  {
+    "cohort_week": 2,
+    "weeks_since_join": 6,
+    "active_users": 3500,
+    "cohort_size": 29854,
+    "retention_pct": 11.72
+  },
+  {
+    "cohort_week": 2,
+    "weeks_since_join": 7,
+    "active_users": 2557,
+    "cohort_size": 29854,
+    "retention_pct": 8.57
+  },
+  {
+    "cohort_week": 2,
+    "weeks_since_join": 8,
+    "active_users": 2480,
+    "cohort_size": 29854,
+    "retention_pct": 8.31
+  },
+  {
+    "cohort_week": 2,
+    "weeks_since_join": 9,
+    "active_users": 2876,
+    "cohort_size": 29854,
+    "retention_pct": 9.63
+  },
+  {
+    "cohort_week": 2,
+    "weeks_since_join": 10,
+    "active_users": 4200,
+    "cohort_size": 29854,
+    "retention_pct": 14.07
+  },
+  {
+    "cohort_week": 2,
+    "weeks_since_join": 11,
+    "active_users": 4127,
+    "cohort_size": 29854,
+    "retention_pct": 13.82
+  },
+  {
+    "cohort_week": 2,
+    "weeks_since_join": 12,
+    "active_users": 4080,
+    "cohort_size": 29854,
+    "retention_pct": 13.67
+  },
+  {
+    "cohort_week": 3,
+    "weeks_since_join": 0,
+    "active_users": 6354,
+    "cohort_size": 23049,
+    "retention_pct": 27.57
+  },
+  {
+    "cohort_week": 3,
+    "weeks_since_join": 1,
+    "active_users": 5244,
+    "cohort_size": 23049,
+    "retention_pct": 22.75
+  },
+  {
+    "cohort_week": 3,
+    "weeks_since_join": 2,
+    "active_users": 4266,
+    "cohort_size": 23049,
+    "retention_pct": 18.51
+  },
+  {
+    "cohort_week": 3,
+    "weeks_since_join": 3,
+    "active_users": 3919,
+    "cohort_size": 23049,
+    "retention_pct": 17.0
+  },
+  {
+    "cohort_week": 3,
+    "weeks_since_join": 4,
+    "active_users": 3554,
+    "cohort_size": 23049,
+    "retention_pct": 15.42
+  },
+  {
+    "cohort_week": 3,
+    "weeks_since_join": 5,
+    "active_users": 2688,
+    "cohort_size": 23049,
+    "retention_pct": 11.66
+  },
+  {
+    "cohort_week": 3,
+    "weeks_since_join": 6,
+    "active_users": 1999,
+    "cohort_size": 23049,
+    "retention_pct": 8.67
+  },
+  {
+    "cohort_week": 3,
+    "weeks_since_join": 7,
+    "active_users": 2041,
+    "cohort_size": 23049,
+    "retention_pct": 8.86
+  },
+  {
+    "cohort_week": 3,
+    "weeks_since_join": 8,
+    "active_users": 2220,
+    "cohort_size": 23049,
+    "retention_pct": 9.63
+  },
+  {
+    "cohort_week": 3,
+    "weeks_since_join": 9,
+    "active_users": 3194,
+    "cohort_size": 23049,
+    "retention_pct": 13.86
+  },
+  {
+    "cohort_week": 3,
+    "weeks_since_join": 10,
+    "active_users": 3206,
+    "cohort_size": 23049,
+    "retention_pct": 13.91
+  },
+  {
+    "cohort_week": 3,
+    "weeks_since_join": 11,
+    "active_users": 3198,
+    "cohort_size": 23049,
+    "retention_pct": 13.87
+  },
+  {
+    "cohort_week": 3,
+    "weeks_since_join": 12,
+    "active_users": 1286,
+    "cohort_size": 23049,
+    "retention_pct": 5.58
+  },
+  {
+    "cohort_week": 4,
+    "weeks_since_join": 0,
+    "active_users": 4107,
+    "cohort_size": 18088,
+    "retention_pct": 22.71
+  },
+  {
+    "cohort_week": 4,
+    "weeks_since_join": 1,
+    "active_users": 3388,
+    "cohort_size": 18088,
+    "retention_pct": 18.73
+  },
+  {
+    "cohort_week": 4,
+    "weeks_since_join": 2,
+    "active_users": 3060,
+    "cohort_size": 18088,
+    "retention_pct": 16.92
+  },
+  {
+    "cohort_week": 4,
+    "weeks_since_join": 3,
+    "active_users": 2773,
+    "cohort_size": 18088,
+    "retention_pct": 15.33
+  },
+  {
+    "cohort_week": 4,
+    "weeks_since_join": 4,
+    "active_users": 2035,
+    "cohort_size": 18088,
+    "retention_pct": 11.25
+  },
+  {
+    "cohort_week": 4,
+    "weeks_since_join": 5,
+    "active_users": 1534,
+    "cohort_size": 18088,
+    "retention_pct": 8.48
+  },
+  {
+    "cohort_week": 4,
+    "weeks_since_join": 6,
+    "active_users": 1580,
+    "cohort_size": 18088,
+    "retention_pct": 8.74
+  },
+  {
+    "cohort_week": 4,
+    "weeks_since_join": 7,
+    "active_users": 1778,
+    "cohort_size": 18088,
+    "retention_pct": 9.83
+  },
+  {
+    "cohort_week": 4,
+    "weeks_since_join": 8,
+    "active_users": 2488,
+    "cohort_size": 18088,
+    "retention_pct": 13.75
+  },
+  {
+    "cohort_week": 4,
+    "weeks_since_join": 9,
+    "active_users": 2474,
+    "cohort_size": 18088,
+    "retention_pct": 13.68
+  },
+  {
+    "cohort_week": 4,
+    "weeks_since_join": 10,
+    "active_users": 2522,
+    "cohort_size": 18088,
+    "retention_pct": 13.94
+  },
+  {
+    "cohort_week": 4,
+    "weeks_since_join": 11,
+    "active_users": 1011,
+    "cohort_size": 18088,
+    "retention_pct": 5.59
+  },
+  {
+    "cohort_week": 4,
+    "weeks_since_join": 12,
+    "active_users": 812,
+    "cohort_size": 18088,
+    "retention_pct": 4.49
+  },
+  {
+    "cohort_week": 5,
+    "weeks_since_join": 0,
+    "active_users": 3101,
+    "cohort_size": 16545,
+    "retention_pct": 18.74
+  },
+  {
+    "cohort_week": 5,
+    "weeks_since_join": 1,
+    "active_users": 2795,
+    "cohort_size": 16545,
+    "retention_pct": 16.89
+  },
+  {
+    "cohort_week": 5,
+    "weeks_since_join": 2,
+    "active_users": 2516,
+    "cohort_size": 16545,
+    "retention_pct": 15.21
+  },
+  {
+    "cohort_week": 5,
+    "weeks_since_join": 3,
+    "active_users": 1896,
+    "cohort_size": 16545,
+    "retention_pct": 11.46
+  },
+  {
+    "cohort_week": 5,
+    "weeks_since_join": 4,
+    "active_users": 1384,
+    "cohort_size": 16545,
+    "retention_pct": 8.37
+  },
+  {
+    "cohort_week": 5,
+    "weeks_since_join": 5,
+    "active_users": 1429,
+    "cohort_size": 16545,
+    "retention_pct": 8.64
+  },
+  {
+    "cohort_week": 5,
+    "weeks_since_join": 6,
+    "active_users": 1611,
+    "cohort_size": 16545,
+    "retention_pct": 9.74
+  },
+  {
+    "cohort_week": 5,
+    "weeks_since_join": 7,
+    "active_users": 2246,
+    "cohort_size": 16545,
+    "retention_pct": 13.58
+  },
+  {
+    "cohort_week": 5,
+    "weeks_since_join": 8,
+    "active_users": 2199,
+    "cohort_size": 16545,
+    "retention_pct": 13.29
+  },
+  {
+    "cohort_week": 5,
+    "weeks_since_join": 9,
+    "active_users": 2267,
+    "cohort_size": 16545,
+    "retention_pct": 13.7
+  },
+  {
+    "cohort_week": 5,
+    "weeks_since_join": 10,
+    "active_users": 905,
+    "cohort_size": 16545,
+    "retention_pct": 5.47
+  },
+  {
+    "cohort_week": 5,
+    "weeks_since_join": 11,
+    "active_users": 727,
+    "cohort_size": 16545,
+    "retention_pct": 4.39
+  },
+  {
+    "cohort_week": 5,
+    "weeks_since_join": 12,
+    "active_users": 624,
+    "cohort_size": 16545,
+    "retention_pct": 3.77
+  },
+  {
+    "cohort_week": 6,
+    "weeks_since_join": 0,
+    "active_users": 2463,
+    "cohort_size": 15038,
+    "retention_pct": 16.38
+  },
+  {
+    "cohort_week": 6,
+    "weeks_since_join": 1,
+    "active_users": 2397,
+    "cohort_size": 15038,
+    "retention_pct": 15.94
+  },
+  {
+    "cohort_week": 6,
+    "weeks_since_join": 2,
+    "active_users": 1683,
+    "cohort_size": 15038,
+    "retention_pct": 11.19
+  },
+  {
+    "cohort_week": 6,
+    "weeks_since_join": 3,
+    "active_users": 1242,
+    "cohort_size": 15038,
+    "retention_pct": 8.26
+  },
+  {
+    "cohort_week": 6,
+    "weeks_since_join": 4,
+    "active_users": 1245,
+    "cohort_size": 15038,
+    "retention_pct": 8.28
+  },
+  {
+    "cohort_week": 6,
+    "weeks_since_join": 5,
+    "active_users": 1442,
+    "cohort_size": 15038,
+    "retention_pct": 9.59
+  },
+  {
+    "cohort_week": 6,
+    "weeks_since_join": 6,
+    "active_users": 2111,
+    "cohort_size": 15038,
+    "retention_pct": 14.04
+  },
+  {
+    "cohort_week": 6,
+    "weeks_since_join": 7,
+    "active_users": 2088,
+    "cohort_size": 15038,
+    "retention_pct": 13.88
+  },
+  {
+    "cohort_week": 6,
+    "weeks_since_join": 8,
+    "active_users": 2081,
+    "cohort_size": 15038,
+    "retention_pct": 13.84
+  },
+  {
+    "cohort_week": 6,
+    "weeks_since_join": 9,
+    "active_users": 824,
+    "cohort_size": 15038,
+    "retention_pct": 5.48
+  },
+  {
+    "cohort_week": 6,
+    "weeks_since_join": 10,
+    "active_users": 679,
+    "cohort_size": 15038,
+    "retention_pct": 4.52
+  },
+  {
+    "cohort_week": 6,
+    "weeks_since_join": 11,
+    "active_users": 631,
+    "cohort_size": 15038,
+    "retention_pct": 4.2
+  },
+  {
+    "cohort_week": 6,
+    "weeks_since_join": 12,
+    "active_users": 441,
+    "cohort_size": 15038,
+    "retention_pct": 2.93
+  },
+  {
+    "cohort_week": 7,
+    "weeks_since_join": 0,
+    "active_users": 2154,
+    "cohort_size": 14065,
+    "retention_pct": 15.31
+  },
+  {
+    "cohort_week": 7,
+    "weeks_since_join": 1,
+    "active_users": 1581,
+    "cohort_size": 14065,
+    "retention_pct": 11.24
+  },
+  {
+    "cohort_week": 7,
+    "weeks_since_join": 2,
+    "active_users": 1234,
+    "cohort_size": 14065,
+    "retention_pct": 8.77
+  },
+  {
+    "cohort_week": 7,
+    "weeks_since_join": 3,
+    "active_users": 1235,
+    "cohort_size": 14065,
+    "retention_pct": 8.78
+  },
+  {
+    "cohort_week": 7,
+    "weeks_since_join": 4,
+    "active_users": 1352,
+    "cohort_size": 14065,
+    "retention_pct": 9.61
+  },
+  {
+    "cohort_week": 7,
+    "weeks_since_join": 5,
+    "active_users": 1943,
+    "cohort_size": 14065,
+    "retention_pct": 13.81
+  },
+  {
+    "cohort_week": 7,
+    "weeks_since_join": 6,
+    "active_users": 1951,
+    "cohort_size": 14065,
+    "retention_pct": 13.87
+  },
+  {
+    "cohort_week": 7,
+    "weeks_since_join": 7,
+    "active_users": 2026,
+    "cohort_size": 14065,
+    "retention_pct": 14.4
+  },
+  {
+    "cohort_week": 7,
+    "weeks_since_join": 8,
+    "active_users": 796,
+    "cohort_size": 14065,
+    "retention_pct": 5.66
+  },
+  {
+    "cohort_week": 7,
+    "weeks_since_join": 9,
+    "active_users": 628,
+    "cohort_size": 14065,
+    "retention_pct": 4.46
+  },
+  {
+    "cohort_week": 7,
+    "weeks_since_join": 10,
+    "active_users": 566,
+    "cohort_size": 14065,
+    "retention_pct": 4.02
+  },
+  {
+    "cohort_week": 7,
+    "weeks_since_join": 11,
+    "active_users": 407,
+    "cohort_size": 14065,
+    "retention_pct": 2.89
+  },
+  {
+    "cohort_week": 7,
+    "weeks_since_join": 12,
+    "active_users": 290,
+    "cohort_size": 14065,
+    "retention_pct": 2.06
+  },
+  {
+    "cohort_week": 8,
+    "weeks_since_join": 0,
+    "active_users": 1347,
+    "cohort_size": 11739,
+    "retention_pct": 11.47
+  },
+  {
+    "cohort_week": 8,
+    "weeks_since_join": 1,
+    "active_users": 1057,
+    "cohort_size": 11739,
+    "retention_pct": 9.0
+  },
+  {
+    "cohort_week": 8,
+    "weeks_since_join": 2,
+    "active_users": 1007,
+    "cohort_size": 11739,
+    "retention_pct": 8.58
+  },
+  {
+    "cohort_week": 8,
+    "weeks_since_join": 3,
+    "active_users": 1176,
+    "cohort_size": 11739,
+    "retention_pct": 10.02
+  },
+  {
+    "cohort_week": 8,
+    "weeks_since_join": 4,
+    "active_users": 1651,
+    "cohort_size": 11739,
+    "retention_pct": 14.06
+  },
+  {
+    "cohort_week": 8,
+    "weeks_since_join": 5,
+    "active_users": 1677,
+    "cohort_size": 11739,
+    "retention_pct": 14.29
+  },
+  {
+    "cohort_week": 8,
+    "weeks_since_join": 6,
+    "active_users": 1563,
+    "cohort_size": 11739,
+    "retention_pct": 13.31
+  },
+  {
+    "cohort_week": 8,
+    "weeks_since_join": 7,
+    "active_users": 668,
+    "cohort_size": 11739,
+    "retention_pct": 5.69
+  },
+  {
+    "cohort_week": 8,
+    "weeks_since_join": 8,
+    "active_users": 515,
+    "cohort_size": 11739,
+    "retention_pct": 4.39
+  },
+  {
+    "cohort_week": 8,
+    "weeks_since_join": 9,
+    "active_users": 477,
+    "cohort_size": 11739,
+    "retention_pct": 4.06
+  },
+  {
+    "cohort_week": 8,
+    "weeks_since_join": 10,
+    "active_users": 338,
+    "cohort_size": 11739,
+    "retention_pct": 2.88
+  },
+  {
+    "cohort_week": 8,
+    "weeks_since_join": 11,
+    "active_users": 283,
+    "cohort_size": 11739,
+    "retention_pct": 2.41
+  },
+  {
+    "cohort_week": 8,
+    "weeks_since_join": 12,
+    "active_users": 219,
+    "cohort_size": 11739,
+    "retention_pct": 1.87
+  },
+  {
+    "cohort_week": 9,
+    "weeks_since_join": 0,
+    "active_users": 830,
+    "cohort_size": 9938,
+    "retention_pct": 8.35
+  },
+  {
+    "cohort_week": 9,
+    "weeks_since_join": 1,
+    "active_users": 862,
+    "cohort_size": 9938,
+    "retention_pct": 8.67
+  },
+  {
+    "cohort_week": 9,
+    "weeks_since_join": 2,
+    "active_users": 925,
+    "cohort_size": 9938,
+    "retention_pct": 9.31
+  },
+  {
+    "cohort_week": 9,
+    "weeks_since_join": 3,
+    "active_users": 1379,
+    "cohort_size": 9938,
+    "retention_pct": 13.88
+  },
+  {
+    "cohort_week": 9,
+    "weeks_since_join": 4,
+    "active_users": 1429,
+    "cohort_size": 9938,
+    "retention_pct": 14.38
+  },
+  {
+    "cohort_week": 9,
+    "weeks_since_join": 5,
+    "active_users": 1347,
+    "cohort_size": 9938,
+    "retention_pct": 13.55
+  },
+  {
+    "cohort_week": 9,
+    "weeks_since_join": 6,
+    "active_users": 572,
+    "cohort_size": 9938,
+    "retention_pct": 5.76
+  },
+  {
+    "cohort_week": 9,
+    "weeks_since_join": 7,
+    "active_users": 463,
+    "cohort_size": 9938,
+    "retention_pct": 4.66
+  },
+  {
+    "cohort_week": 9,
+    "weeks_since_join": 8,
+    "active_users": 395,
+    "cohort_size": 9938,
+    "retention_pct": 3.97
+  },
+  {
+    "cohort_week": 9,
+    "weeks_since_join": 9,
+    "active_users": 305,
+    "cohort_size": 9938,
+    "retention_pct": 3.07
+  },
+  {
+    "cohort_week": 9,
+    "weeks_since_join": 10,
+    "active_users": 226,
+    "cohort_size": 9938,
+    "retention_pct": 2.27
+  },
+  {
+    "cohort_week": 9,
+    "weeks_since_join": 11,
+    "active_users": 175,
+    "cohort_size": 9938,
+    "retention_pct": 1.76
+  },
+  {
+    "cohort_week": 9,
+    "weeks_since_join": 12,
+    "active_users": 165,
+    "cohort_size": 9938,
+    "retention_pct": 1.66
+  },
+  {
+    "cohort_week": 10,
+    "weeks_since_join": 0,
+    "active_users": 750,
+    "cohort_size": 9062,
+    "retention_pct": 8.28
+  },
+  {
+    "cohort_week": 10,
+    "weeks_since_join": 1,
+    "active_users": 882,
+    "cohort_size": 9062,
+    "retention_pct": 9.73
+  },
+  {
+    "cohort_week": 10,
+    "weeks_since_join": 2,
+    "active_users": 1318,
+    "cohort_size": 9062,
+    "retention_pct": 14.54
+  },
+  {
+    "cohort_week": 10,
+    "weeks_since_join": 3,
+    "active_users": 1243,
+    "cohort_size": 9062,
+    "retention_pct": 13.72
+  },
+  {
+    "cohort_week": 10,
+    "weeks_since_join": 4,
+    "active_users": 1171,
+    "cohort_size": 9062,
+    "retention_pct": 12.92
+  },
+  {
+    "cohort_week": 10,
+    "weeks_since_join": 5,
+    "active_users": 542,
+    "cohort_size": 9062,
+    "retention_pct": 5.98
+  },
+  {
+    "cohort_week": 10,
+    "weeks_since_join": 6,
+    "active_users": 403,
+    "cohort_size": 9062,
+    "retention_pct": 4.45
+  },
+  {
+    "cohort_week": 10,
+    "weeks_since_join": 7,
+    "active_users": 366,
+    "cohort_size": 9062,
+    "retention_pct": 4.04
+  },
+  {
+    "cohort_week": 10,
+    "weeks_since_join": 8,
+    "active_users": 273,
+    "cohort_size": 9062,
+    "retention_pct": 3.01
+  },
+  {
+    "cohort_week": 10,
+    "weeks_since_join": 9,
+    "active_users": 191,
+    "cohort_size": 9062,
+    "retention_pct": 2.11
+  },
+  {
+    "cohort_week": 10,
+    "weeks_since_join": 10,
+    "active_users": 145,
+    "cohort_size": 9062,
+    "retention_pct": 1.6
+  },
+  {
+    "cohort_week": 10,
+    "weeks_since_join": 11,
+    "active_users": 139,
+    "cohort_size": 9062,
+    "retention_pct": 1.53
+  },
+  {
+    "cohort_week": 10,
+    "weeks_since_join": 12,
+    "active_users": 162,
+    "cohort_size": 9062,
+    "retention_pct": 1.79
+  },
+  {
+    "cohort_week": 11,
+    "weeks_since_join": 0,
+    "active_users": 1013,
+    "cohort_size": 10781,
+    "retention_pct": 9.4
+  },
+  {
+    "cohort_week": 11,
+    "weeks_since_join": 1,
+    "active_users": 1430,
+    "cohort_size": 10781,
+    "retention_pct": 13.26
+  },
+  {
+    "cohort_week": 11,
+    "weeks_since_join": 2,
+    "active_users": 1471,
+    "cohort_size": 10781,
+    "retention_pct": 13.64
+  },
+  {
+    "cohort_week": 11,
+    "weeks_since_join": 3,
+    "active_users": 1529,
+    "cohort_size": 10781,
+    "retention_pct": 14.18
+  },
+  {
+    "cohort_week": 11,
+    "weeks_since_join": 4,
+    "active_users": 628,
+    "cohort_size": 10781,
+    "retention_pct": 5.83
+  },
+  {
+    "cohort_week": 11,
+    "weeks_since_join": 5,
+    "active_users": 514,
+    "cohort_size": 10781,
+    "retention_pct": 4.77
+  },
+  {
+    "cohort_week": 11,
+    "weeks_since_join": 6,
+    "active_users": 423,
+    "cohort_size": 10781,
+    "retention_pct": 3.92
+  },
+  {
+    "cohort_week": 11,
+    "weeks_since_join": 7,
+    "active_users": 328,
+    "cohort_size": 10781,
+    "retention_pct": 3.04
+  },
+  {
+    "cohort_week": 11,
+    "weeks_since_join": 8,
+    "active_users": 236,
+    "cohort_size": 10781,
+    "retention_pct": 2.19
+  },
+  {
+    "cohort_week": 11,
+    "weeks_since_join": 9,
+    "active_users": 193,
+    "cohort_size": 10781,
+    "retention_pct": 1.79
+  },
+  {
+    "cohort_week": 11,
+    "weeks_since_join": 10,
+    "active_users": 156,
+    "cohort_size": 10781,
+    "retention_pct": 1.45
+  },
+  {
+    "cohort_week": 11,
+    "weeks_since_join": 11,
+    "active_users": 229,
+    "cohort_size": 10781,
+    "retention_pct": 2.12
+  },
+  {
+    "cohort_week": 11,
+    "weeks_since_join": 12,
+    "active_users": 345,
+    "cohort_size": 10781,
+    "retention_pct": 3.2
+  },
+  {
+    "cohort_week": 12,
+    "weeks_since_join": 0,
+    "active_users": 1841,
+    "cohort_size": 13125,
+    "retention_pct": 14.03
+  },
+  {
+    "cohort_week": 12,
+    "weeks_since_join": 1,
+    "active_users": 1757,
+    "cohort_size": 13125,
+    "retention_pct": 13.39
+  },
+  {
+    "cohort_week": 12,
+    "weeks_since_join": 2,
+    "active_users": 1810,
+    "cohort_size": 13125,
+    "retention_pct": 13.79
+  },
+  {
+    "cohort_week": 12,
+    "weeks_since_join": 3,
+    "active_users": 756,
+    "cohort_size": 13125,
+    "retention_pct": 5.76
+  },
+  {
+    "cohort_week": 12,
+    "weeks_since_join": 4,
+    "active_users": 601,
+    "cohort_size": 13125,
+    "retention_pct": 4.58
+  },
+  {
+    "cohort_week": 12,
+    "weeks_since_join": 5,
+    "active_users": 517,
+    "cohort_size": 13125,
+    "retention_pct": 3.94
+  },
+  {
+    "cohort_week": 12,
+    "weeks_since_join": 6,
+    "active_users": 365,
+    "cohort_size": 13125,
+    "retention_pct": 2.78
+  },
+  {
+    "cohort_week": 12,
+    "weeks_since_join": 7,
+    "active_users": 313,
+    "cohort_size": 13125,
+    "retention_pct": 2.38
+  },
+  {
+    "cohort_week": 12,
+    "weeks_since_join": 8,
+    "active_users": 239,
+    "cohort_size": 13125,
+    "retention_pct": 1.82
+  },
+  {
+    "cohort_week": 12,
+    "weeks_since_join": 9,
+    "active_users": 238,
+    "cohort_size": 13125,
+    "retention_pct": 1.81
+  },
+  {
+    "cohort_week": 12,
+    "weeks_since_join": 10,
+    "active_users": 297,
+    "cohort_size": 13125,
+    "retention_pct": 2.26
+  },
+  {
+    "cohort_week": 12,
+    "weeks_since_join": 11,
+    "active_users": 448,
+    "cohort_size": 13125,
+    "retention_pct": 3.41
+  },
+  {
+    "cohort_week": 12,
+    "weeks_since_join": 12,
+    "active_users": 1894,
+    "cohort_size": 13125,
+    "retention_pct": 14.43
+  },
+  {
+    "cohort_week": 13,
+    "weeks_since_join": 0,
+    "active_users": 1860,
+    "cohort_size": 14100,
+    "retention_pct": 13.19
+  },
+  {
+    "cohort_week": 13,
+    "weeks_since_join": 1,
+    "active_users": 1984,
+    "cohort_size": 14100,
+    "retention_pct": 14.07
+  },
+  {
+    "cohort_week": 13,
+    "weeks_since_join": 2,
+    "active_users": 813,
+    "cohort_size": 14100,
+    "retention_pct": 5.77
+  },
+  {
+    "cohort_week": 13,
+    "weeks_since_join": 3,
+    "active_users": 624,
+    "cohort_size": 14100,
+    "retention_pct": 4.43
+  },
+  {
+    "cohort_week": 13,
+    "weeks_since_join": 4,
+    "active_users": 571,
+    "cohort_size": 14100,
+    "retention_pct": 4.05
+  },
+  {
+    "cohort_week": 13,
+    "weeks_since_join": 5,
+    "active_users": 448,
+    "cohort_size": 14100,
+    "retention_pct": 3.18
+  },
+  {
+    "cohort_week": 13,
+    "weeks_since_join": 6,
+    "active_users": 357,
+    "cohort_size": 14100,
+    "retention_pct": 2.53
+  },
+  {
+    "cohort_week": 13,
+    "weeks_since_join": 7,
+    "active_users": 247,
+    "cohort_size": 14100,
+    "retention_pct": 1.75
+  },
+  {
+    "cohort_week": 13,
+    "weeks_since_join": 8,
+    "active_users": 260,
+    "cohort_size": 14100,
+    "retention_pct": 1.84
+  },
+  {
+    "cohort_week": 13,
+    "weeks_since_join": 9,
+    "active_users": 277,
+    "cohort_size": 14100,
+    "retention_pct": 1.96
+  },
+  {
+    "cohort_week": 13,
+    "weeks_since_join": 10,
+    "active_users": 428,
+    "cohort_size": 14100,
+    "retention_pct": 3.04
+  },
+  {
+    "cohort_week": 13,
+    "weeks_since_join": 11,
+    "active_users": 1955,
+    "cohort_size": 14100,
+    "retention_pct": 13.87
+  },
+  {
+    "cohort_week": 13,
+    "weeks_since_join": 12,
+    "active_users": 1589,
+    "cohort_size": 14100,
+    "retention_pct": 11.27
+  },
+  {
+    "cohort_week": 14,
+    "weeks_since_join": 0,
+    "active_users": 2055,
+    "cohort_size": 14870,
+    "retention_pct": 13.82
+  },
+  {
+    "cohort_week": 14,
+    "weeks_since_join": 1,
+    "active_users": 846,
+    "cohort_size": 14870,
+    "retention_pct": 5.69
+  },
+  {
+    "cohort_week": 14,
+    "weeks_since_join": 2,
+    "active_users": 737,
+    "cohort_size": 14870,
+    "retention_pct": 4.96
+  },
+  {
+    "cohort_week": 14,
+    "weeks_since_join": 3,
+    "active_users": 616,
+    "cohort_size": 14870,
+    "retention_pct": 4.14
+  },
+  {
+    "cohort_week": 14,
+    "weeks_since_join": 4,
+    "active_users": 444,
+    "cohort_size": 14870,
+    "retention_pct": 2.99
+  },
+  {
+    "cohort_week": 14,
+    "weeks_since_join": 5,
+    "active_users": 314,
+    "cohort_size": 14870,
+    "retention_pct": 2.11
+  },
+  {
+    "cohort_week": 14,
+    "weeks_since_join": 6,
+    "active_users": 265,
+    "cohort_size": 14870,
+    "retention_pct": 1.78
+  },
+  {
+    "cohort_week": 14,
+    "weeks_since_join": 7,
+    "active_users": 244,
+    "cohort_size": 14870,
+    "retention_pct": 1.64
+  },
+  {
+    "cohort_week": 14,
+    "weeks_since_join": 8,
+    "active_users": 311,
+    "cohort_size": 14870,
+    "retention_pct": 2.09
+  },
+  {
+    "cohort_week": 14,
+    "weeks_since_join": 9,
+    "active_users": 450,
+    "cohort_size": 14870,
+    "retention_pct": 3.03
+  },
+  {
+    "cohort_week": 14,
+    "weeks_since_join": 10,
+    "active_users": 2100,
+    "cohort_size": 14870,
+    "retention_pct": 14.12
+  },
+  {
+    "cohort_week": 14,
+    "weeks_since_join": 11,
+    "active_users": 1739,
+    "cohort_size": 14870,
+    "retention_pct": 11.69
+  },
+  {
+    "cohort_week": 14,
+    "weeks_since_join": 12,
+    "active_users": 1496,
+    "cohort_size": 14870,
+    "retention_pct": 10.06
+  },
+  {
+    "cohort_week": 15,
+    "weeks_since_join": 0,
+    "active_users": 378,
+    "cohort_size": 6643,
+    "retention_pct": 5.69
+  },
+  {
+    "cohort_week": 15,
+    "weeks_since_join": 1,
+    "active_users": 294,
+    "cohort_size": 6643,
+    "retention_pct": 4.43
+  },
+  {
+    "cohort_week": 15,
+    "weeks_since_join": 2,
+    "active_users": 274,
+    "cohort_size": 6643,
+    "retention_pct": 4.12
+  },
+  {
+    "cohort_week": 15,
+    "weeks_since_join": 3,
+    "active_users": 187,
+    "cohort_size": 6643,
+    "retention_pct": 2.81
+  },
+  {
+    "cohort_week": 15,
+    "weeks_since_join": 4,
+    "active_users": 126,
+    "cohort_size": 6643,
+    "retention_pct": 1.9
+  },
+  {
+    "cohort_week": 15,
+    "weeks_since_join": 5,
+    "active_users": 116,
+    "cohort_size": 6643,
+    "retention_pct": 1.75
+  },
+  {
+    "cohort_week": 15,
+    "weeks_since_join": 6,
+    "active_users": 127,
+    "cohort_size": 6643,
+    "retention_pct": 1.91
+  },
+  {
+    "cohort_week": 15,
+    "weeks_since_join": 7,
+    "active_users": 145,
+    "cohort_size": 6643,
+    "retention_pct": 2.18
+  },
+  {
+    "cohort_week": 15,
+    "weeks_since_join": 8,
+    "active_users": 221,
+    "cohort_size": 6643,
+    "retention_pct": 3.33
+  },
+  {
+    "cohort_week": 15,
+    "weeks_since_join": 9,
+    "active_users": 963,
+    "cohort_size": 6643,
+    "retention_pct": 14.5
+  },
+  {
+    "cohort_week": 15,
+    "weeks_since_join": 10,
+    "active_users": 799,
+    "cohort_size": 6643,
+    "retention_pct": 12.03
+  },
+  {
+    "cohort_week": 15,
+    "weeks_since_join": 11,
+    "active_users": 656,
+    "cohort_size": 6643,
+    "retention_pct": 9.88
+  },
+  {
+    "cohort_week": 15,
+    "weeks_since_join": 12,
+    "active_users": 556,
+    "cohort_size": 6643,
+    "retention_pct": 8.37
+  },
+  {
+    "cohort_week": 16,
+    "weeks_since_join": 0,
+    "active_users": 223,
+    "cohort_size": 4922,
+    "retention_pct": 4.53
+  },
+  {
+    "cohort_week": 16,
+    "weeks_since_join": 1,
+    "active_users": 191,
+    "cohort_size": 4922,
+    "retention_pct": 3.88
+  },
+  {
+    "cohort_week": 16,
+    "weeks_since_join": 2,
+    "active_users": 130,
+    "cohort_size": 4922,
+    "retention_pct": 2.64
+  },
+  {
+    "cohort_week": 16,
+    "weeks_since_join": 3,
+    "active_users": 112,
+    "cohort_size": 4922,
+    "retention_pct": 2.28
+  },
+  {
+    "cohort_week": 16,
+    "weeks_since_join": 4,
+    "active_users": 92,
+    "cohort_size": 4922,
+    "retention_pct": 1.87
+  },
+  {
+    "cohort_week": 16,
+    "weeks_since_join": 5,
+    "active_users": 72,
+    "cohort_size": 4922,
+    "retention_pct": 1.46
+  },
+  {
+    "cohort_week": 16,
+    "weeks_since_join": 6,
+    "active_users": 101,
+    "cohort_size": 4922,
+    "retention_pct": 2.05
+  },
+  {
+    "cohort_week": 16,
+    "weeks_since_join": 7,
+    "active_users": 149,
+    "cohort_size": 4922,
+    "retention_pct": 3.03
+  },
+  {
+    "cohort_week": 16,
+    "weeks_since_join": 8,
+    "active_users": 731,
+    "cohort_size": 4922,
+    "retention_pct": 14.85
+  },
+  {
+    "cohort_week": 16,
+    "weeks_since_join": 9,
+    "active_users": 514,
+    "cohort_size": 4922,
+    "retention_pct": 10.44
+  },
+  {
+    "cohort_week": 16,
+    "weeks_since_join": 10,
+    "active_users": 452,
+    "cohort_size": 4922,
+    "retention_pct": 9.18
+  },
+  {
+    "cohort_week": 16,
+    "weeks_since_join": 11,
+    "active_users": 406,
+    "cohort_size": 4922,
+    "retention_pct": 8.25
+  },
+  {
+    "cohort_week": 16,
+    "weeks_since_join": 12,
+    "active_users": 379,
+    "cohort_size": 4922,
+    "retention_pct": 7.7
+  },
+  {
+    "cohort_week": 17,
+    "weeks_since_join": 0,
+    "active_users": 215,
+    "cohort_size": 5071,
+    "retention_pct": 4.24
+  },
+  {
+    "cohort_week": 17,
+    "weeks_since_join": 1,
+    "active_users": 138,
+    "cohort_size": 5071,
+    "retention_pct": 2.72
+  },
+  {
+    "cohort_week": 17,
+    "weeks_since_join": 2,
+    "active_users": 135,
+    "cohort_size": 5071,
+    "retention_pct": 2.66
+  },
+  {
+    "cohort_week": 17,
+    "weeks_since_join": 3,
+    "active_users": 99,
+    "cohort_size": 5071,
+    "retention_pct": 1.95
+  },
+  {
+    "cohort_week": 17,
+    "weeks_since_join": 4,
+    "active_users": 92,
+    "cohort_size": 5071,
+    "retention_pct": 1.81
+  },
+  {
+    "cohort_week": 17,
+    "weeks_since_join": 5,
+    "active_users": 93,
+    "cohort_size": 5071,
+    "retention_pct": 1.83
+  },
+  {
+    "cohort_week": 17,
+    "weeks_since_join": 6,
+    "active_users": 159,
+    "cohort_size": 5071,
+    "retention_pct": 3.14
+  },
+  {
+    "cohort_week": 17,
+    "weeks_since_join": 7,
+    "active_users": 716,
+    "cohort_size": 5071,
+    "retention_pct": 14.12
+  },
+  {
+    "cohort_week": 17,
+    "weeks_since_join": 8,
+    "active_users": 590,
+    "cohort_size": 5071,
+    "retention_pct": 11.63
+  },
+  {
+    "cohort_week": 17,
+    "weeks_since_join": 9,
+    "active_users": 459,
+    "cohort_size": 5071,
+    "retention_pct": 9.05
+  },
+  {
+    "cohort_week": 17,
+    "weeks_since_join": 10,
+    "active_users": 431,
+    "cohort_size": 5071,
+    "retention_pct": 8.5
+  },
+  {
+    "cohort_week": 17,
+    "weeks_since_join": 11,
+    "active_users": 403,
+    "cohort_size": 5071,
+    "retention_pct": 7.95
+  },
+  {
+    "cohort_week": 17,
+    "weeks_since_join": 12,
+    "active_users": 377,
+    "cohort_size": 5071,
+    "retention_pct": 7.43
+  },
+  {
+    "cohort_week": 18,
+    "weeks_since_join": 0,
+    "active_users": 115,
+    "cohort_size": 3472,
+    "retention_pct": 3.31
+  },
+  {
+    "cohort_week": 18,
+    "weeks_since_join": 1,
+    "active_users": 86,
+    "cohort_size": 3472,
+    "retention_pct": 2.48
+  },
+  {
+    "cohort_week": 18,
+    "weeks_since_join": 2,
+    "active_users": 57,
+    "cohort_size": 3472,
+    "retention_pct": 1.64
+  },
+  {
+    "cohort_week": 18,
+    "weeks_since_join": 3,
+    "active_users": 57,
+    "cohort_size": 3472,
+    "retention_pct": 1.64
+  },
+  {
+    "cohort_week": 18,
+    "weeks_since_join": 4,
+    "active_users": 75,
+    "cohort_size": 3472,
+    "retention_pct": 2.16
+  },
+  {
+    "cohort_week": 18,
+    "weeks_since_join": 5,
+    "active_users": 106,
+    "cohort_size": 3472,
+    "retention_pct": 3.05
+  },
+  {
+    "cohort_week": 18,
+    "weeks_since_join": 6,
+    "active_users": 495,
+    "cohort_size": 3472,
+    "retention_pct": 14.26
+  },
+  {
+    "cohort_week": 18,
+    "weeks_since_join": 7,
+    "active_users": 420,
+    "cohort_size": 3472,
+    "retention_pct": 12.1
+  },
+  {
+    "cohort_week": 18,
+    "weeks_since_join": 8,
+    "active_users": 330,
+    "cohort_size": 3472,
+    "retention_pct": 9.5
+  },
+  {
+    "cohort_week": 18,
+    "weeks_since_join": 9,
+    "active_users": 305,
+    "cohort_size": 3472,
+    "retention_pct": 8.78
+  },
+  {
+    "cohort_week": 18,
+    "weeks_since_join": 10,
+    "active_users": 293,
+    "cohort_size": 3472,
+    "retention_pct": 8.44
+  },
+  {
+    "cohort_week": 18,
+    "weeks_since_join": 11,
+    "active_users": 259,
+    "cohort_size": 3472,
+    "retention_pct": 7.46
+  },
+  {
+    "cohort_week": 18,
+    "weeks_since_join": 12,
+    "active_users": 229,
+    "cohort_size": 3472,
+    "retention_pct": 6.6
+  },
+  {
+    "cohort_week": 19,
+    "weeks_since_join": 0,
+    "active_users": 57,
+    "cohort_size": 2550,
+    "retention_pct": 2.24
+  },
+  {
+    "cohort_week": 19,
+    "weeks_since_join": 1,
+    "active_users": 42,
+    "cohort_size": 2550,
+    "retention_pct": 1.65
+  },
+  {
+    "cohort_week": 19,
+    "weeks_since_join": 2,
+    "active_users": 44,
+    "cohort_size": 2550,
+    "retention_pct": 1.73
+  },
+  {
+    "cohort_week": 19,
+    "weeks_since_join": 3,
+    "active_users": 53,
+    "cohort_size": 2550,
+    "retention_pct": 2.08
+  },
+  {
+    "cohort_week": 19,
+    "weeks_since_join": 4,
+    "active_users": 69,
+    "cohort_size": 2550,
+    "retention_pct": 2.71
+  },
+  {
+    "cohort_week": 19,
+    "weeks_since_join": 5,
+    "active_users": 378,
+    "cohort_size": 2550,
+    "retention_pct": 14.82
+  },
+  {
+    "cohort_week": 19,
+    "weeks_since_join": 6,
+    "active_users": 268,
+    "cohort_size": 2550,
+    "retention_pct": 10.51
+  },
+  {
+    "cohort_week": 19,
+    "weeks_since_join": 7,
+    "active_users": 233,
+    "cohort_size": 2550,
+    "retention_pct": 9.14
+  },
+  {
+    "cohort_week": 19,
+    "weeks_since_join": 8,
+    "active_users": 217,
+    "cohort_size": 2550,
+    "retention_pct": 8.51
+  },
+  {
+    "cohort_week": 19,
+    "weeks_since_join": 9,
+    "active_users": 195,
+    "cohort_size": 2550,
+    "retention_pct": 7.65
+  },
+  {
+    "cohort_week": 19,
+    "weeks_since_join": 10,
+    "active_users": 192,
+    "cohort_size": 2550,
+    "retention_pct": 7.53
+  },
+  {
+    "cohort_week": 19,
+    "weeks_since_join": 11,
+    "active_users": 177,
+    "cohort_size": 2550,
+    "retention_pct": 6.94
+  },
+  {
+    "cohort_week": 19,
+    "weeks_since_join": 12,
+    "active_users": 208,
+    "cohort_size": 2550,
+    "retention_pct": 8.16
+  },
+  {
+    "cohort_week": 20,
+    "weeks_since_join": 0,
+    "active_users": 27,
+    "cohort_size": 1671,
+    "retention_pct": 1.62
+  },
+  {
+    "cohort_week": 20,
+    "weeks_since_join": 1,
+    "active_users": 29,
+    "cohort_size": 1671,
+    "retention_pct": 1.74
+  },
+  {
+    "cohort_week": 20,
+    "weeks_since_join": 2,
+    "active_users": 32,
+    "cohort_size": 1671,
+    "retention_pct": 1.92
+  },
+  {
+    "cohort_week": 20,
+    "weeks_since_join": 3,
+    "active_users": 40,
+    "cohort_size": 1671,
+    "retention_pct": 2.39
+  },
+  {
+    "cohort_week": 20,
+    "weeks_since_join": 4,
+    "active_users": 274,
+    "cohort_size": 1671,
+    "retention_pct": 16.4
+  },
+  {
+    "cohort_week": 20,
+    "weeks_since_join": 5,
+    "active_users": 190,
+    "cohort_size": 1671,
+    "retention_pct": 11.37
+  },
+  {
+    "cohort_week": 20,
+    "weeks_since_join": 6,
+    "active_users": 154,
+    "cohort_size": 1671,
+    "retention_pct": 9.22
+  },
+  {
+    "cohort_week": 20,
+    "weeks_since_join": 7,
+    "active_users": 145,
+    "cohort_size": 1671,
+    "retention_pct": 8.68
+  },
+  {
+    "cohort_week": 20,
+    "weeks_since_join": 8,
+    "active_users": 130,
+    "cohort_size": 1671,
+    "retention_pct": 7.78
+  },
+  {
+    "cohort_week": 20,
+    "weeks_since_join": 9,
+    "active_users": 125,
+    "cohort_size": 1671,
+    "retention_pct": 7.48
+  },
+  {
+    "cohort_week": 20,
+    "weeks_since_join": 10,
+    "active_users": 129,
+    "cohort_size": 1671,
+    "retention_pct": 7.72
+  },
+  {
+    "cohort_week": 20,
+    "weeks_since_join": 11,
+    "active_users": 139,
+    "cohort_size": 1671,
+    "retention_pct": 8.32
+  },
+  {
+    "cohort_week": 20,
+    "weeks_since_join": 12,
+    "active_users": 34,
+    "cohort_size": 1671,
+    "retention_pct": 2.03
+  },
+  {
+    "cohort_week": 21,
+    "weeks_since_join": 0,
+    "active_users": 34,
+    "cohort_size": 1698,
+    "retention_pct": 2.0
+  },
+  {
+    "cohort_week": 21,
+    "weeks_since_join": 1,
+    "active_users": 42,
+    "cohort_size": 1698,
+    "retention_pct": 2.47
+  },
+  {
+    "cohort_week": 21,
+    "weeks_since_join": 2,
+    "active_users": 43,
+    "cohort_size": 1698,
+    "retention_pct": 2.53
+  },
+  {
+    "cohort_week": 21,
+    "weeks_since_join": 3,
+    "active_users": 242,
+    "cohort_size": 1698,
+    "retention_pct": 14.25
+  },
+  {
+    "cohort_week": 21,
+    "weeks_since_join": 4,
+    "active_users": 211,
+    "cohort_size": 1698,
+    "retention_pct": 12.43
+  },
+  {
+    "cohort_week": 21,
+    "weeks_since_join": 5,
+    "active_users": 160,
+    "cohort_size": 1698,
+    "retention_pct": 9.42
+  },
+  {
+    "cohort_week": 21,
+    "weeks_since_join": 6,
+    "active_users": 151,
+    "cohort_size": 1698,
+    "retention_pct": 8.89
+  },
+  {
+    "cohort_week": 21,
+    "weeks_since_join": 7,
+    "active_users": 153,
+    "cohort_size": 1698,
+    "retention_pct": 9.01
+  },
+  {
+    "cohort_week": 21,
+    "weeks_since_join": 8,
+    "active_users": 118,
+    "cohort_size": 1698,
+    "retention_pct": 6.95
+  },
+  {
+    "cohort_week": 21,
+    "weeks_since_join": 9,
+    "active_users": 125,
+    "cohort_size": 1698,
+    "retention_pct": 7.36
+  },
+  {
+    "cohort_week": 21,
+    "weeks_since_join": 10,
+    "active_users": 132,
+    "cohort_size": 1698,
+    "retention_pct": 7.77
+  },
+  {
+    "cohort_week": 21,
+    "weeks_since_join": 11,
+    "active_users": 43,
+    "cohort_size": 1698,
+    "retention_pct": 2.53
+  },
+  {
+    "cohort_week": 21,
+    "weeks_since_join": 12,
+    "active_users": 36,
+    "cohort_size": 1698,
+    "retention_pct": 2.12
+  },
+  {
+    "cohort_week": 22,
+    "weeks_since_join": 0,
+    "active_users": 42,
+    "cohort_size": 2519,
+    "retention_pct": 1.67
+  },
+  {
+    "cohort_week": 22,
+    "weeks_since_join": 1,
+    "active_users": 86,
+    "cohort_size": 2519,
+    "retention_pct": 3.41
+  },
+  {
+    "cohort_week": 22,
+    "weeks_since_join": 2,
+    "active_users": 347,
+    "cohort_size": 2519,
+    "retention_pct": 13.78
+  },
+  {
+    "cohort_week": 22,
+    "weeks_since_join": 3,
+    "active_users": 289,
+    "cohort_size": 2519,
+    "retention_pct": 11.47
+  },
+  {
+    "cohort_week": 22,
+    "weeks_since_join": 4,
+    "active_users": 245,
+    "cohort_size": 2519,
+    "retention_pct": 9.73
+  },
+  {
+    "cohort_week": 22,
+    "weeks_since_join": 5,
+    "active_users": 227,
+    "cohort_size": 2519,
+    "retention_pct": 9.01
+  },
+  {
+    "cohort_week": 22,
+    "weeks_since_join": 6,
+    "active_users": 209,
+    "cohort_size": 2519,
+    "retention_pct": 8.3
+  },
+  {
+    "cohort_week": 22,
+    "weeks_since_join": 7,
+    "active_users": 179,
+    "cohort_size": 2519,
+    "retention_pct": 7.11
+  },
+  {
+    "cohort_week": 22,
+    "weeks_since_join": 8,
+    "active_users": 186,
+    "cohort_size": 2519,
+    "retention_pct": 7.38
+  },
+  {
+    "cohort_week": 22,
+    "weeks_since_join": 9,
+    "active_users": 174,
+    "cohort_size": 2519,
+    "retention_pct": 6.91
+  },
+  {
+    "cohort_week": 22,
+    "weeks_since_join": 10,
+    "active_users": 76,
+    "cohort_size": 2519,
+    "retention_pct": 3.02
+  },
+  {
+    "cohort_week": 22,
+    "weeks_since_join": 11,
+    "active_users": 58,
+    "cohort_size": 2519,
+    "retention_pct": 2.3
+  },
+  {
+    "cohort_week": 22,
+    "weeks_since_join": 12,
+    "active_users": 208,
+    "cohort_size": 2519,
+    "retention_pct": 8.26
+  },
+  {
+    "cohort_week": 23,
+    "weeks_since_join": 0,
+    "active_users": 137,
+    "cohort_size": 4086,
+    "retention_pct": 3.35
+  },
+  {
+    "cohort_week": 23,
+    "weeks_since_join": 1,
+    "active_users": 577,
+    "cohort_size": 4086,
+    "retention_pct": 14.12
+  },
+  {
+    "cohort_week": 23,
+    "weeks_since_join": 2,
+    "active_users": 453,
+    "cohort_size": 4086,
+    "retention_pct": 11.09
+  },
+  {
+    "cohort_week": 23,
+    "weeks_since_join": 3,
+    "active_users": 371,
+    "cohort_size": 4086,
+    "retention_pct": 9.08
+  },
+  {
+    "cohort_week": 23,
+    "weeks_since_join": 4,
+    "active_users": 348,
+    "cohort_size": 4086,
+    "retention_pct": 8.52
+  },
+  {
+    "cohort_week": 23,
+    "weeks_since_join": 5,
+    "active_users": 346,
+    "cohort_size": 4086,
+    "retention_pct": 8.47
+  },
+  {
+    "cohort_week": 23,
+    "weeks_since_join": 6,
+    "active_users": 302,
+    "cohort_size": 4086,
+    "retention_pct": 7.39
+  },
+  {
+    "cohort_week": 23,
+    "weeks_since_join": 7,
+    "active_users": 322,
+    "cohort_size": 4086,
+    "retention_pct": 7.88
+  },
+  {
+    "cohort_week": 23,
+    "weeks_since_join": 8,
+    "active_users": 312,
+    "cohort_size": 4086,
+    "retention_pct": 7.64
+  },
+  {
+    "cohort_week": 23,
+    "weeks_since_join": 9,
+    "active_users": 115,
+    "cohort_size": 4086,
+    "retention_pct": 2.81
+  },
+  {
+    "cohort_week": 23,
+    "weeks_since_join": 10,
+    "active_users": 79,
+    "cohort_size": 4086,
+    "retention_pct": 1.93
+  },
+  {
+    "cohort_week": 23,
+    "weeks_since_join": 11,
+    "active_users": 327,
+    "cohort_size": 4086,
+    "retention_pct": 8.0
+  },
+  {
+    "cohort_week": 23,
+    "weeks_since_join": 12,
+    "active_users": 300,
+    "cohort_size": 4086,
+    "retention_pct": 7.34
+  },
+  {
+    "cohort_week": 24,
+    "weeks_since_join": 0,
+    "active_users": 4668,
+    "cohort_size": 33303,
+    "retention_pct": 14.02
+  },
+  {
+    "cohort_week": 24,
+    "weeks_since_join": 1,
+    "active_users": 3795,
+    "cohort_size": 33303,
+    "retention_pct": 11.4
+  },
+  {
+    "cohort_week": 24,
+    "weeks_since_join": 2,
+    "active_users": 3179,
+    "cohort_size": 33303,
+    "retention_pct": 9.55
+  },
+  {
+    "cohort_week": 24,
+    "weeks_since_join": 3,
+    "active_users": 2861,
+    "cohort_size": 33303,
+    "retention_pct": 8.59
+  },
+  {
+    "cohort_week": 24,
+    "weeks_since_join": 4,
+    "active_users": 2665,
+    "cohort_size": 33303,
+    "retention_pct": 8.0
+  },
+  {
+    "cohort_week": 24,
+    "weeks_since_join": 5,
+    "active_users": 2485,
+    "cohort_size": 33303,
+    "retention_pct": 7.46
+  },
+  {
+    "cohort_week": 24,
+    "weeks_since_join": 6,
+    "active_users": 2406,
+    "cohort_size": 33303,
+    "retention_pct": 7.22
+  },
+  {
+    "cohort_week": 24,
+    "weeks_since_join": 7,
+    "active_users": 2525,
+    "cohort_size": 33303,
+    "retention_pct": 7.58
+  },
+  {
+    "cohort_week": 24,
+    "weeks_since_join": 8,
+    "active_users": 830,
+    "cohort_size": 33303,
+    "retention_pct": 2.49
+  },
+  {
+    "cohort_week": 24,
+    "weeks_since_join": 9,
+    "active_users": 709,
+    "cohort_size": 33303,
+    "retention_pct": 2.13
+  },
+  {
+    "cohort_week": 24,
+    "weeks_since_join": 10,
+    "active_users": 2528,
+    "cohort_size": 33303,
+    "retention_pct": 7.59
+  },
+  {
+    "cohort_week": 24,
+    "weeks_since_join": 11,
+    "active_users": 2556,
+    "cohort_size": 33303,
+    "retention_pct": 7.67
+  },
+  {
+    "cohort_week": 24,
+    "weeks_since_join": 12,
+    "active_users": 2302,
+    "cohort_size": 33303,
+    "retention_pct": 6.91
+  },
+  {
+    "cohort_week": 25,
+    "weeks_since_join": 0,
+    "active_users": 2989,
+    "cohort_size": 26310,
+    "retention_pct": 11.36
+  },
+  {
+    "cohort_week": 25,
+    "weeks_since_join": 1,
+    "active_users": 2628,
+    "cohort_size": 26310,
+    "retention_pct": 9.99
+  },
+  {
+    "cohort_week": 25,
+    "weeks_since_join": 2,
+    "active_users": 2238,
+    "cohort_size": 26310,
+    "retention_pct": 8.51
+  },
+  {
+    "cohort_week": 25,
+    "weeks_since_join": 3,
+    "active_users": 2112,
+    "cohort_size": 26310,
+    "retention_pct": 8.03
+  },
+  {
+    "cohort_week": 25,
+    "weeks_since_join": 4,
+    "active_users": 1857,
+    "cohort_size": 26310,
+    "retention_pct": 7.06
+  },
+  {
+    "cohort_week": 25,
+    "weeks_since_join": 5,
+    "active_users": 1905,
+    "cohort_size": 26310,
+    "retention_pct": 7.24
+  },
+  {
+    "cohort_week": 25,
+    "weeks_since_join": 6,
+    "active_users": 2024,
+    "cohort_size": 26310,
+    "retention_pct": 7.69
+  },
+  {
+    "cohort_week": 25,
+    "weeks_since_join": 7,
+    "active_users": 654,
+    "cohort_size": 26310,
+    "retention_pct": 2.49
+  },
+  {
+    "cohort_week": 25,
+    "weeks_since_join": 8,
+    "active_users": 566,
+    "cohort_size": 26310,
+    "retention_pct": 2.15
+  },
+  {
+    "cohort_week": 25,
+    "weeks_since_join": 9,
+    "active_users": 2015,
+    "cohort_size": 26310,
+    "retention_pct": 7.66
+  },
+  {
+    "cohort_week": 25,
+    "weeks_since_join": 10,
+    "active_users": 1923,
+    "cohort_size": 26310,
+    "retention_pct": 7.31
+  },
+  {
+    "cohort_week": 25,
+    "weeks_since_join": 11,
+    "active_users": 1820,
+    "cohort_size": 26310,
+    "retention_pct": 6.92
+  },
+  {
+    "cohort_week": 25,
+    "weeks_since_join": 12,
+    "active_users": 1778,
+    "cohort_size": 26310,
+    "retention_pct": 6.76
+  },
+  {
+    "cohort_week": 26,
+    "weeks_since_join": 0,
+    "active_users": 1976,
+    "cohort_size": 19899,
+    "retention_pct": 9.93
+  },
+  {
+    "cohort_week": 26,
+    "weeks_since_join": 1,
+    "active_users": 1770,
+    "cohort_size": 19899,
+    "retention_pct": 8.89
+  },
+  {
+    "cohort_week": 26,
+    "weeks_since_join": 2,
+    "active_users": 1625,
+    "cohort_size": 19899,
+    "retention_pct": 8.17
+  },
+  {
+    "cohort_week": 26,
+    "weeks_since_join": 3,
+    "active_users": 1474,
+    "cohort_size": 19899,
+    "retention_pct": 7.41
+  },
+  {
+    "cohort_week": 26,
+    "weeks_since_join": 4,
+    "active_users": 1475,
+    "cohort_size": 19899,
+    "retention_pct": 7.41
+  },
+  {
+    "cohort_week": 26,
+    "weeks_since_join": 5,
+    "active_users": 1551,
+    "cohort_size": 19899,
+    "retention_pct": 7.79
+  },
+  {
+    "cohort_week": 26,
+    "weeks_since_join": 6,
+    "active_users": 531,
+    "cohort_size": 19899,
+    "retention_pct": 2.67
+  },
+  {
+    "cohort_week": 26,
+    "weeks_since_join": 7,
+    "active_users": 451,
+    "cohort_size": 19899,
+    "retention_pct": 2.27
+  },
+  {
+    "cohort_week": 26,
+    "weeks_since_join": 8,
+    "active_users": 1526,
+    "cohort_size": 19899,
+    "retention_pct": 7.67
+  },
+  {
+    "cohort_week": 26,
+    "weeks_since_join": 9,
+    "active_users": 1446,
+    "cohort_size": 19899,
+    "retention_pct": 7.27
+  },
+  {
+    "cohort_week": 26,
+    "weeks_since_join": 10,
+    "active_users": 1371,
+    "cohort_size": 19899,
+    "retention_pct": 6.89
+  },
+  {
+    "cohort_week": 26,
+    "weeks_since_join": 11,
+    "active_users": 1296,
+    "cohort_size": 19899,
+    "retention_pct": 6.51
+  },
+  {
+    "cohort_week": 26,
+    "weeks_since_join": 12,
+    "active_users": 1073,
+    "cohort_size": 19899,
+    "retention_pct": 5.39
+  },
+  {
+    "cohort_week": 27,
+    "weeks_since_join": 0,
+    "active_users": 1402,
+    "cohort_size": 16484,
+    "retention_pct": 8.51
+  },
+  {
+    "cohort_week": 27,
+    "weeks_since_join": 1,
+    "active_users": 1359,
+    "cohort_size": 16484,
+    "retention_pct": 8.24
+  },
+  {
+    "cohort_week": 27,
+    "weeks_since_join": 2,
+    "active_users": 1126,
+    "cohort_size": 16484,
+    "retention_pct": 6.83
+  },
+  {
+    "cohort_week": 27,
+    "weeks_since_join": 3,
+    "active_users": 1172,
+    "cohort_size": 16484,
+    "retention_pct": 7.11
+  },
+  {
+    "cohort_week": 27,
+    "weeks_since_join": 4,
+    "active_users": 1305,
+    "cohort_size": 16484,
+    "retention_pct": 7.92
+  },
+  {
+    "cohort_week": 27,
+    "weeks_since_join": 5,
+    "active_users": 437,
+    "cohort_size": 16484,
+    "retention_pct": 2.65
+  },
+  {
+    "cohort_week": 27,
+    "weeks_since_join": 6,
+    "active_users": 343,
+    "cohort_size": 16484,
+    "retention_pct": 2.08
+  },
+  {
+    "cohort_week": 27,
+    "weeks_since_join": 7,
+    "active_users": 1214,
+    "cohort_size": 16484,
+    "retention_pct": 7.36
+  },
+  {
+    "cohort_week": 27,
+    "weeks_since_join": 8,
+    "active_users": 1234,
+    "cohort_size": 16484,
+    "retention_pct": 7.49
+  },
+  {
+    "cohort_week": 27,
+    "weeks_since_join": 9,
+    "active_users": 1115,
+    "cohort_size": 16484,
+    "retention_pct": 6.76
+  },
+  {
+    "cohort_week": 27,
+    "weeks_since_join": 10,
+    "active_users": 1128,
+    "cohort_size": 16484,
+    "retention_pct": 6.84
+  },
+  {
+    "cohort_week": 27,
+    "weeks_since_join": 11,
+    "active_users": 899,
+    "cohort_size": 16484,
+    "retention_pct": 5.45
+  },
+  {
+    "cohort_week": 27,
+    "weeks_since_join": 12,
+    "active_users": 728,
+    "cohort_size": 16484,
+    "retention_pct": 4.42
+  },
+  {
+    "cohort_week": 28,
+    "weeks_since_join": 0,
+    "active_users": 1180,
+    "cohort_size": 14762,
+    "retention_pct": 7.99
+  },
+  {
+    "cohort_week": 28,
+    "weeks_since_join": 1,
+    "active_users": 1081,
+    "cohort_size": 14762,
+    "retention_pct": 7.32
+  },
+  {
+    "cohort_week": 28,
+    "weeks_since_join": 2,
+    "active_users": 1044,
+    "cohort_size": 14762,
+    "retention_pct": 7.07
+  },
+  {
+    "cohort_week": 28,
+    "weeks_since_join": 3,
+    "active_users": 1197,
+    "cohort_size": 14762,
+    "retention_pct": 8.11
+  },
+  {
+    "cohort_week": 28,
+    "weeks_since_join": 4,
+    "active_users": 397,
+    "cohort_size": 14762,
+    "retention_pct": 2.69
+  },
+  {
+    "cohort_week": 28,
+    "weeks_since_join": 5,
+    "active_users": 313,
+    "cohort_size": 14762,
+    "retention_pct": 2.12
+  },
+  {
+    "cohort_week": 28,
+    "weeks_since_join": 6,
+    "active_users": 1108,
+    "cohort_size": 14762,
+    "retention_pct": 7.51
+  },
+  {
+    "cohort_week": 28,
+    "weeks_since_join": 7,
+    "active_users": 1167,
+    "cohort_size": 14762,
+    "retention_pct": 7.91
+  },
+  {
+    "cohort_week": 28,
+    "weeks_since_join": 8,
+    "active_users": 1010,
+    "cohort_size": 14762,
+    "retention_pct": 6.84
+  },
+  {
+    "cohort_week": 28,
+    "weeks_since_join": 9,
+    "active_users": 986,
+    "cohort_size": 14762,
+    "retention_pct": 6.68
+  },
+  {
+    "cohort_week": 28,
+    "weeks_since_join": 10,
+    "active_users": 755,
+    "cohort_size": 14762,
+    "retention_pct": 5.11
+  },
+  {
+    "cohort_week": 28,
+    "weeks_since_join": 11,
+    "active_users": 630,
+    "cohort_size": 14762,
+    "retention_pct": 4.27
+  },
+  {
+    "cohort_week": 28,
+    "weeks_since_join": 12,
+    "active_users": 544,
+    "cohort_size": 14762,
+    "retention_pct": 3.69
+  },
+  {
+    "cohort_week": 29,
+    "weeks_since_join": 0,
+    "active_users": 1084,
+    "cohort_size": 13969,
+    "retention_pct": 7.76
+  },
+  {
+    "cohort_week": 29,
+    "weeks_since_join": 1,
+    "active_users": 984,
+    "cohort_size": 13969,
+    "retention_pct": 7.04
+  },
+  {
+    "cohort_week": 29,
+    "weeks_since_join": 2,
+    "active_users": 1030,
+    "cohort_size": 13969,
+    "retention_pct": 7.37
+  },
+  {
+    "cohort_week": 29,
+    "weeks_since_join": 3,
+    "active_users": 331,
+    "cohort_size": 13969,
+    "retention_pct": 2.37
+  },
+  {
+    "cohort_week": 29,
+    "weeks_since_join": 4,
+    "active_users": 354,
+    "cohort_size": 13969,
+    "retention_pct": 2.53
+  },
+  {
+    "cohort_week": 29,
+    "weeks_since_join": 5,
+    "active_users": 1053,
+    "cohort_size": 13969,
+    "retention_pct": 7.54
+  },
+  {
+    "cohort_week": 29,
+    "weeks_since_join": 6,
+    "active_users": 1024,
+    "cohort_size": 13969,
+    "retention_pct": 7.33
+  },
+  {
+    "cohort_week": 29,
+    "weeks_since_join": 7,
+    "active_users": 924,
+    "cohort_size": 13969,
+    "retention_pct": 6.61
+  },
+  {
+    "cohort_week": 29,
+    "weeks_since_join": 8,
+    "active_users": 953,
+    "cohort_size": 13969,
+    "retention_pct": 6.82
+  },
+  {
+    "cohort_week": 29,
+    "weeks_since_join": 9,
+    "active_users": 748,
+    "cohort_size": 13969,
+    "retention_pct": 5.35
+  },
+  {
+    "cohort_week": 29,
+    "weeks_since_join": 10,
+    "active_users": 572,
+    "cohort_size": 13969,
+    "retention_pct": 4.09
+  },
+  {
+    "cohort_week": 29,
+    "weeks_since_join": 11,
+    "active_users": 505,
+    "cohort_size": 13969,
+    "retention_pct": 3.62
+  },
+  {
+    "cohort_week": 29,
+    "weeks_since_join": 12,
+    "active_users": 383,
+    "cohort_size": 13969,
+    "retention_pct": 2.74
+  },
+  {
+    "cohort_week": 30,
+    "weeks_since_join": 0,
+    "active_users": 973,
+    "cohort_size": 13790,
+    "retention_pct": 7.06
+  },
+  {
+    "cohort_week": 30,
+    "weeks_since_join": 1,
+    "active_users": 1067,
+    "cohort_size": 13790,
+    "retention_pct": 7.74
+  },
+  {
+    "cohort_week": 30,
+    "weeks_since_join": 2,
+    "active_users": 381,
+    "cohort_size": 13790,
+    "retention_pct": 2.76
+  },
+  {
+    "cohort_week": 30,
+    "weeks_since_join": 3,
+    "active_users": 302,
+    "cohort_size": 13790,
+    "retention_pct": 2.19
+  },
+  {
+    "cohort_week": 30,
+    "weeks_since_join": 4,
+    "active_users": 1100,
+    "cohort_size": 13790,
+    "retention_pct": 7.98
+  },
+  {
+    "cohort_week": 30,
+    "weeks_since_join": 5,
+    "active_users": 1014,
+    "cohort_size": 13790,
+    "retention_pct": 7.35
+  },
+  {
+    "cohort_week": 30,
+    "weeks_since_join": 6,
+    "active_users": 992,
+    "cohort_size": 13790,
+    "retention_pct": 7.19
+  },
+  {
+    "cohort_week": 30,
+    "weeks_since_join": 7,
+    "active_users": 926,
+    "cohort_size": 13790,
+    "retention_pct": 6.72
+  },
+  {
+    "cohort_week": 30,
+    "weeks_since_join": 8,
+    "active_users": 693,
+    "cohort_size": 13790,
+    "retention_pct": 5.03
+  },
+  {
+    "cohort_week": 30,
+    "weeks_since_join": 9,
+    "active_users": 624,
+    "cohort_size": 13790,
+    "retention_pct": 4.53
+  },
+  {
+    "cohort_week": 30,
+    "weeks_since_join": 10,
+    "active_users": 518,
+    "cohort_size": 13790,
+    "retention_pct": 3.76
+  },
+  {
+    "cohort_week": 30,
+    "weeks_since_join": 11,
+    "active_users": 381,
+    "cohort_size": 13790,
+    "retention_pct": 2.76
+  },
+  {
+    "cohort_week": 30,
+    "weeks_since_join": 12,
+    "active_users": 261,
+    "cohort_size": 13790,
+    "retention_pct": 1.89
+  },
+  {
+    "cohort_week": 31,
+    "weeks_since_join": 0,
+    "active_users": 980,
+    "cohort_size": 13064,
+    "retention_pct": 7.5
+  },
+  {
+    "cohort_week": 31,
+    "weeks_since_join": 1,
+    "active_users": 331,
+    "cohort_size": 13064,
+    "retention_pct": 2.53
+  },
+  {
+    "cohort_week": 31,
+    "weeks_since_join": 2,
+    "active_users": 288,
+    "cohort_size": 13064,
+    "retention_pct": 2.2
+  },
+  {
+    "cohort_week": 31,
+    "weeks_since_join": 3,
+    "active_users": 977,
+    "cohort_size": 13064,
+    "retention_pct": 7.48
+  },
+  {
+    "cohort_week": 31,
+    "weeks_since_join": 4,
+    "active_users": 983,
+    "cohort_size": 13064,
+    "retention_pct": 7.52
+  },
+  {
+    "cohort_week": 31,
+    "weeks_since_join": 5,
+    "active_users": 897,
+    "cohort_size": 13064,
+    "retention_pct": 6.87
+  },
+  {
+    "cohort_week": 31,
+    "weeks_since_join": 6,
+    "active_users": 854,
+    "cohort_size": 13064,
+    "retention_pct": 6.54
+  },
+  {
+    "cohort_week": 31,
+    "weeks_since_join": 7,
+    "active_users": 661,
+    "cohort_size": 13064,
+    "retention_pct": 5.06
+  },
+  {
+    "cohort_week": 31,
+    "weeks_since_join": 8,
+    "active_users": 580,
+    "cohort_size": 13064,
+    "retention_pct": 4.44
+  },
+  {
+    "cohort_week": 31,
+    "weeks_since_join": 9,
+    "active_users": 472,
+    "cohort_size": 13064,
+    "retention_pct": 3.61
+  },
+  {
+    "cohort_week": 31,
+    "weeks_since_join": 10,
+    "active_users": 393,
+    "cohort_size": 13064,
+    "retention_pct": 3.01
+  },
+  {
+    "cohort_week": 31,
+    "weeks_since_join": 11,
+    "active_users": 225,
+    "cohort_size": 13064,
+    "retention_pct": 1.72
+  },
+  {
+    "cohort_week": 31,
+    "weeks_since_join": 12,
+    "active_users": 193,
+    "cohort_size": 13064,
+    "retention_pct": 1.48
+  },
+  {
+    "cohort_week": 32,
+    "weeks_since_join": 0,
+    "active_users": 143,
+    "cohort_size": 4920,
+    "retention_pct": 2.91
+  },
+  {
+    "cohort_week": 32,
+    "weeks_since_join": 1,
+    "active_users": 89,
+    "cohort_size": 4920,
+    "retention_pct": 1.81
+  },
+  {
+    "cohort_week": 32,
+    "weeks_since_join": 2,
+    "active_users": 355,
+    "cohort_size": 4920,
+    "retention_pct": 7.22
+  },
+  {
+    "cohort_week": 32,
+    "weeks_since_join": 3,
+    "active_users": 366,
+    "cohort_size": 4920,
+    "retention_pct": 7.44
+  },
+  {
+    "cohort_week": 32,
+    "weeks_since_join": 4,
+    "active_users": 331,
+    "cohort_size": 4920,
+    "retention_pct": 6.73
+  },
+  {
+    "cohort_week": 32,
+    "weeks_since_join": 5,
+    "active_users": 337,
+    "cohort_size": 4920,
+    "retention_pct": 6.85
+  },
+  {
+    "cohort_week": 32,
+    "weeks_since_join": 6,
+    "active_users": 242,
+    "cohort_size": 4920,
+    "retention_pct": 4.92
+  },
+  {
+    "cohort_week": 32,
+    "weeks_since_join": 7,
+    "active_users": 214,
+    "cohort_size": 4920,
+    "retention_pct": 4.35
+  },
+  {
+    "cohort_week": 32,
+    "weeks_since_join": 8,
+    "active_users": 186,
+    "cohort_size": 4920,
+    "retention_pct": 3.78
+  },
+  {
+    "cohort_week": 32,
+    "weeks_since_join": 9,
+    "active_users": 139,
+    "cohort_size": 4920,
+    "retention_pct": 2.83
+  },
+  {
+    "cohort_week": 32,
+    "weeks_since_join": 10,
+    "active_users": 89,
+    "cohort_size": 4920,
+    "retention_pct": 1.81
+  },
+  {
+    "cohort_week": 32,
+    "weeks_since_join": 11,
+    "active_users": 73,
+    "cohort_size": 4920,
+    "retention_pct": 1.48
+  },
+  {
+    "cohort_week": 32,
+    "weeks_since_join": 12,
+    "active_users": 432,
+    "cohort_size": 4920,
+    "retention_pct": 8.78
+  },
+  {
+    "cohort_week": 33,
+    "weeks_since_join": 0,
+    "active_users": 91,
+    "cohort_size": 4023,
+    "retention_pct": 2.26
+  },
+  {
+    "cohort_week": 33,
+    "weeks_since_join": 1,
+    "active_users": 304,
+    "cohort_size": 4023,
+    "retention_pct": 7.56
+  },
+  {
+    "cohort_week": 33,
+    "weeks_since_join": 2,
+    "active_users": 324,
+    "cohort_size": 4023,
+    "retention_pct": 8.05
+  },
+  {
+    "cohort_week": 33,
+    "weeks_since_join": 3,
+    "active_users": 315,
+    "cohort_size": 4023,
+    "retention_pct": 7.83
+  },
+  {
+    "cohort_week": 33,
+    "weeks_since_join": 4,
+    "active_users": 250,
+    "cohort_size": 4023,
+    "retention_pct": 6.21
+  },
+  {
+    "cohort_week": 33,
+    "weeks_since_join": 5,
+    "active_users": 196,
+    "cohort_size": 4023,
+    "retention_pct": 4.87
+  },
+  {
+    "cohort_week": 33,
+    "weeks_since_join": 6,
+    "active_users": 171,
+    "cohort_size": 4023,
+    "retention_pct": 4.25
+  },
+  {
+    "cohort_week": 33,
+    "weeks_since_join": 7,
+    "active_users": 139,
+    "cohort_size": 4023,
+    "retention_pct": 3.46
+  },
+  {
+    "cohort_week": 33,
+    "weeks_since_join": 8,
+    "active_users": 117,
+    "cohort_size": 4023,
+    "retention_pct": 2.91
+  },
+  {
+    "cohort_week": 33,
+    "weeks_since_join": 9,
+    "active_users": 73,
+    "cohort_size": 4023,
+    "retention_pct": 1.81
+  },
+  {
+    "cohort_week": 33,
+    "weeks_since_join": 10,
+    "active_users": 73,
+    "cohort_size": 4023,
+    "retention_pct": 1.81
+  },
+  {
+    "cohort_week": 33,
+    "weeks_since_join": 11,
+    "active_users": 374,
+    "cohort_size": 4023,
+    "retention_pct": 9.3
+  },
+  {
+    "cohort_week": 33,
+    "weeks_since_join": 12,
+    "active_users": 372,
+    "cohort_size": 4023,
+    "retention_pct": 9.25
+  },
+  {
+    "cohort_week": 34,
+    "weeks_since_join": 0,
+    "active_users": 1137,
+    "cohort_size": 14865,
+    "retention_pct": 7.65
+  },
+  {
+    "cohort_week": 34,
+    "weeks_since_join": 1,
+    "active_users": 1137,
+    "cohort_size": 14865,
+    "retention_pct": 7.65
+  },
+  {
+    "cohort_week": 34,
+    "weeks_since_join": 2,
+    "active_users": 1016,
+    "cohort_size": 14865,
+    "retention_pct": 6.83
+  },
+  {
+    "cohort_week": 34,
+    "weeks_since_join": 3,
+    "active_users": 952,
+    "cohort_size": 14865,
+    "retention_pct": 6.4
+  },
+  {
+    "cohort_week": 34,
+    "weeks_since_join": 4,
+    "active_users": 763,
+    "cohort_size": 14865,
+    "retention_pct": 5.13
+  },
+  {
+    "cohort_week": 34,
+    "weeks_since_join": 5,
+    "active_users": 647,
+    "cohort_size": 14865,
+    "retention_pct": 4.35
+  },
+  {
+    "cohort_week": 34,
+    "weeks_since_join": 6,
+    "active_users": 556,
+    "cohort_size": 14865,
+    "retention_pct": 3.74
+  },
+  {
+    "cohort_week": 34,
+    "weeks_since_join": 7,
+    "active_users": 441,
+    "cohort_size": 14865,
+    "retention_pct": 2.97
+  },
+  {
+    "cohort_week": 34,
+    "weeks_since_join": 8,
+    "active_users": 250,
+    "cohort_size": 14865,
+    "retention_pct": 1.68
+  },
+  {
+    "cohort_week": 34,
+    "weeks_since_join": 9,
+    "active_users": 219,
+    "cohort_size": 14865,
+    "retention_pct": 1.47
+  },
+  {
+    "cohort_week": 34,
+    "weeks_since_join": 10,
+    "active_users": 1329,
+    "cohort_size": 14865,
+    "retention_pct": 8.94
+  },
+  {
+    "cohort_week": 34,
+    "weeks_since_join": 11,
+    "active_users": 1453,
+    "cohort_size": 14865,
+    "retention_pct": 9.77
+  },
+  {
+    "cohort_week": 34,
+    "weeks_since_join": 12,
+    "active_users": 1067,
+    "cohort_size": 14865,
+    "retention_pct": 7.18
+  },
+  {
+    "cohort_week": 35,
+    "weeks_since_join": 0,
+    "active_users": 1042,
+    "cohort_size": 13997,
+    "retention_pct": 7.44
+  },
+  {
+    "cohort_week": 35,
+    "weeks_since_join": 1,
+    "active_users": 1008,
+    "cohort_size": 13997,
+    "retention_pct": 7.2
+  },
+  {
+    "cohort_week": 35,
+    "weeks_since_join": 2,
+    "active_users": 986,
+    "cohort_size": 13997,
+    "retention_pct": 7.04
+  },
+  {
+    "cohort_week": 35,
+    "weeks_since_join": 3,
+    "active_users": 695,
+    "cohort_size": 13997,
+    "retention_pct": 4.97
+  },
+  {
+    "cohort_week": 35,
+    "weeks_since_join": 4,
+    "active_users": 582,
+    "cohort_size": 13997,
+    "retention_pct": 4.16
+  },
+  {
+    "cohort_week": 35,
+    "weeks_since_join": 5,
+    "active_users": 537,
+    "cohort_size": 13997,
+    "retention_pct": 3.84
+  },
+  {
+    "cohort_week": 35,
+    "weeks_since_join": 6,
+    "active_users": 380,
+    "cohort_size": 13997,
+    "retention_pct": 2.71
+  },
+  {
+    "cohort_week": 35,
+    "weeks_since_join": 7,
+    "active_users": 200,
+    "cohort_size": 13997,
+    "retention_pct": 1.43
+  },
+  {
+    "cohort_week": 35,
+    "weeks_since_join": 8,
+    "active_users": 221,
+    "cohort_size": 13997,
+    "retention_pct": 1.58
+  },
+  {
+    "cohort_week": 35,
+    "weeks_since_join": 9,
+    "active_users": 1200,
+    "cohort_size": 13997,
+    "retention_pct": 8.57
+  },
+  {
+    "cohort_week": 35,
+    "weeks_since_join": 10,
+    "active_users": 1344,
+    "cohort_size": 13997,
+    "retention_pct": 9.6
+  },
+  {
+    "cohort_week": 35,
+    "weeks_since_join": 11,
+    "active_users": 993,
+    "cohort_size": 13997,
+    "retention_pct": 7.09
+  },
+  {
+    "cohort_week": 35,
+    "weeks_since_join": 12,
+    "active_users": 350,
+    "cohort_size": 13997,
+    "retention_pct": 2.5
+  },
+  {
+    "cohort_week": 36,
+    "weeks_since_join": 0,
+    "active_users": 894,
+    "cohort_size": 13207,
+    "retention_pct": 6.77
+  },
+  {
+    "cohort_week": 36,
+    "weeks_since_join": 1,
+    "active_users": 885,
+    "cohort_size": 13207,
+    "retention_pct": 6.7
+  },
+  {
+    "cohort_week": 36,
+    "weeks_since_join": 2,
+    "active_users": 660,
+    "cohort_size": 13207,
+    "retention_pct": 5.0
+  },
+  {
+    "cohort_week": 36,
+    "weeks_since_join": 3,
+    "active_users": 549,
+    "cohort_size": 13207,
+    "retention_pct": 4.16
+  },
+  {
+    "cohort_week": 36,
+    "weeks_since_join": 4,
+    "active_users": 477,
+    "cohort_size": 13207,
+    "retention_pct": 3.61
+  },
+  {
+    "cohort_week": 36,
+    "weeks_since_join": 5,
+    "active_users": 394,
+    "cohort_size": 13207,
+    "retention_pct": 2.98
+  },
+  {
+    "cohort_week": 36,
+    "weeks_since_join": 6,
+    "active_users": 232,
+    "cohort_size": 13207,
+    "retention_pct": 1.76
+  },
+  {
+    "cohort_week": 36,
+    "weeks_since_join": 7,
+    "active_users": 200,
+    "cohort_size": 13207,
+    "retention_pct": 1.51
+  },
+  {
+    "cohort_week": 36,
+    "weeks_since_join": 8,
+    "active_users": 1196,
+    "cohort_size": 13207,
+    "retention_pct": 9.06
+  },
+  {
+    "cohort_week": 36,
+    "weeks_since_join": 9,
+    "active_users": 1267,
+    "cohort_size": 13207,
+    "retention_pct": 9.59
+  },
+  {
+    "cohort_week": 36,
+    "weeks_since_join": 10,
+    "active_users": 940,
+    "cohort_size": 13207,
+    "retention_pct": 7.12
+  },
+  {
+    "cohort_week": 36,
+    "weeks_since_join": 11,
+    "active_users": 324,
+    "cohort_size": 13207,
+    "retention_pct": 2.45
+  },
+  {
+    "cohort_week": 36,
+    "weeks_since_join": 12,
+    "active_users": 300,
+    "cohort_size": 13207,
+    "retention_pct": 2.27
+  },
+  {
+    "cohort_week": 37,
+    "weeks_since_join": 0,
+    "active_users": 822,
+    "cohort_size": 12449,
+    "retention_pct": 6.6
+  },
+  {
+    "cohort_week": 37,
+    "weeks_since_join": 1,
+    "active_users": 629,
+    "cohort_size": 12449,
+    "retention_pct": 5.05
+  },
+  {
+    "cohort_week": 37,
+    "weeks_since_join": 2,
+    "active_users": 518,
+    "cohort_size": 12449,
+    "retention_pct": 4.16
+  },
+  {
+    "cohort_week": 37,
+    "weeks_since_join": 3,
+    "active_users": 463,
+    "cohort_size": 12449,
+    "retention_pct": 3.72
+  },
+  {
+    "cohort_week": 37,
+    "weeks_since_join": 4,
+    "active_users": 349,
+    "cohort_size": 12449,
+    "retention_pct": 2.8
+  },
+  {
+    "cohort_week": 37,
+    "weeks_since_join": 5,
+    "active_users": 227,
+    "cohort_size": 12449,
+    "retention_pct": 1.82
+  },
+  {
+    "cohort_week": 37,
+    "weeks_since_join": 6,
+    "active_users": 214,
+    "cohort_size": 12449,
+    "retention_pct": 1.72
+  },
+  {
+    "cohort_week": 37,
+    "weeks_since_join": 7,
+    "active_users": 1020,
+    "cohort_size": 12449,
+    "retention_pct": 8.19
+  },
+  {
+    "cohort_week": 37,
+    "weeks_since_join": 8,
+    "active_users": 1173,
+    "cohort_size": 12449,
+    "retention_pct": 9.42
+  },
+  {
+    "cohort_week": 37,
+    "weeks_since_join": 9,
+    "active_users": 906,
+    "cohort_size": 12449,
+    "retention_pct": 7.28
+  },
+  {
+    "cohort_week": 37,
+    "weeks_since_join": 10,
+    "active_users": 300,
+    "cohort_size": 12449,
+    "retention_pct": 2.41
+  },
+  {
+    "cohort_week": 37,
+    "weeks_since_join": 11,
+    "active_users": 264,
+    "cohort_size": 12449,
+    "retention_pct": 2.12
+  },
+  {
+    "cohort_week": 37,
+    "weeks_since_join": 12,
+    "active_users": 185,
+    "cohort_size": 12449,
+    "retention_pct": 1.49
+  },
+  {
+    "cohort_week": 38,
+    "weeks_since_join": 0,
+    "active_users": 505,
+    "cohort_size": 9824,
+    "retention_pct": 5.14
+  },
+  {
+    "cohort_week": 38,
+    "weeks_since_join": 1,
+    "active_users": 415,
+    "cohort_size": 9824,
+    "retention_pct": 4.22
+  },
+  {
+    "cohort_week": 38,
+    "weeks_since_join": 2,
+    "active_users": 390,
+    "cohort_size": 9824,
+    "retention_pct": 3.97
+  },
+  {
+    "cohort_week": 38,
+    "weeks_since_join": 3,
+    "active_users": 303,
+    "cohort_size": 9824,
+    "retention_pct": 3.08
+  },
+  {
+    "cohort_week": 38,
+    "weeks_since_join": 4,
+    "active_users": 172,
+    "cohort_size": 9824,
+    "retention_pct": 1.75
+  },
+  {
+    "cohort_week": 38,
+    "weeks_since_join": 5,
+    "active_users": 167,
+    "cohort_size": 9824,
+    "retention_pct": 1.7
+  },
+  {
+    "cohort_week": 38,
+    "weeks_since_join": 6,
+    "active_users": 909,
+    "cohort_size": 9824,
+    "retention_pct": 9.25
+  },
+  {
+    "cohort_week": 38,
+    "weeks_since_join": 7,
+    "active_users": 964,
+    "cohort_size": 9824,
+    "retention_pct": 9.81
+  },
+  {
+    "cohort_week": 38,
+    "weeks_since_join": 8,
+    "active_users": 694,
+    "cohort_size": 9824,
+    "retention_pct": 7.06
+  },
+  {
+    "cohort_week": 38,
+    "weeks_since_join": 9,
+    "active_users": 246,
+    "cohort_size": 9824,
+    "retention_pct": 2.5
+  },
+  {
+    "cohort_week": 38,
+    "weeks_since_join": 10,
+    "active_users": 201,
+    "cohort_size": 9824,
+    "retention_pct": 2.05
+  },
+  {
+    "cohort_week": 38,
+    "weeks_since_join": 11,
+    "active_users": 160,
+    "cohort_size": 9824,
+    "retention_pct": 1.63
+  },
+  {
+    "cohort_week": 38,
+    "weeks_since_join": 12,
+    "active_users": 167,
+    "cohort_size": 9824,
+    "retention_pct": 1.7
+  },
+  {
+    "cohort_week": 39,
+    "weeks_since_join": 0,
+    "active_users": 336,
+    "cohort_size": 8199,
+    "retention_pct": 4.1
+  },
+  {
+    "cohort_week": 39,
+    "weeks_since_join": 1,
+    "active_users": 299,
+    "cohort_size": 8199,
+    "retention_pct": 3.65
+  },
+  {
+    "cohort_week": 39,
+    "weeks_since_join": 2,
+    "active_users": 245,
+    "cohort_size": 8199,
+    "retention_pct": 2.99
+  },
+  {
+    "cohort_week": 39,
+    "weeks_since_join": 3,
+    "active_users": 151,
+    "cohort_size": 8199,
+    "retention_pct": 1.84
+  },
+  {
+    "cohort_week": 39,
+    "weeks_since_join": 4,
+    "active_users": 120,
+    "cohort_size": 8199,
+    "retention_pct": 1.46
+  },
+  {
+    "cohort_week": 39,
+    "weeks_since_join": 5,
+    "active_users": 714,
+    "cohort_size": 8199,
+    "retention_pct": 8.71
+  },
+  {
+    "cohort_week": 39,
+    "weeks_since_join": 6,
+    "active_users": 735,
+    "cohort_size": 8199,
+    "retention_pct": 8.96
+  },
+  {
+    "cohort_week": 39,
+    "weeks_since_join": 7,
+    "active_users": 616,
+    "cohort_size": 8199,
+    "retention_pct": 7.51
+  },
+  {
+    "cohort_week": 39,
+    "weeks_since_join": 8,
+    "active_users": 203,
+    "cohort_size": 8199,
+    "retention_pct": 2.48
+  },
+  {
+    "cohort_week": 39,
+    "weeks_since_join": 9,
+    "active_users": 162,
+    "cohort_size": 8199,
+    "retention_pct": 1.98
+  },
+  {
+    "cohort_week": 39,
+    "weeks_since_join": 10,
+    "active_users": 121,
+    "cohort_size": 8199,
+    "retention_pct": 1.48
+  },
+  {
+    "cohort_week": 39,
+    "weeks_since_join": 11,
+    "active_users": 129,
+    "cohort_size": 8199,
+    "retention_pct": 1.57
+  },
+  {
+    "cohort_week": 39,
+    "weeks_since_join": 12,
+    "active_users": 181,
+    "cohort_size": 8199,
+    "retention_pct": 2.21
+  },
+  {
+    "cohort_week": 40,
+    "weeks_since_join": 0,
+    "active_users": 258,
+    "cohort_size": 7453,
+    "retention_pct": 3.46
+  },
+  {
+    "cohort_week": 40,
+    "weeks_since_join": 1,
+    "active_users": 235,
+    "cohort_size": 7453,
+    "retention_pct": 3.15
+  },
+  {
+    "cohort_week": 40,
+    "weeks_since_join": 2,
+    "active_users": 126,
+    "cohort_size": 7453,
+    "retention_pct": 1.69
+  },
+  {
+    "cohort_week": 40,
+    "weeks_since_join": 3,
+    "active_users": 123,
+    "cohort_size": 7453,
+    "retention_pct": 1.65
+  },
+  {
+    "cohort_week": 40,
+    "weeks_since_join": 4,
+    "active_users": 669,
+    "cohort_size": 7453,
+    "retention_pct": 8.98
+  },
+  {
+    "cohort_week": 40,
+    "weeks_since_join": 5,
+    "active_users": 704,
+    "cohort_size": 7453,
+    "retention_pct": 9.45
+  },
+  {
+    "cohort_week": 40,
+    "weeks_since_join": 6,
+    "active_users": 555,
+    "cohort_size": 7453,
+    "retention_pct": 7.45
+  },
+  {
+    "cohort_week": 40,
+    "weeks_since_join": 7,
+    "active_users": 194,
+    "cohort_size": 7453,
+    "retention_pct": 2.6
+  },
+  {
+    "cohort_week": 40,
+    "weeks_since_join": 8,
+    "active_users": 158,
+    "cohort_size": 7453,
+    "retention_pct": 2.12
+  },
+  {
+    "cohort_week": 40,
+    "weeks_since_join": 9,
+    "active_users": 133,
+    "cohort_size": 7453,
+    "retention_pct": 1.78
+  },
+  {
+    "cohort_week": 40,
+    "weeks_since_join": 10,
+    "active_users": 122,
+    "cohort_size": 7453,
+    "retention_pct": 1.64
+  },
+  {
+    "cohort_week": 40,
+    "weeks_since_join": 11,
+    "active_users": 148,
+    "cohort_size": 7453,
+    "retention_pct": 1.99
+  },
+  {
+    "cohort_week": 41,
+    "weeks_since_join": 0,
+    "active_users": 216,
+    "cohort_size": 6654,
+    "retention_pct": 3.25
+  },
+  {
+    "cohort_week": 41,
+    "weeks_since_join": 1,
+    "active_users": 118,
+    "cohort_size": 6654,
+    "retention_pct": 1.77
+  },
+  {
+    "cohort_week": 41,
+    "weeks_since_join": 2,
+    "active_users": 111,
+    "cohort_size": 6654,
+    "retention_pct": 1.67
+  },
+  {
+    "cohort_week": 41,
+    "weeks_since_join": 3,
+    "active_users": 585,
+    "cohort_size": 6654,
+    "retention_pct": 8.79
+  },
+  {
+    "cohort_week": 41,
+    "weeks_since_join": 4,
+    "active_users": 659,
+    "cohort_size": 6654,
+    "retention_pct": 9.9
+  },
+  {
+    "cohort_week": 41,
+    "weeks_since_join": 5,
+    "active_users": 513,
+    "cohort_size": 6654,
+    "retention_pct": 7.71
+  },
+  {
+    "cohort_week": 41,
+    "weeks_since_join": 6,
+    "active_users": 161,
+    "cohort_size": 6654,
+    "retention_pct": 2.42
+  },
+  {
+    "cohort_week": 41,
+    "weeks_since_join": 7,
+    "active_users": 129,
+    "cohort_size": 6654,
+    "retention_pct": 1.94
+  },
+  {
+    "cohort_week": 41,
+    "weeks_since_join": 8,
+    "active_users": 116,
+    "cohort_size": 6654,
+    "retention_pct": 1.74
+  },
+  {
+    "cohort_week": 41,
+    "weeks_since_join": 9,
+    "active_users": 133,
+    "cohort_size": 6654,
+    "retention_pct": 2.0
+  },
+  {
+    "cohort_week": 41,
+    "weeks_since_join": 10,
+    "active_users": 137,
+    "cohort_size": 6654,
+    "retention_pct": 2.06
+  },
+  {
+    "cohort_week": 42,
+    "weeks_since_join": 0,
+    "active_users": 97,
+    "cohort_size": 4968,
+    "retention_pct": 1.95
+  },
+  {
+    "cohort_week": 42,
+    "weeks_since_join": 1,
+    "active_users": 72,
+    "cohort_size": 4968,
+    "retention_pct": 1.45
+  },
+  {
+    "cohort_week": 42,
+    "weeks_since_join": 2,
+    "active_users": 414,
+    "cohort_size": 4968,
+    "retention_pct": 8.33
+  },
+  {
+    "cohort_week": 42,
+    "weeks_since_join": 3,
+    "active_users": 502,
+    "cohort_size": 4968,
+    "retention_pct": 10.1
+  },
+  {
+    "cohort_week": 42,
+    "weeks_since_join": 4,
+    "active_users": 374,
+    "cohort_size": 4968,
+    "retention_pct": 7.53
+  },
+  {
+    "cohort_week": 42,
+    "weeks_since_join": 5,
+    "active_users": 122,
+    "cohort_size": 4968,
+    "retention_pct": 2.46
+  },
+  {
+    "cohort_week": 42,
+    "weeks_since_join": 6,
+    "active_users": 104,
+    "cohort_size": 4968,
+    "retention_pct": 2.09
+  },
+  {
+    "cohort_week": 42,
+    "weeks_since_join": 7,
+    "active_users": 67,
+    "cohort_size": 4968,
+    "retention_pct": 1.35
+  },
+  {
+    "cohort_week": 42,
+    "weeks_since_join": 8,
+    "active_users": 75,
+    "cohort_size": 4968,
+    "retention_pct": 1.51
+  },
+  {
+    "cohort_week": 42,
+    "weeks_since_join": 9,
+    "active_users": 108,
+    "cohort_size": 4968,
+    "retention_pct": 2.17
+  },
+  {
+    "cohort_week": 43,
+    "weeks_since_join": 0,
+    "active_users": 76,
+    "cohort_size": 4167,
+    "retention_pct": 1.82
+  },
+  {
+    "cohort_week": 43,
+    "weeks_since_join": 1,
+    "active_users": 368,
+    "cohort_size": 4167,
+    "retention_pct": 8.83
+  },
+  {
+    "cohort_week": 43,
+    "weeks_since_join": 2,
+    "active_users": 435,
+    "cohort_size": 4167,
+    "retention_pct": 10.44
+  },
+  {
+    "cohort_week": 43,
+    "weeks_since_join": 3,
+    "active_users": 314,
+    "cohort_size": 4167,
+    "retention_pct": 7.54
+  },
+  {
+    "cohort_week": 43,
+    "weeks_since_join": 4,
+    "active_users": 108,
+    "cohort_size": 4167,
+    "retention_pct": 2.59
+  },
+  {
+    "cohort_week": 43,
+    "weeks_since_join": 5,
+    "active_users": 77,
+    "cohort_size": 4167,
+    "retention_pct": 1.85
+  },
+  {
+    "cohort_week": 43,
+    "weeks_since_join": 6,
+    "active_users": 57,
+    "cohort_size": 4167,
+    "retention_pct": 1.37
+  },
+  {
+    "cohort_week": 43,
+    "weeks_since_join": 7,
+    "active_users": 80,
+    "cohort_size": 4167,
+    "retention_pct": 1.92
+  },
+  {
+    "cohort_week": 43,
+    "weeks_since_join": 8,
+    "active_users": 78,
+    "cohort_size": 4167,
+    "retention_pct": 1.87
+  },
+  {
+    "cohort_week": 44,
+    "weeks_since_join": 0,
+    "active_users": 708,
+    "cohort_size": 8095,
+    "retention_pct": 8.75
+  },
+  {
+    "cohort_week": 44,
+    "weeks_since_join": 1,
+    "active_users": 772,
+    "cohort_size": 8095,
+    "retention_pct": 9.54
+  },
+  {
+    "cohort_week": 44,
+    "weeks_since_join": 2,
+    "active_users": 547,
+    "cohort_size": 8095,
+    "retention_pct": 6.76
+  },
+  {
+    "cohort_week": 44,
+    "weeks_since_join": 3,
+    "active_users": 205,
+    "cohort_size": 8095,
+    "retention_pct": 2.53
+  },
+  {
+    "cohort_week": 44,
+    "weeks_since_join": 4,
+    "active_users": 194,
+    "cohort_size": 8095,
+    "retention_pct": 2.4
+  },
+  {
+    "cohort_week": 44,
+    "weeks_since_join": 5,
+    "active_users": 125,
+    "cohort_size": 8095,
+    "retention_pct": 1.54
+  },
+  {
+    "cohort_week": 44,
+    "weeks_since_join": 6,
+    "active_users": 151,
+    "cohort_size": 8095,
+    "retention_pct": 1.87
+  },
+  {
+    "cohort_week": 44,
+    "weeks_since_join": 7,
+    "active_users": 170,
+    "cohort_size": 8095,
+    "retention_pct": 2.1
+  },
+  {
+    "cohort_week": 45,
+    "weeks_since_join": 0,
+    "active_users": 959,
+    "cohort_size": 9801,
+    "retention_pct": 9.78
+  },
+  {
+    "cohort_week": 45,
+    "weeks_since_join": 1,
+    "active_users": 707,
+    "cohort_size": 9801,
+    "retention_pct": 7.21
+  },
+  {
+    "cohort_week": 45,
+    "weeks_since_join": 2,
+    "active_users": 239,
+    "cohort_size": 9801,
+    "retention_pct": 2.44
+  },
+  {
+    "cohort_week": 45,
+    "weeks_since_join": 3,
+    "active_users": 223,
+    "cohort_size": 9801,
+    "retention_pct": 2.28
+  },
+  {
+    "cohort_week": 45,
+    "weeks_since_join": 4,
+    "active_users": 156,
+    "cohort_size": 9801,
+    "retention_pct": 1.59
+  },
+  {
+    "cohort_week": 45,
+    "weeks_since_join": 5,
+    "active_users": 161,
+    "cohort_size": 9801,
+    "retention_pct": 1.64
+  },
+  {
+    "cohort_week": 45,
+    "weeks_since_join": 6,
+    "active_users": 178,
+    "cohort_size": 9801,
+    "retention_pct": 1.82
+  },
+  {
+    "cohort_week": 46,
+    "weeks_since_join": 0,
+    "active_users": 475,
+    "cohort_size": 6580,
+    "retention_pct": 7.22
+  },
+  {
+    "cohort_week": 46,
+    "weeks_since_join": 1,
+    "active_users": 158,
+    "cohort_size": 6580,
+    "retention_pct": 2.4
+  },
+  {
+    "cohort_week": 46,
+    "weeks_since_join": 2,
+    "active_users": 135,
+    "cohort_size": 6580,
+    "retention_pct": 2.05
+  },
+  {
+    "cohort_week": 46,
+    "weeks_since_join": 3,
+    "active_users": 102,
+    "cohort_size": 6580,
+    "retention_pct": 1.55
+  },
+  {
+    "cohort_week": 46,
+    "weeks_since_join": 4,
+    "active_users": 114,
+    "cohort_size": 6580,
+    "retention_pct": 1.73
+  },
+  {
+    "cohort_week": 46,
+    "weeks_since_join": 5,
+    "active_users": 137,
+    "cohort_size": 6580,
+    "retention_pct": 2.08
+  },
+  {
+    "cohort_week": 47,
+    "weeks_since_join": 0,
+    "active_users": 114,
+    "cohort_size": 4874,
+    "retention_pct": 2.34
+  },
+  {
+    "cohort_week": 47,
+    "weeks_since_join": 1,
+    "active_users": 126,
+    "cohort_size": 4874,
+    "retention_pct": 2.59
+  },
+  {
+    "cohort_week": 47,
+    "weeks_since_join": 2,
+    "active_users": 76,
+    "cohort_size": 4874,
+    "retention_pct": 1.56
+  },
+  {
+    "cohort_week": 47,
+    "weeks_since_join": 3,
+    "active_users": 89,
+    "cohort_size": 4874,
+    "retention_pct": 1.83
+  },
+  {
+    "cohort_week": 47,
+    "weeks_since_join": 4,
+    "active_users": 87,
+    "cohort_size": 4874,
+    "retention_pct": 1.78
+  },
+  {
+    "cohort_week": 48,
+    "weeks_since_join": 0,
+    "active_users": 101,
+    "cohort_size": 3988,
+    "retention_pct": 2.53
+  },
+  {
+    "cohort_week": 48,
+    "weeks_since_join": 1,
+    "active_users": 59,
+    "cohort_size": 3988,
+    "retention_pct": 1.48
+  },
+  {
+    "cohort_week": 48,
+    "weeks_since_join": 2,
+    "active_users": 59,
+    "cohort_size": 3988,
+    "retention_pct": 1.48
+  },
+  {
+    "cohort_week": 48,
+    "weeks_since_join": 3,
+    "active_users": 80,
+    "cohort_size": 3988,
+    "retention_pct": 2.01
+  },
+  {
+    "cohort_week": 49,
+    "weeks_since_join": 0,
+    "active_users": 63,
+    "cohort_size": 3227,
+    "retention_pct": 1.95
+  },
+  {
+    "cohort_week": 49,
+    "weeks_since_join": 1,
+    "active_users": 54,
+    "cohort_size": 3227,
+    "retention_pct": 1.67
+  },
+  {
+    "cohort_week": 49,
+    "weeks_since_join": 2,
+    "active_users": 68,
+    "cohort_size": 3227,
+    "retention_pct": 2.11
+  },
+  {
+    "cohort_week": 50,
+    "weeks_since_join": 0,
+    "active_users": 54,
+    "cohort_size": 3334,
+    "retention_pct": 1.62
+  },
+  {
+    "cohort_week": 50,
+    "weeks_since_join": 1,
+    "active_users": 73,
+    "cohort_size": 3334,
+    "retention_pct": 2.19
+  },
+  {
+    "cohort_week": 51,
+    "weeks_since_join": 0,
+    "active_users": 77,
+    "cohort_size": 4169,
+    "retention_pct": 1.85
+  }
+]

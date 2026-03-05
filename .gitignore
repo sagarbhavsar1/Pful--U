@@ -38,3 +38,7 @@ __pycache__/
 .venv/
 venv/
 *.egg-info/
+
+# Large data files
+data/output/attendance.csv
+data/output/rsvps.csv

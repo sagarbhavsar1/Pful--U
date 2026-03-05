@@ -1,0 +1,80 @@
+[
+  {
+    "weeks_since_join": 0,
+    "avg_retention_pct": 11.881818181818181,
+    "median_retention_pct": 7.59,
+    "count": 11
+  },
+  {
+    "weeks_since_join": 1,
+    "avg_retention_pct": 10.277272727272727,
+    "median_retention_pct": 7.36,
+    "count": 11
+  },
+  {
+    "weeks_since_join": 2,
+    "avg_retention_pct": 9.032727272727273,
+    "median_retention_pct": 7.46,
+    "count": 11
+  },
+  {
+    "weeks_since_join": 3,
+    "avg_retention_pct": 8.31,
+    "median_retention_pct": 6.56,
+    "count": 11
+  },
+  {
+    "weeks_since_join": 4,
+    "avg_retention_pct": 7.719090909090909,
+    "median_retention_pct": 7.61,
+    "count": 11
+  },
+  {
+    "weeks_since_join": 5,
+    "avg_retention_pct": 7.170000000000001,
+    "median_retention_pct": 6.09,
+    "count": 11
+  },
+  {
+    "weeks_since_join": 6,
+    "avg_retention_pct": 6.750909090909091,
+    "median_retention_pct": 6.39,
+    "count": 11
+  },
+  {
+    "weeks_since_join": 7,
+    "avg_retention_pct": 6.46090909090909,
+    "median_retention_pct": 6.41,
+    "count": 11
+  },
+  {
+    "weeks_since_join": 8,
+    "avg_retention_pct": 6.143636363636364,
+    "median_retention_pct": 5.82,
+    "count": 11
+  },
+  {
+    "weeks_since_join": 9,
+    "avg_retention_pct": 5.752727272727273,
+    "median_retention_pct": 5.4,
+    "count": 11
+  },
+  {
+    "weeks_since_join": 10,
+    "avg_retention_pct": 5.808181818181819,
+    "median_retention_pct": 7.24,
+    "count": 11
+  },
+  {
+    "weeks_since_join": 11,
+    "avg_retention_pct": 5.665454545454545,
+    "median_retention_pct": 5.68,
+    "count": 11
+  },
+  {
+    "weeks_since_join": 12,
+    "avg_retention_pct": 5.37,
+    "median_retention_pct": 5.8,
+    "count": 11
+  }
+]

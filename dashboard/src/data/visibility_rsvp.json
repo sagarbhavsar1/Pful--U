@@ -1,0 +1,18 @@
+[
+  {
+    "visibility_scope": "campus_public",
+    "total_rsvps": 1328695,
+    "yes_count": 473319,
+    "positive_count": 688781,
+    "yes_rate": 35.62,
+    "positive_rate": 51.84
+  },
+  {
+    "visibility_scope": "friends_only",
+    "total_rsvps": 3147568,
+    "yes_count": 977628,
+    "positive_count": 1420977,
+    "yes_rate": 31.06,
+    "positive_rate": 45.15
+  }
+]
