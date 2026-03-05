@@ -1,0 +1,58 @@
+[
+  {
+    "category": "Feature Impact",
+    "severity": "high",
+    "title": "Campus-Public Visibility Drives Higher Engagement",
+    "body": "Events with campus-wide visibility show a 14.8% higher RSVP positive rate and 13.6% higher attendance compared to friends-only events. This effect is statistically significant (p=0.0000).",
+    "recommendation": "Expand campus-public visibility as a default for eligible event types. Consider A/B testing opt-in campus visibility for hosts.",
+    "metric": "+14.8% RSVP lift"
+  },
+  {
+    "category": "Feature Impact",
+    "severity": "medium",
+    "title": "Campus Visibility Most Effective for Study Group Events",
+    "body": "Study Group events see the largest RSVP lift from campus visibility (15.8%), while Cultural events see the smallest (14.4%).",
+    "recommendation": "Prioritize campus visibility promotion for Study Group and Sports Watch event types where the feature has the most impact.",
+    "metric": "15.8% lift for Study Group"
+  },
+  {
+    "category": "Growth",
+    "severity": "high",
+    "title": "73 Universities Identified as High-Growth Hubs",
+    "body": "These campuses show 211 events/1K users (vs cluster average), with 4% host repeat rate and 32% RSVP yes rate.",
+    "recommendation": "Study these campuses for growth playbook insights. Consider dedicated campus ambassadors for sustained momentum.",
+    "metric": "73 high-growth campuses"
+  },
+  {
+    "category": "Engagement",
+    "severity": "high",
+    "title": "Power Hosts (7% of users) Drive Disproportionate Value",
+    "body": "Just 7% of users host 0.1 events on average. They also attend 2.2 events and have 48 friends.",
+    "recommendation": "Protect and nurture power hosts with hosting tools, analytics, and recognition. Their churn would have outsized platform impact.",
+    "metric": "0.1 avg events hosted"
+  },
+  {
+    "category": "Retention",
+    "severity": "high",
+    "title": "Campus Visibility Improves 4-Week Retention",
+    "body": "Users whose first event had campus visibility show 12.0% 4-week retention vs 12.0% for friends-only first events \u2014 a 0.0pp difference.",
+    "recommendation": "Default new events to campus-visible for first-time hosts to maximize early retention lift.",
+    "metric": "+0.0pp retention lift"
+  },
+  {
+    "category": "Seasonality",
+    "severity": "low",
+    "title": "Event Volume Varies 6x Between Peak and Trough Weeks",
+    "body": "Peak activity: Week 0 (5,558 events). Lowest: Week 21 (478 events). This ~12x variation follows academic calendar patterns.",
+    "recommendation": "Pre-load engagement campaigns before semester starts. Reduce marketing spend during break periods. Use trough weeks for platform maintenance.",
+    "metric": "12x seasonal swing"
+  },
+  {
+    "category": "Growth",
+    "severity": "low",
+    "title": "Wide Variance in Campus Engagement Density",
+    "body": "Top 5 campuses by event density generate 263+ events/1K users, while bottom 5 generate under 183/1K. The top performer is Virginia Tech.",
+    "recommendation": "Investigate what makes top-performing campuses successful and replicate those conditions elsewhere.",
+    "metric": "263/1K top density"
+  }
+]

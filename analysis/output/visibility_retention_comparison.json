@@ -1,0 +1,184 @@
+[
+  {
+    "visibility_scope": "campus_public",
+    "weeks_since_join": 0,
+    "active_users": 38218,
+    "total_users": 154181,
+    "retention_pct": 24.79
+  },
+  {
+    "visibility_scope": "campus_public",
+    "weeks_since_join": 1,
+    "active_users": 29779,
+    "total_users": 154181,
+    "retention_pct": 19.31
+  },
+  {
+    "visibility_scope": "campus_public",
+    "weeks_since_join": 2,
+    "active_users": 23893,
+    "total_users": 154181,
+    "retention_pct": 15.5
+  },
+  {
+    "visibility_scope": "campus_public",
+    "weeks_since_join": 3,
+    "active_users": 20764,
+    "total_users": 154181,
+    "retention_pct": 13.47
+  },
+  {
+    "visibility_scope": "campus_public",
+    "weeks_since_join": 4,
+    "active_users": 18488,
+    "total_users": 154181,
+    "retention_pct": 11.99
+  },
+  {
+    "visibility_scope": "campus_public",
+    "weeks_since_join": 5,
+    "active_users": 16803,
+    "total_users": 154181,
+    "retention_pct": 10.9
+  },
+  {
+    "visibility_scope": "campus_public",
+    "weeks_since_join": 6,
+    "active_users": 15286,
+    "total_users": 154181,
+    "retention_pct": 9.91
+  },
+  {
+    "visibility_scope": "campus_public",
+    "weeks_since_join": 7,
+    "active_users": 13863,
+    "total_users": 154181,
+    "retention_pct": 8.99
+  },
+  {
+    "visibility_scope": "campus_public",
+    "weeks_since_join": 8,
+    "active_users": 12338,
+    "total_users": 154181,
+    "retention_pct": 8.0
+  },
+  {
+    "visibility_scope": "campus_public",
+    "weeks_since_join": 9,
+    "active_users": 12101,
+    "total_users": 154181,
+    "retention_pct": 7.85
+  },
+  {
+    "visibility_scope": "campus_public",
+    "weeks_since_join": 10,
+    "active_users": 13095,
+    "total_users": 154181,
+    "retention_pct": 8.49
+  },
+  {
+    "visibility_scope": "campus_public",
+    "weeks_since_join": 11,
+    "active_users": 13009,
+    "total_users": 154181,
+    "retention_pct": 8.44
+  },
+  {
+    "visibility_scope": "campus_public",
+    "weeks_since_join": 12,
+    "active_users": 12540,
+    "total_users": 154181,
+    "retention_pct": 8.13
+  },
+  {
+    "visibility_scope": "friends_only",
+    "weeks_since_join": 0,
+    "active_users": 79409,
+    "total_users": 322120,
+    "retention_pct": 24.65
+  },
+  {
+    "visibility_scope": "friends_only",
+    "weeks_since_join": 1,
+    "active_users": 61911,
+    "total_users": 322120,
+    "retention_pct": 19.22
+  },
+  {
+    "visibility_scope": "friends_only",
+    "weeks_since_join": 2,
+    "active_users": 50295,
+    "total_users": 322120,
+    "retention_pct": 15.61
+  },
+  {
+    "visibility_scope": "friends_only",
+    "weeks_since_join": 3,
+    "active_users": 43743,
+    "total_users": 322120,
+    "retention_pct": 13.58
+  },
+  {
+    "visibility_scope": "friends_only",
+    "weeks_since_join": 4,
+    "active_users": 38589,
+    "total_users": 322120,
+    "retention_pct": 11.98
+  },
+  {
+    "visibility_scope": "friends_only",
+    "weeks_since_join": 5,
+    "active_users": 34736,
+    "total_users": 322120,
+    "retention_pct": 10.78
+  },
+  {
+    "visibility_scope": "friends_only",
+    "weeks_since_join": 6,
+    "active_users": 32028,
+    "total_users": 322120,
+    "retention_pct": 9.94
+  },
+  {
+    "visibility_scope": "friends_only",
+    "weeks_since_join": 7,
+    "active_users": 29169,
+    "total_users": 322120,
+    "retention_pct": 9.06
+  },
+  {
+    "visibility_scope": "friends_only",
+    "weeks_since_join": 8,
+    "active_users": 25810,
+    "total_users": 322120,
+    "retention_pct": 8.01
+  },
+  {
+    "visibility_scope": "friends_only",
+    "weeks_since_join": 9,
+    "active_users": 25923,
+    "total_users": 322120,
+    "retention_pct": 8.05
+  },
+  {
+    "visibility_scope": "friends_only",
+    "weeks_since_join": 10,
+    "active_users": 27310,
+    "total_users": 322120,
+    "retention_pct": 8.48
+  },
+  {
+    "visibility_scope": "friends_only",
+    "weeks_since_join": 11,
+    "active_users": 27247,
+    "total_users": 322120,
+    "retention_pct": 8.46
+  },
+  {
+    "visibility_scope": "friends_only",
+    "weeks_since_join": 12,
+    "active_users": 26118,
+    "total_users": 322120,
+    "retention_pct": 8.11
+  }
+]

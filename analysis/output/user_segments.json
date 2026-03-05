@@ -1,0 +1,42 @@
+[
+  {
+    "segment_id": 0,
+    "segment_name": "Power Hosts",
+    "count": 45156,
+    "pct_of_users": 7.2,
+    "avg_events_hosted": 0.12,
+    "avg_events_attended": 2.25,
+    "avg_friend_count": 47.5,
+    "avg_rsvp_yes_rate": 0.299
+  },
+  {
+    "segment_id": 1,
+    "segment_name": "Power Hosts (2)",
+    "count": 108108,
+    "pct_of_users": 17.3,
+    "avg_events_hosted": 1.17,
+    "avg_events_attended": 3.61,
+    "avg_friend_count": 11.4,
+    "avg_rsvp_yes_rate": 0.321
+  },
+  {
+    "segment_id": 2,
+    "segment_name": "Casual Attendees",
+    "count": 232254,
+    "pct_of_users": 37.2,
+    "avg_events_hosted": 0.0,
+    "avg_events_attended": 0.72,
+    "avg_friend_count": 10.5,
+    "avg_rsvp_yes_rate": 0.097
+  },
+  {
+    "segment_id": 3,
+    "segment_name": "Casual Attendees (4)",
+    "count": 238477,
+    "pct_of_users": 38.2,
+    "avg_events_hosted": 0.0,
+    "avg_events_attended": 3.53,
+    "avg_friend_count": 10.4,
+    "avg_rsvp_yes_rate": 0.488
+  }
+]

@@ -1,0 +1,2312 @@
+[
+  {
+    "cluster_id": 0,
+    "cluster_name": "Average Performer",
+    "count": 51,
+    "avg_events_per_1k": 209.7,
+    "avg_rsvp_rate": 31.8,
+    "avg_attendance_rate": 32.8,
+    "avg_host_repeat_rate": 4.1,
+    "avg_adoption_rate": 0.1115,
+    "universities": [
+      {
+        "university_id": "UNI_0137",
+        "name": "Harbor Virginia University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 4775,
+        "total_events": 1006
+      },
+      {
+        "university_id": "UNI_0244",
+        "name": "Upper Michigan State University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 4136,
+        "total_events": 897
+      },
+      {
+        "university_id": "UNI_0200",
+        "name": "Atlantic California College",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 3982,
+        "total_events": 875
+      },
+      {
+        "university_id": "UNI_0247",
+        "name": "Metro Texas State University",
+        "region": "South",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 4074,
+        "total_events": 869
+      },
+      {
+        "university_id": "UNI_0010",
+        "name": "Indiana University Bloomington",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 3829,
+        "total_events": 809
+      },
+      {
+        "university_id": "UNI_0183",
+        "name": "Summit New Mexico College",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 3279,
+        "total_events": 673
+      },
+      {
+        "university_id": "UNI_0081",
+        "name": "University of Portland",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 2868,
+        "total_events": 632
+      },
+      {
+        "university_id": "UNI_0020",
+        "name": "University of Virginia",
+        "region": "West",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 2559,
+        "total_events": 564
+      },
+      {
+        "university_id": "UNI_0121",
+        "name": "River South Dakota University",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 2325,
+        "total_events": 500
+      },
+      {
+        "university_id": "UNI_0149",
+        "name": "Eastern Wisconsin University",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 2250,
+        "total_events": 487
+      },
+      {
+        "university_id": "UNI_0107",
+        "name": "Upper California Polytechnic University",
+        "region": "West",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 2285,
+        "total_events": 451
+      },
+      {
+        "university_id": "UNI_0080",
+        "name": "Gonzaga University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 2115,
+        "total_events": 449
+      },
+      {
+        "university_id": "UNI_0006",
+        "name": "UC Berkeley",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 2223,
+        "total_events": 449
+      },
+      {
+        "university_id": "UNI_0074",
+        "name": "University of Kansas",
+        "region": "West",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 2019,
+        "total_events": 446
+      },
+      {
+        "university_id": "UNI_0196",
+        "name": "Metro Michigan State University",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 2326,
+        "total_events": 443
+      },
+      {
+        "university_id": "UNI_0199",
+        "name": "River Idaho University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 2044,
+        "total_events": 433
+      },
+      {
+        "university_id": "UNI_0163",
+        "name": "Coastal Virginia College",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Rural",
+        "total_users": 1978,
+        "total_events": 413
+      },
+      {
+        "university_id": "UNI_0169",
+        "name": "Western Minnesota University",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1840,
+        "total_events": 405
+      },
+      {
+        "university_id": "UNI_0164",
+        "name": "Coastal Utah Institute of Technology",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 2057,
+        "total_events": 405
+      },
+      {
+        "university_id": "UNI_0214",
+        "name": "River Oregon Institute of Technology",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Rural",
+        "total_users": 1845,
+        "total_events": 379
+      },
+      {
+        "university_id": "UNI_0031",
+        "name": "NYU",
+        "region": "West",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 1524,
+        "total_events": 369
+      },
+      {
+        "university_id": "UNI_0119",
+        "name": "Harbor Mississippi Institute of Technology",
+        "region": "South",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 1706,
+        "total_events": 359
+      },
+      {
+        "university_id": "UNI_0150",
+        "name": "Cascade North Dakota University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1637,
+        "total_events": 356
+      },
+      {
+        "university_id": "UNI_0041",
+        "name": "Yale University",
+        "region": "West",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 1731,
+        "total_events": 353
+      },
+      {
+        "university_id": "UNI_0064",
+        "name": "University of Miami",
+        "region": "South",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 1614,
+        "total_events": 329
+      },
+      {
+        "university_id": "UNI_0205",
+        "name": "Upper Rhode Island State University",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 1415,
+        "total_events": 287
+      },
+      {
+        "university_id": "UNI_0022",
+        "name": "University of Iowa",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 1413,
+        "total_events": 284
+      },
+      {
+        "university_id": "UNI_0122",
+        "name": "Mountain Arkansas University",
+        "region": "West",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 1322,
+        "total_events": 282
+      },
+      {
+        "university_id": "UNI_0096",
+        "name": "SMU",
+        "region": "South",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 1165,
+        "total_events": 272
+      },
+      {
+        "university_id": "UNI_0088",
+        "name": "UC Santa Barbara",
+        "region": "South",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 1205,
+        "total_events": 255
+      },
+      {
+        "university_id": "UNI_0195",
+        "name": "Pacific Missouri State University",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 1171,
+        "total_events": 228
+      },
+      {
+        "university_id": "UNI_0058",
+        "name": "Brandeis University",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1041,
+        "total_events": 225
+      },
+      {
+        "university_id": "UNI_0143",
+        "name": "Greater Idaho Polytechnic University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 1056,
+        "total_events": 220
+      },
+      {
+        "university_id": "UNI_0174",
+        "name": "Harbor Washington State University",
+        "region": "West",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 914,
+        "total_events": 198
+      },
+      {
+        "university_id": "UNI_0209",
+        "name": "Southern New Hampshire Polytechnic University",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 827,
+        "total_events": 193
+      },
+      {
+        "university_id": "UNI_0223",
+        "name": "Atlantic Kentucky Institute of Technology",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 912,
+        "total_events": 193
+      },
+      {
+        "university_id": "UNI_0242",
+        "name": "Central New York College",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 990,
+        "total_events": 192
+      },
+      {
+        "university_id": "UNI_0045",
+        "name": "Vanderbilt University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 817,
+        "total_events": 185
+      },
+      {
+        "university_id": "UNI_0233",
+        "name": "Central Washington Polytechnic University",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Rural",
+        "total_users": 873,
+        "total_events": 175
+      },
+      {
+        "university_id": "UNI_0245",
+        "name": "Ridge Texas Institute of Technology",
+        "region": "South",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 816,
+        "total_events": 160
+      },
+      {
+        "university_id": "UNI_0092",
+        "name": "University of Hawaii",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 809,
+        "total_events": 159
+      },
+      {
+        "university_id": "UNI_0134",
+        "name": "Central Virginia Institute of Technology",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 760,
+        "total_events": 148
+      },
+      {
+        "university_id": "UNI_0241",
+        "name": "Eastern Pennsylvania Institute of Technology",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 649,
+        "total_events": 148
+      },
+      {
+        "university_id": "UNI_0048",
+        "name": "Tulane University",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 653,
+        "total_events": 140
+      },
+      {
+        "university_id": "UNI_0070",
+        "name": "University of Arkansas",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 696,
+        "total_events": 135
+      },
+      {
+        "university_id": "UNI_0091",
+        "name": "San Jose State University",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 683,
+        "total_events": 131
+      },
+      {
+        "university_id": "UNI_0243",
+        "name": "Atlantic Arizona College",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 560,
+        "total_events": 115
+      },
+      {
+        "university_id": "UNI_0204",
+        "name": "Atlantic Indiana College",
+        "region": "South",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 512,
+        "total_events": 98
+      },
+      {
+        "university_id": "UNI_0012",
+        "name": "University of Alabama",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 466,
+        "total_events": 93
+      },
+      {
+        "university_id": "UNI_0142",
+        "name": "Lake Alabama State University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 387,
+        "total_events": 86
+      },
+      {
+        "university_id": "UNI_0067",
+        "name": "Mississippi State University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 421,
+        "total_events": 85
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "cluster_name": "Average Performer (2)",
+    "count": 42,
+    "avg_events_per_1k": 200.9,
+    "avg_rsvp_rate": 33.1,
+    "avg_attendance_rate": 34.4,
+    "avg_host_repeat_rate": 4.4,
+    "avg_adoption_rate": 0.082,
+    "universities": [
+      {
+        "university_id": "UNI_0124",
+        "name": "Ridge Oregon University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 3896,
+        "total_events": 790
+      },
+      {
+        "university_id": "UNI_0162",
+        "name": "Atlantic Nevada Polytechnic University",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 3888,
+        "total_events": 754
+      },
+      {
+        "university_id": "UNI_0110",
+        "name": "Metro Idaho State University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 2655,
+        "total_events": 547
+      },
+      {
+        "university_id": "UNI_0034",
+        "name": "Georgetown University",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 2603,
+        "total_events": 546
+      },
+      {
+        "university_id": "UNI_0057",
+        "name": "Tufts University",
+        "region": "South",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 2460,
+        "total_events": 510
+      },
+      {
+        "university_id": "UNI_0076",
+        "name": "University of Nebraska-Lincoln",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 1893,
+        "total_events": 389
+      },
+      {
+        "university_id": "UNI_0112",
+        "name": "Upper New Jersey College",
+        "region": "South",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 1667,
+        "total_events": 349
+      },
+      {
+        "university_id": "UNI_0036",
+        "name": "Columbia University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1689,
+        "total_events": 346
+      },
+      {
+        "university_id": "UNI_0155",
+        "name": "Ridge Washington Polytechnic University",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 1693,
+        "total_events": 342
+      },
+      {
+        "university_id": "UNI_0044",
+        "name": "Northwestern University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 1385,
+        "total_events": 293
+      },
+      {
+        "university_id": "UNI_0167",
+        "name": "Atlantic Iowa Institute of Technology",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 1293,
+        "total_events": 270
+      },
+      {
+        "university_id": "UNI_0206",
+        "name": "Coastal North Dakota Polytechnic University",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1479,
+        "total_events": 269
+      },
+      {
+        "university_id": "UNI_0201",
+        "name": "Ridge Missouri Institute of Technology",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 1363,
+        "total_events": 264
+      },
+      {
+        "university_id": "UNI_0170",
+        "name": "Northern New Jersey Institute of Technology",
+        "region": "West",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 1308,
+        "total_events": 263
+      },
+      {
+        "university_id": "UNI_0046",
+        "name": "Emory University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1206,
+        "total_events": 248
+      },
+      {
+        "university_id": "UNI_0198",
+        "name": "Summit North Dakota State University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 1210,
+        "total_events": 228
+      },
+      {
+        "university_id": "UNI_0185",
+        "name": "River Montana State University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 1047,
+        "total_events": 217
+      },
+      {
+        "university_id": "UNI_0009",
+        "name": "University of Georgia",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1123,
+        "total_events": 217
+      },
+      {
+        "university_id": "UNI_0017",
+        "name": "University of Minnesota",
+        "region": "South",
+        "type": "Private",
+        "setting": "Rural",
+        "total_users": 1095,
+        "total_events": 216
+      },
+      {
+        "university_id": "UNI_0148",
+        "name": "Upper Nevada University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1102,
+        "total_events": 214
+      },
+      {
+        "university_id": "UNI_0062",
+        "name": "Morehouse College",
+        "region": "South",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 1082,
+        "total_events": 211
+      },
+      {
+        "university_id": "UNI_0211",
+        "name": "Mountain Indiana College",
+        "region": "South",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 986,
+        "total_events": 205
+      },
+      {
+        "university_id": "UNI_0191",
+        "name": "Southern California University",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 978,
+        "total_events": 203
+      },
+      {
+        "university_id": "UNI_0154",
+        "name": "Greater Vermont State University",
+        "region": "West",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 901,
+        "total_events": 196
+      },
+      {
+        "university_id": "UNI_0135",
+        "name": "Metro Missouri State University",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 865,
+        "total_events": 186
+      },
+      {
+        "university_id": "UNI_0207",
+        "name": "Atlantic West Virginia Polytechnic University",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 893,
+        "total_events": 184
+      },
+      {
+        "university_id": "UNI_0042",
+        "name": "Princeton University",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 857,
+        "total_events": 177
+      },
+      {
+        "university_id": "UNI_0145",
+        "name": "Mountain Indiana College",
+        "region": "West",
+        "type": "Private",
+        "setting": "Rural",
+        "total_users": 852,
+        "total_events": 177
+      },
+      {
+        "university_id": "UNI_0113",
+        "name": "Eastern Kentucky Polytechnic University",
+        "region": "South",
+        "type": "Private",
+        "setting": "Rural",
+        "total_users": 738,
+        "total_events": 158
+      },
+      {
+        "university_id": "UNI_0173",
+        "name": "Summit Virginia State University",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 706,
+        "total_events": 157
+      },
+      {
+        "university_id": "UNI_0106",
+        "name": "Southern North Carolina College",
+        "region": "South",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 789,
+        "total_events": 147
+      },
+      {
+        "university_id": "UNI_0105",
+        "name": "Southern Wyoming College",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 645,
+        "total_events": 133
+      },
+      {
+        "university_id": "UNI_0055",
+        "name": "Carnegie Mellon University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 603,
+        "total_events": 125
+      },
+      {
+        "university_id": "UNI_0032",
+        "name": "Boston University",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 597,
+        "total_events": 114
+      },
+      {
+        "university_id": "UNI_0159",
+        "name": "Greater Wyoming University",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 604,
+        "total_events": 113
+      },
+      {
+        "university_id": "UNI_0202",
+        "name": "Harbor California College",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 472,
+        "total_events": 95
+      },
+      {
+        "university_id": "UNI_0087",
+        "name": "UC Davis",
+        "region": "West",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 453,
+        "total_events": 93
+      },
+      {
+        "university_id": "UNI_0049",
+        "name": "Wake Forest University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 467,
+        "total_events": 89
+      },
+      {
+        "university_id": "UNI_0188",
+        "name": "Mountain Alabama Polytechnic University",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 270,
+        "total_events": 59
+      },
+      {
+        "university_id": "UNI_0234",
+        "name": "Prairie Tennessee College",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 338,
+        "total_events": 58
+      },
+      {
+        "university_id": "UNI_0228",
+        "name": "Mountain Massachusetts Institute of Technology",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 281,
+        "total_events": 51
+      },
+      {
+        "university_id": "UNI_0127",
+        "name": "Ridge Missouri College",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 288,
+        "total_events": 48
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "cluster_name": "High-Adoption, Engaged",
+    "count": 73,
+    "avg_events_per_1k": 210.8,
+    "avg_rsvp_rate": 32.5,
+    "avg_attendance_rate": 33.6,
+    "avg_host_repeat_rate": 4.3,
+    "avg_adoption_rate": 0.2559,
+    "universities": [
+      {
+        "university_id": "UNI_0139",
+        "name": "Metro South Carolina Polytechnic University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 12792,
+        "total_events": 2821
+      },
+      {
+        "university_id": "UNI_0190",
+        "name": "Prairie New Jersey Polytechnic University",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 13396,
+        "total_events": 2816
+      },
+      {
+        "university_id": "UNI_0030",
+        "name": "USC",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 11574,
+        "total_events": 2411
+      },
+      {
+        "university_id": "UNI_0123",
+        "name": "Mountain Mississippi Polytechnic University",
+        "region": "West",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 11086,
+        "total_events": 2343
+      },
+      {
+        "university_id": "UNI_0248",
+        "name": "Greater Massachusetts College",
+        "region": "West",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 10315,
+        "total_events": 2160
+      },
+      {
+        "university_id": "UNI_0226",
+        "name": "Metro Wisconsin University",
+        "region": "South",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 9535,
+        "total_events": 2008
+      },
+      {
+        "university_id": "UNI_0108",
+        "name": "Coastal Alabama College",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 8334,
+        "total_events": 1775
+      },
+      {
+        "university_id": "UNI_0065",
+        "name": "Clemson University",
+        "region": "West",
+        "type": "Private",
+        "setting": "Rural",
+        "total_users": 8121,
+        "total_events": 1767
+      },
+      {
+        "university_id": "UNI_0227",
+        "name": "Ridge Kentucky College",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 8788,
+        "total_events": 1765
+      },
+      {
+        "university_id": "UNI_0013",
+        "name": "Arizona State University",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 7380,
+        "total_events": 1536
+      },
+      {
+        "university_id": "UNI_0118",
+        "name": "Southern New Hampshire State University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 6852,
+        "total_events": 1504
+      },
+      {
+        "university_id": "UNI_0098",
+        "name": "Baylor University",
+        "region": "West",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 6540,
+        "total_events": 1456
+      },
+      {
+        "university_id": "UNI_0040",
+        "name": "Harvard University",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 6496,
+        "total_events": 1414
+      },
+      {
+        "university_id": "UNI_0179",
+        "name": "Lake Mississippi College",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 6143,
+        "total_events": 1366
+      },
+      {
+        "university_id": "UNI_0126",
+        "name": "Lake Iowa University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 6306,
+        "total_events": 1295
+      },
+      {
+        "university_id": "UNI_0047",
+        "name": "Rice University",
+        "region": "South",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 5936,
+        "total_events": 1273
+      },
+      {
+        "university_id": "UNI_0103",
+        "name": "Coastal New Mexico University",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Rural",
+        "total_users": 6066,
+        "total_events": 1254
+      },
+      {
+        "university_id": "UNI_0039",
+        "name": "MIT",
+        "region": "West",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 5790,
+        "total_events": 1251
+      },
+      {
+        "university_id": "UNI_0217",
+        "name": "Central New Mexico University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 5634,
+        "total_events": 1211
+      },
+      {
+        "university_id": "UNI_0116",
+        "name": "River Wisconsin University",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 5603,
+        "total_events": 1172
+      },
+      {
+        "university_id": "UNI_0111",
+        "name": "Metro Washington Institute of Technology",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 5774,
+        "total_events": 1171
+      },
+      {
+        "university_id": "UNI_0000",
+        "name": "University of Michigan",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 5430,
+        "total_events": 1140
+      },
+      {
+        "university_id": "UNI_0224",
+        "name": "Lake Idaho University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 5517,
+        "total_events": 1135
+      },
+      {
+        "university_id": "UNI_0043",
+        "name": "Duke University",
+        "region": "South",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 5385,
+        "total_events": 1109
+      },
+      {
+        "university_id": "UNI_0016",
+        "name": "Rutgers University",
+        "region": "South",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 5353,
+        "total_events": 1107
+      },
+      {
+        "university_id": "UNI_0051",
+        "name": "Brown University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 5244,
+        "total_events": 1095
+      },
+      {
+        "university_id": "UNI_0085",
+        "name": "San Diego State University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 5256,
+        "total_events": 1088
+      },
+      {
+        "university_id": "UNI_0125",
+        "name": "Pacific Colorado Polytechnic University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 4878,
+        "total_events": 1060
+      },
+      {
+        "university_id": "UNI_0068",
+        "name": "University of Mississippi",
+        "region": "South",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 5215,
+        "total_events": 1053
+      },
+      {
+        "university_id": "UNI_0181",
+        "name": "Upper Vermont College",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 5129,
+        "total_events": 1039
+      },
+      {
+        "university_id": "UNI_0073",
+        "name": "Kansas State University",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 4931,
+        "total_events": 994
+      },
+      {
+        "university_id": "UNI_0075",
+        "name": "Iowa State University",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Rural",
+        "total_users": 4464,
+        "total_events": 975
+      },
+      {
+        "university_id": "UNI_0082",
+        "name": "Oregon State University",
+        "region": "West",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 4182,
+        "total_events": 956
+      },
+      {
+        "university_id": "UNI_0078",
+        "name": "University of Utah",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 4454,
+        "total_events": 930
+      },
+      {
+        "university_id": "UNI_0089",
+        "name": "UC Irvine",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 4448,
+        "total_events": 905
+      },
+      {
+        "university_id": "UNI_0100",
+        "name": "Northern Alaska College",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 4264,
+        "total_events": 880
+      },
+      {
+        "university_id": "UNI_0197",
+        "name": "Cascade Alabama State University",
+        "region": "West",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 4225,
+        "total_events": 878
+      },
+      {
+        "university_id": "UNI_0225",
+        "name": "Mountain New Jersey Polytechnic University",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 4421,
+        "total_events": 875
+      },
+      {
+        "university_id": "UNI_0117",
+        "name": "Summit South Dakota College",
+        "region": "West",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 3881,
+        "total_events": 836
+      },
+      {
+        "university_id": "UNI_0054",
+        "name": "University of Pennsylvania",
+        "region": "South",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 3672,
+        "total_events": 792
+      },
+      {
+        "university_id": "UNI_0222",
+        "name": "Eastern Maryland College",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 3639,
+        "total_events": 774
+      },
+      {
+        "university_id": "UNI_0232",
+        "name": "Coastal Wisconsin University",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 3511,
+        "total_events": 747
+      },
+      {
+        "university_id": "UNI_0133",
+        "name": "Atlantic New Hampshire University",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 3602,
+        "total_events": 733
+      },
+      {
+        "university_id": "UNI_0235",
+        "name": "Eastern Nebraska Institute of Technology",
+        "region": "West",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 3353,
+        "total_events": 693
+      },
+      {
+        "university_id": "UNI_0008",
+        "name": "University of Illinois Urbana-Champaign",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 3144,
+        "total_events": 681
+      },
+      {
+        "university_id": "UNI_0192",
+        "name": "Valley South Dakota State University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 2895,
+        "total_events": 645
+      },
+      {
+        "university_id": "UNI_0079",
+        "name": "Brigham Young University",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 2975,
+        "total_events": 627
+      },
+      {
+        "university_id": "UNI_0238",
+        "name": "Lake Wyoming College",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 2926,
+        "total_events": 620
+      },
+      {
+        "university_id": "UNI_0146",
+        "name": "River California Polytechnic University",
+        "region": "West",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 2837,
+        "total_events": 597
+      },
+      {
+        "university_id": "UNI_0218",
+        "name": "Ridge Washington University",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 3006,
+        "total_events": 595
+      },
+      {
+        "university_id": "UNI_0115",
+        "name": "Northern Indiana Polytechnic University",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Rural",
+        "total_users": 2648,
+        "total_events": 586
+      },
+      {
+        "university_id": "UNI_0229",
+        "name": "Harbor South Carolina Institute of Technology",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 2717,
+        "total_events": 579
+      },
+      {
+        "university_id": "UNI_0151",
+        "name": "Prairie Montana Polytechnic University",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 2602,
+        "total_events": 574
+      },
+      {
+        "university_id": "UNI_0093",
+        "name": "University of Nevada Las Vegas",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Rural",
+        "total_users": 2598,
+        "total_events": 574
+      },
+      {
+        "university_id": "UNI_0171",
+        "name": "Western North Carolina College",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 2702,
+        "total_events": 565
+      },
+      {
+        "university_id": "UNI_0219",
+        "name": "Valley Louisiana College",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 2535,
+        "total_events": 562
+      },
+      {
+        "university_id": "UNI_0182",
+        "name": "Cascade Nevada College",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Rural",
+        "total_users": 2580,
+        "total_events": 559
+      },
+      {
+        "university_id": "UNI_0156",
+        "name": "River South Dakota Polytechnic University",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 2782,
+        "total_events": 558
+      },
+      {
+        "university_id": "UNI_0053",
+        "name": "Cornell University",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 2623,
+        "total_events": 553
+      },
+      {
+        "university_id": "UNI_0158",
+        "name": "Northern North Carolina State University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 2437,
+        "total_events": 521
+      },
+      {
+        "university_id": "UNI_0015",
+        "name": "University of Arizona",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 2292,
+        "total_events": 514
+      },
+      {
+        "university_id": "UNI_0194",
+        "name": "Coastal Tennessee Polytechnic University",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 2406,
+        "total_events": 509
+      },
+      {
+        "university_id": "UNI_0161",
+        "name": "Upper South Carolina Polytechnic University",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 2348,
+        "total_events": 496
+      },
+      {
+        "university_id": "UNI_0083",
+        "name": "Washington State University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 2271,
+        "total_events": 471
+      },
+      {
+        "university_id": "UNI_0186",
+        "name": "Metro North Dakota College",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 2150,
+        "total_events": 450
+      },
+      {
+        "university_id": "UNI_0097",
+        "name": "TCU",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Rural",
+        "total_users": 2006,
+        "total_events": 439
+      },
+      {
+        "university_id": "UNI_0177",
+        "name": "Eastern Ohio Institute of Technology",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 2032,
+        "total_events": 427
+      },
+      {
+        "university_id": "UNI_0249",
+        "name": "Southern Georgia University",
+        "region": "South",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 1983,
+        "total_events": 407
+      },
+      {
+        "university_id": "UNI_0230",
+        "name": "Eastern Minnesota University",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 2043,
+        "total_events": 388
+      },
+      {
+        "university_id": "UNI_0084",
+        "name": "Boise State University",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 1878,
+        "total_events": 378
+      },
+      {
+        "university_id": "UNI_0001",
+        "name": "Ohio State University",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 1789,
+        "total_events": 357
+      },
+      {
+        "university_id": "UNI_0160",
+        "name": "Western Louisiana College",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1707,
+        "total_events": 356
+      },
+      {
+        "university_id": "UNI_0004",
+        "name": "University of Texas at Austin",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1596,
+        "total_events": 327
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "cluster_name": "Average Performer (4)",
+    "count": 45,
+    "avg_events_per_1k": 216.4,
+    "avg_rsvp_rate": 32.7,
+    "avg_attendance_rate": 33.9,
+    "avg_host_repeat_rate": 4.6,
+    "avg_adoption_rate": 0.1098,
+    "universities": [
+      {
+        "university_id": "UNI_0002",
+        "name": "Penn State University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 4133,
+        "total_events": 917
+      },
+      {
+        "university_id": "UNI_0176",
+        "name": "Mountain Wyoming Polytechnic University",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 3392,
+        "total_events": 757
+      },
+      {
+        "university_id": "UNI_0166",
+        "name": "Summit West Virginia Polytechnic University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 3169,
+        "total_events": 689
+      },
+      {
+        "university_id": "UNI_0029",
+        "name": "University of Kentucky",
+        "region": "South",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 2802,
+        "total_events": 595
+      },
+      {
+        "university_id": "UNI_0221",
+        "name": "Cascade Louisiana University",
+        "region": "South",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 2786,
+        "total_events": 594
+      },
+      {
+        "university_id": "UNI_0193",
+        "name": "Metro Montana Polytechnic University",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 2640,
+        "total_events": 586
+      },
+      {
+        "university_id": "UNI_0050",
+        "name": "University of Notre Dame",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 2667,
+        "total_events": 571
+      },
+      {
+        "university_id": "UNI_0059",
+        "name": "American University",
+        "region": "South",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 2677,
+        "total_events": 569
+      },
+      {
+        "university_id": "UNI_0090",
+        "name": "Cal Poly SLO",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 2452,
+        "total_events": 555
+      },
+      {
+        "university_id": "UNI_0140",
+        "name": "Pacific Florida University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 2435,
+        "total_events": 530
+      },
+      {
+        "university_id": "UNI_0157",
+        "name": "River Ohio Polytechnic University",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 2358,
+        "total_events": 524
+      },
+      {
+        "university_id": "UNI_0003",
+        "name": "University of Florida",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 2264,
+        "total_events": 484
+      },
+      {
+        "university_id": "UNI_0184",
+        "name": "Summit North Dakota Polytechnic University",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 2388,
+        "total_events": 481
+      },
+      {
+        "university_id": "UNI_0061",
+        "name": "Spelman College",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 2251,
+        "total_events": 452
+      },
+      {
+        "university_id": "UNI_0175",
+        "name": "Atlantic Utah Polytechnic University",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 1898,
+        "total_events": 435
+      },
+      {
+        "university_id": "UNI_0005",
+        "name": "UCLA",
+        "region": "West",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 1843,
+        "total_events": 427
+      },
+      {
+        "university_id": "UNI_0037",
+        "name": "University of Chicago",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1872,
+        "total_events": 413
+      },
+      {
+        "university_id": "UNI_0056",
+        "name": "Johns Hopkins University",
+        "region": "South",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 1990,
+        "total_events": 411
+      },
+      {
+        "university_id": "UNI_0213",
+        "name": "Western South Dakota Polytechnic University",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1873,
+        "total_events": 392
+      },
+      {
+        "university_id": "UNI_0035",
+        "name": "George Washington University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1814,
+        "total_events": 372
+      },
+      {
+        "university_id": "UNI_0212",
+        "name": "Greater Minnesota Polytechnic University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1714,
+        "total_events": 368
+      },
+      {
+        "university_id": "UNI_0023",
+        "name": "University of Oregon",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1678,
+        "total_events": 355
+      },
+      {
+        "university_id": "UNI_0014",
+        "name": "University of South Carolina",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 1578,
+        "total_events": 329
+      },
+      {
+        "university_id": "UNI_0237",
+        "name": "Mountain Arizona College",
+        "region": "South",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 1374,
+        "total_events": 315
+      },
+      {
+        "university_id": "UNI_0128",
+        "name": "Pacific South Carolina Institute of Technology",
+        "region": "West",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 1436,
+        "total_events": 302
+      },
+      {
+        "university_id": "UNI_0172",
+        "name": "Northern California State University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1408,
+        "total_events": 290
+      },
+      {
+        "university_id": "UNI_0025",
+        "name": "Purdue University",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 1353,
+        "total_events": 289
+      },
+      {
+        "university_id": "UNI_0072",
+        "name": "University of Oklahoma",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 1263,
+        "total_events": 271
+      },
+      {
+        "university_id": "UNI_0147",
+        "name": "Lake Missouri Polytechnic University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 1325,
+        "total_events": 270
+      },
+      {
+        "university_id": "UNI_0094",
+        "name": "University of New Mexico",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 1216,
+        "total_events": 266
+      },
+      {
+        "university_id": "UNI_0165",
+        "name": "Eastern Iowa State University",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 1039,
+        "total_events": 244
+      },
+      {
+        "university_id": "UNI_0021",
+        "name": "University of North Carolina at Chapel Hill",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 967,
+        "total_events": 229
+      },
+      {
+        "university_id": "UNI_0063",
+        "name": "Florida State University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 983,
+        "total_events": 214
+      },
+      {
+        "university_id": "UNI_0033",
+        "name": "Northeastern University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 929,
+        "total_events": 205
+      },
+      {
+        "university_id": "UNI_0246",
+        "name": "Central Oregon State University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 862,
+        "total_events": 182
+      },
+      {
+        "university_id": "UNI_0038",
+        "name": "Stanford University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 794,
+        "total_events": 162
+      },
+      {
+        "university_id": "UNI_0216",
+        "name": "Coastal Maine Polytechnic University",
+        "region": "South",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 776,
+        "total_events": 145
+      },
+      {
+        "university_id": "UNI_0024",
+        "name": "University of Washington",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 669,
+        "total_events": 142
+      },
+      {
+        "university_id": "UNI_0129",
+        "name": "Pacific Colorado Institute of Technology",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 581,
+        "total_events": 137
+      },
+      {
+        "university_id": "UNI_0220",
+        "name": "Atlantic Texas Institute of Technology",
+        "region": "South",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 530,
+        "total_events": 114
+      },
+      {
+        "university_id": "UNI_0141",
+        "name": "Harbor West Virginia Polytechnic University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 602,
+        "total_events": 110
+      },
+      {
+        "university_id": "UNI_0086",
+        "name": "UC San Diego",
+        "region": "West",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 466,
+        "total_events": 107
+      },
+      {
+        "university_id": "UNI_0109",
+        "name": "Atlantic Montana Polytechnic University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 339,
+        "total_events": 80
+      },
+      {
+        "university_id": "UNI_0240",
+        "name": "Pacific New York College",
+        "region": "South",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 277,
+        "total_events": 67
+      },
+      {
+        "university_id": "UNI_0236",
+        "name": "Coastal Oklahoma College",
+        "region": "South",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 238,
+        "total_events": 52
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "cluster_name": "Average Performer (5)",
+    "count": 39,
+    "avg_events_per_1k": 224.7,
+    "avg_rsvp_rate": 32.3,
+    "avg_attendance_rate": 33.5,
+    "avg_host_repeat_rate": 6.0,
+    "avg_adoption_rate": 0.1142,
+    "universities": [
+      {
+        "university_id": "UNI_0215",
+        "name": "Pacific Pennsylvania College",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 4777,
+        "total_events": 1092
+      },
+      {
+        "university_id": "UNI_0189",
+        "name": "Central Nevada University",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 4581,
+        "total_events": 1017
+      },
+      {
+        "university_id": "UNI_0180",
+        "name": "River Maryland State University",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 4208,
+        "total_events": 898
+      },
+      {
+        "university_id": "UNI_0101",
+        "name": "Ridge Michigan Institute of Technology",
+        "region": "West",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 3852,
+        "total_events": 838
+      },
+      {
+        "university_id": "UNI_0138",
+        "name": "Central New Jersey College",
+        "region": "South",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 3733,
+        "total_events": 805
+      },
+      {
+        "university_id": "UNI_0026",
+        "name": "Texas A&M University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 3294,
+        "total_events": 718
+      },
+      {
+        "university_id": "UNI_0114",
+        "name": "Harbor Connecticut University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 3200,
+        "total_events": 695
+      },
+      {
+        "university_id": "UNI_0011",
+        "name": "Michigan State University",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 2811,
+        "total_events": 620
+      },
+      {
+        "university_id": "UNI_0132",
+        "name": "Lake Washington University",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 2860,
+        "total_events": 615
+      },
+      {
+        "university_id": "UNI_0203",
+        "name": "Harbor Massachusetts College",
+        "region": "West",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 2477,
+        "total_events": 582
+      },
+      {
+        "university_id": "UNI_0153",
+        "name": "Greater Alaska University",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 2408,
+        "total_events": 570
+      },
+      {
+        "university_id": "UNI_0104",
+        "name": "Summit South Dakota College",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 2415,
+        "total_events": 539
+      },
+      {
+        "university_id": "UNI_0077",
+        "name": "Colorado State University",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 2317,
+        "total_events": 482
+      },
+      {
+        "university_id": "UNI_0136",
+        "name": "Mountain Rhode Island University",
+        "region": "South",
+        "type": "Private",
+        "setting": "Rural",
+        "total_users": 1999,
+        "total_events": 433
+      },
+      {
+        "university_id": "UNI_0210",
+        "name": "Cascade New Hampshire Polytechnic University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 1956,
+        "total_events": 430
+      },
+      {
+        "university_id": "UNI_0168",
+        "name": "Greater Oregon Institute of Technology",
+        "region": "West",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 1550,
+        "total_events": 349
+      },
+      {
+        "university_id": "UNI_0028",
+        "name": "University of Tennessee",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1400,
+        "total_events": 308
+      },
+      {
+        "university_id": "UNI_0007",
+        "name": "University of Wisconsin-Madison",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1439,
+        "total_events": 308
+      },
+      {
+        "university_id": "UNI_0120",
+        "name": "Coastal Arkansas Polytechnic University",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 1333,
+        "total_events": 306
+      },
+      {
+        "university_id": "UNI_0069",
+        "name": "LSU",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Rural",
+        "total_users": 1271,
+        "total_events": 294
+      },
+      {
+        "university_id": "UNI_0099",
+        "name": "Texas Tech University",
+        "region": "South",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 1183,
+        "total_events": 271
+      },
+      {
+        "university_id": "UNI_0144",
+        "name": "Northern Nevada University",
+        "region": "Northeast",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1115,
+        "total_events": 252
+      },
+      {
+        "university_id": "UNI_0187",
+        "name": "Coastal Vermont State University",
+        "region": "West",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 1118,
+        "total_events": 246
+      },
+      {
+        "university_id": "UNI_0052",
+        "name": "Dartmouth College",
+        "region": "South",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 1119,
+        "total_events": 234
+      },
+      {
+        "university_id": "UNI_0066",
+        "name": "Auburn University",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 939,
+        "total_events": 230
+      },
+      {
+        "university_id": "UNI_0102",
+        "name": "Upper South Carolina State University",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 991,
+        "total_events": 228
+      },
+      {
+        "university_id": "UNI_0178",
+        "name": "Pacific Vermont College",
+        "region": "South",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 990,
+        "total_events": 226
+      },
+      {
+        "university_id": "UNI_0018",
+        "name": "University of Maryland",
+        "region": "South",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 1033,
+        "total_events": 224
+      },
+      {
+        "university_id": "UNI_0060",
+        "name": "Howard University",
+        "region": "West",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 995,
+        "total_events": 219
+      },
+      {
+        "university_id": "UNI_0071",
+        "name": "Oklahoma State University",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 876,
+        "total_events": 217
+      },
+      {
+        "university_id": "UNI_0239",
+        "name": "Coastal Minnesota Polytechnic University",
+        "region": "South",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 899,
+        "total_events": 214
+      },
+      {
+        "university_id": "UNI_0027",
+        "name": "Virginia Tech",
+        "region": "Northeast",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 775,
+        "total_events": 204
+      },
+      {
+        "university_id": "UNI_0131",
+        "name": "Cascade Arkansas Institute of Technology",
+        "region": "Midwest",
+        "type": "Public",
+        "setting": "Suburban",
+        "total_users": 839,
+        "total_events": 184
+      },
+      {
+        "university_id": "UNI_0231",
+        "name": "Eastern Georgia State University",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Urban",
+        "total_users": 765,
+        "total_events": 182
+      },
+      {
+        "university_id": "UNI_0019",
+        "name": "University of Colorado Boulder",
+        "region": "West",
+        "type": "Private",
+        "setting": "Suburban",
+        "total_users": 704,
+        "total_events": 175
+      },
+      {
+        "university_id": "UNI_0130",
+        "name": "Upper Florida Institute of Technology",
+        "region": "West",
+        "type": "Private",
+        "setting": "Rural",
+        "total_users": 836,
+        "total_events": 171
+      },
+      {
+        "university_id": "UNI_0095",
+        "name": "University of Houston",
+        "region": "South",
+        "type": "Public",
+        "setting": "Rural",
+        "total_users": 519,
+        "total_events": 109
+      },
+      {
+        "university_id": "UNI_0152",
+        "name": "Ridge Utah State University",
+        "region": "Midwest",
+        "type": "Private",
+        "setting": "Rural",
+        "total_users": 343,
+        "total_events": 74
+      },
+      {
+        "university_id": "UNI_0208",
+        "name": "Lake Georgia Institute of Technology",
+        "region": "West",
+        "type": "Public",
+        "setting": "Urban",
+        "total_users": 277,
+        "total_events": 63
+      }
+    ]
+  }
+]

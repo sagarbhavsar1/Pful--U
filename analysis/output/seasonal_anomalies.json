@@ -1,0 +1,9 @@
+[
+  {
+    "week": 45,
+    "observed": 5452.0,
+    "expected": 2107.8,
+    "residual": 3344.2,
+    "direction": "above"
+  }
+]

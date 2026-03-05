@@ -1,0 +1,12 @@
+{
+  "total_universities": 250,
+  "total_users": 623995,
+  "total_events": 132388,
+  "total_rsvps": 4476263,
+  "total_attendance_records": 4476263,
+  "attendance_rate": 0.3358,
+  "campus_public_events": 39306,
+  "friends_only_events": 93082,
+  "median_friend_count": 9,
+  "avg_uni_adoption_rate": 0.1488
+}

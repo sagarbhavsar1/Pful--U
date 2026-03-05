@@ -1,0 +1,262 @@
+[
+  {
+    "event_week": 0,
+    "yes_rate": 32.67569498571057,
+    "attendance_rate": 33.96932103576687
+  },
+  {
+    "event_week": 1,
+    "yes_rate": 32.534022736291696,
+    "attendance_rate": 33.63407175704381
+  },
+  {
+    "event_week": 2,
+    "yes_rate": 32.34634035561136,
+    "attendance_rate": 33.526590699600575
+  },
+  {
+    "event_week": 3,
+    "yes_rate": 32.457673161921264,
+    "attendance_rate": 33.323299217338956
+  },
+  {
+    "event_week": 4,
+    "yes_rate": 32.44829788279216,
+    "attendance_rate": 33.36280722437818
+  },
+  {
+    "event_week": 5,
+    "yes_rate": 32.38853331899102,
+    "attendance_rate": 33.4364187238925
+  },
+  {
+    "event_week": 6,
+    "yes_rate": 32.410050592125714,
+    "attendance_rate": 33.3851502218705
+  },
+  {
+    "event_week": 7,
+    "yes_rate": 32.39446238499888,
+    "attendance_rate": 33.74081698358033
+  },
+  {
+    "event_week": 8,
+    "yes_rate": 32.21477351043168,
+    "attendance_rate": 33.50416640561368
+  },
+  {
+    "event_week": 9,
+    "yes_rate": 32.08515583388479,
+    "attendance_rate": 32.917991510240974
+  },
+  {
+    "event_week": 10,
+    "yes_rate": 32.233789038003266,
+    "attendance_rate": 33.403361344537814
+  },
+  {
+    "event_week": 11,
+    "yes_rate": 32.458240203145046,
+    "attendance_rate": 33.37212839401674
+  },
+  {
+    "event_week": 12,
+    "yes_rate": 32.249010374010375,
+    "attendance_rate": 33.46386158886159
+  },
+  {
+    "event_week": 13,
+    "yes_rate": 32.12675207970436,
+    "attendance_rate": 33.078288049229165
+  },
+  {
+    "event_week": 14,
+    "yes_rate": 32.53078851395148,
+    "attendance_rate": 33.72874870168917
+  },
+  {
+    "event_week": 15,
+    "yes_rate": 32.27064351068079,
+    "attendance_rate": 33.35298929067356
+  },
+  {
+    "event_week": 16,
+    "yes_rate": 32.23750905141202,
+    "attendance_rate": 33.63263335747043
+  },
+  {
+    "event_week": 17,
+    "yes_rate": 32.2093727773241,
+    "attendance_rate": 33.56866257474776
+  },
+  {
+    "event_week": 18,
+    "yes_rate": 32.77674935209182,
+    "attendance_rate": 34.07256571640133
+  },
+  {
+    "event_week": 19,
+    "yes_rate": 32.29094598957612,
+    "attendance_rate": 33.181126331811264
+  },
+  {
+    "event_week": 20,
+    "yes_rate": 32.92937735060593,
+    "attendance_rate": 34.15318488448451
+  },
+  {
+    "event_week": 21,
+    "yes_rate": 32.61950982771172,
+    "attendance_rate": 33.59621451104101
+  },
+  {
+    "event_week": 22,
+    "yes_rate": 32.248981849263416,
+    "attendance_rate": 33.28975815777566
+  },
+  {
+    "event_week": 23,
+    "yes_rate": 32.626340225124416,
+    "attendance_rate": 33.83212532148702
+  },
+  {
+    "event_week": 24,
+    "yes_rate": 32.45254769976985,
+    "attendance_rate": 33.76166200598876
+  },
+  {
+    "event_week": 25,
+    "yes_rate": 32.28680556552705,
+    "attendance_rate": 33.615007969214425
+  },
+  {
+    "event_week": 26,
+    "yes_rate": 32.34513310040427,
+    "attendance_rate": 33.46190157267468
+  },
+  {
+    "event_week": 27,
+    "yes_rate": 32.220014899428854,
+    "attendance_rate": 33.56273723792969
+  },
+  {
+    "event_week": 28,
+    "yes_rate": 32.41173929428201,
+    "attendance_rate": 33.57629346397419
+  },
+  {
+    "event_week": 29,
+    "yes_rate": 32.358940843285204,
+    "attendance_rate": 33.674964846612404
+  },
+  {
+    "event_week": 30,
+    "yes_rate": 32.87135439413792,
+    "attendance_rate": 33.87004415975154
+  },
+  {
+    "event_week": 31,
+    "yes_rate": 32.29011993146773,
+    "attendance_rate": 33.40245134648333
+  },
+  {
+    "event_week": 32,
+    "yes_rate": 32.20278373769049,
+    "attendance_rate": 33.723936843263466
+  },
+  {
+    "event_week": 33,
+    "yes_rate": 33.148184239589426,
+    "attendance_rate": 34.18436951861236
+  },
+  {
+    "event_week": 34,
+    "yes_rate": 32.507157741372595,
+    "attendance_rate": 33.85823436732343
+  },
+  {
+    "event_week": 35,
+    "yes_rate": 32.30491086444668,
+    "attendance_rate": 33.53010427177935
+  },
+  {
+    "event_week": 36,
+    "yes_rate": 32.033000248924296,
+    "attendance_rate": 33.40563991323211
+  },
+  {
+    "event_week": 37,
+    "yes_rate": 32.38593052379397,
+    "attendance_rate": 33.699952811354315
+  },
+  {
+    "event_week": 38,
+    "yes_rate": 32.554144285501586,
+    "attendance_rate": 33.79794532314776
+  },
+  {
+    "event_week": 39,
+    "yes_rate": 32.43052870007182,
+    "attendance_rate": 33.29235953814707
+  },
+  {
+    "event_week": 40,
+    "yes_rate": 32.62000157121533,
+    "attendance_rate": 33.7119962290832
+  },
+  {
+    "event_week": 41,
+    "yes_rate": 32.560154770061665,
+    "attendance_rate": 33.81161581556567
+  },
+  {
+    "event_week": 42,
+    "yes_rate": 32.667870628796585,
+    "attendance_rate": 33.52158923001149
+  },
+  {
+    "event_week": 43,
+    "yes_rate": 31.975979817361335,
+    "attendance_rate": 32.71861564154497
+  },
+  {
+    "event_week": 44,
+    "yes_rate": 32.558227275013834,
+    "attendance_rate": 33.80577493837718
+  },
+  {
+    "event_week": 45,
+    "yes_rate": 32.608272803561206,
+    "attendance_rate": 33.82312894925503
+  },
+  {
+    "event_week": 46,
+    "yes_rate": 32.50242103006513,
+    "attendance_rate": 33.74731099332461
+  },
+  {
+    "event_week": 47,
+    "yes_rate": 32.85730632795514,
+    "attendance_rate": 33.77960865087539
+  },
+  {
+    "event_week": 48,
+    "yes_rate": 32.29723166585721,
+    "attendance_rate": 33.217453541576134
+  },
+  {
+    "event_week": 49,
+    "yes_rate": 31.879871002418703,
+    "attendance_rate": 33.109379199140015
+  },
+  {
+    "event_week": 50,
+    "yes_rate": 31.564271487666616,
+    "attendance_rate": 32.756243297073695
+  },
+  {
+    "event_week": 51,
+    "yes_rate": 32.397349554638275,
+    "attendance_rate": 33.48359765370411
+  }
+]

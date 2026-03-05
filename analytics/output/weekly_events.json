@@ -1,0 +1,314 @@
+[
+  {
+    "event_week": 0,
+    "events": 5558,
+    "campus_public_events": 1671,
+    "friends_only_events": 3887
+  },
+  {
+    "event_week": 1,
+    "events": 5048,
+    "campus_public_events": 1482,
+    "friends_only_events": 3566
+  },
+  {
+    "event_week": 2,
+    "events": 4342,
+    "campus_public_events": 1304,
+    "friends_only_events": 3038
+  },
+  {
+    "event_week": 3,
+    "events": 4010,
+    "campus_public_events": 1166,
+    "friends_only_events": 2844
+  },
+  {
+    "event_week": 4,
+    "events": 3533,
+    "campus_public_events": 1027,
+    "friends_only_events": 2506
+  },
+  {
+    "event_week": 5,
+    "events": 3236,
+    "campus_public_events": 980,
+    "friends_only_events": 2256
+  },
+  {
+    "event_week": 6,
+    "events": 3129,
+    "campus_public_events": 917,
+    "friends_only_events": 2212
+  },
+  {
+    "event_week": 7,
+    "events": 2993,
+    "campus_public_events": 880,
+    "friends_only_events": 2113
+  },
+  {
+    "event_week": 8,
+    "events": 2353,
+    "campus_public_events": 668,
+    "friends_only_events": 1685
+  },
+  {
+    "event_week": 9,
+    "events": 1795,
+    "campus_public_events": 524,
+    "friends_only_events": 1271
+  },
+  {
+    "event_week": 10,
+    "events": 1887,
+    "campus_public_events": 519,
+    "friends_only_events": 1368
+  },
+  {
+    "event_week": 11,
+    "events": 2220,
+    "campus_public_events": 656,
+    "friends_only_events": 1564
+  },
+  {
+    "event_week": 12,
+    "events": 3477,
+    "campus_public_events": 1069,
+    "friends_only_events": 2408
+  },
+  {
+    "event_week": 13,
+    "events": 3586,
+    "campus_public_events": 1049,
+    "friends_only_events": 2537
+  },
+  {
+    "event_week": 14,
+    "events": 3797,
+    "campus_public_events": 1104,
+    "friends_only_events": 2693
+  },
+  {
+    "event_week": 15,
+    "events": 1575,
+    "campus_public_events": 467,
+    "friends_only_events": 1108
+  },
+  {
+    "event_week": 16,
+    "events": 1293,
+    "campus_public_events": 405,
+    "friends_only_events": 888
+  },
+  {
+    "event_week": 17,
+    "events": 1093,
+    "campus_public_events": 336,
+    "friends_only_events": 757
+  },
+  {
+    "event_week": 18,
+    "events": 783,
+    "campus_public_events": 265,
+    "friends_only_events": 518
+  },
+  {
+    "event_week": 19,
+    "events": 639,
+    "campus_public_events": 182,
+    "friends_only_events": 457
+  },
+  {
+    "event_week": 20,
+    "events": 494,
+    "campus_public_events": 137,
+    "friends_only_events": 357
+  },
+  {
+    "event_week": 21,
+    "events": 478,
+    "campus_public_events": 165,
+    "friends_only_events": 313
+  },
+  {
+    "event_week": 22,
+    "events": 606,
+    "campus_public_events": 171,
+    "friends_only_events": 435
+  },
+  {
+    "event_week": 23,
+    "events": 880,
+    "campus_public_events": 261,
+    "friends_only_events": 619
+  },
+  {
+    "event_week": 24,
+    "events": 4772,
+    "campus_public_events": 1395,
+    "friends_only_events": 3377
+  },
+  {
+    "event_week": 25,
+    "events": 4108,
+    "campus_public_events": 1240,
+    "friends_only_events": 2868
+  },
+  {
+    "event_week": 26,
+    "events": 3691,
+    "campus_public_events": 1074,
+    "friends_only_events": 2617
+  },
+  {
+    "event_week": 27,
+    "events": 3394,
+    "campus_public_events": 992,
+    "friends_only_events": 2402
+  },
+  {
+    "event_week": 28,
+    "events": 3182,
+    "campus_public_events": 955,
+    "friends_only_events": 2227
+  },
+  {
+    "event_week": 29,
+    "events": 3046,
+    "campus_public_events": 930,
+    "friends_only_events": 2116
+  },
+  {
+    "event_week": 30,
+    "events": 3107,
+    "campus_public_events": 921,
+    "friends_only_events": 2186
+  },
+  {
+    "event_week": 31,
+    "events": 3278,
+    "campus_public_events": 1012,
+    "friends_only_events": 2266
+  },
+  {
+    "event_week": 32,
+    "events": 1056,
+    "campus_public_events": 316,
+    "friends_only_events": 740
+  },
+  {
+    "event_week": 33,
+    "events": 935,
+    "campus_public_events": 254,
+    "friends_only_events": 681
+  },
+  {
+    "event_week": 34,
+    "events": 3523,
+    "campus_public_events": 1035,
+    "friends_only_events": 2488
+  },
+  {
+    "event_week": 35,
+    "events": 3573,
+    "campus_public_events": 1068,
+    "friends_only_events": 2505
+  },
+  {
+    "event_week": 36,
+    "events": 3384,
+    "campus_public_events": 1023,
+    "friends_only_events": 2361
+  },
+  {
+    "event_week": 37,
+    "events": 3259,
+    "campus_public_events": 945,
+    "friends_only_events": 2314
+  },
+  {
+    "event_week": 38,
+    "events": 2559,
+    "campus_public_events": 803,
+    "friends_only_events": 1756
+  },
+  {
+    "event_week": 39,
+    "events": 2126,
+    "campus_public_events": 627,
+    "friends_only_events": 1499
+  },
+  {
+    "event_week": 40,
+    "events": 1880,
+    "campus_public_events": 582,
+    "friends_only_events": 1298
+  },
+  {
+    "event_week": 41,
+    "events": 1483,
+    "campus_public_events": 440,
+    "friends_only_events": 1043
+  },
+  {
+    "event_week": 42,
+    "events": 948,
+    "campus_public_events": 272,
+    "friends_only_events": 676
+  },
+  {
+    "event_week": 43,
+    "events": 807,
+    "campus_public_events": 241,
+    "friends_only_events": 566
+  },
+  {
+    "event_week": 44,
+    "events": 4657,
+    "campus_public_events": 1387,
+    "friends_only_events": 3270
+  },
+  {
+    "event_week": 45,
+    "events": 5452,
+    "campus_public_events": 1593,
+    "friends_only_events": 3859
+  },
+  {
+    "event_week": 46,
+    "events": 4049,
+    "campus_public_events": 1238,
+    "friends_only_events": 2811
+  },
+  {
+    "event_week": 47,
+    "events": 1244,
+    "campus_public_events": 367,
+    "friends_only_events": 877
+  },
+  {
+    "event_week": 48,
+    "events": 1142,
+    "campus_public_events": 327,
+    "friends_only_events": 815
+  },
+  {
+    "event_week": 49,
+    "events": 862,
+    "campus_public_events": 250,
+    "friends_only_events": 612
+  },
+  {
+    "event_week": 50,
+    "events": 946,
+    "campus_public_events": 268,
+    "friends_only_events": 678
+  },
+  {
+    "event_week": 51,
+    "events": 1120,
+    "campus_public_events": 346,
+    "friends_only_events": 774
+  }
+]

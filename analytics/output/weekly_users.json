@@ -1,0 +1,262 @@
+[
+  {
+    "join_week": 0,
+    "new_users": 49134,
+    "cumulative_users": 49134.0
+  },
+  {
+    "join_week": 1,
+    "new_users": 41600,
+    "cumulative_users": 90734.0
+  },
+  {
+    "join_week": 2,
+    "new_users": 29854,
+    "cumulative_users": 120588.0
+  },
+  {
+    "join_week": 3,
+    "new_users": 23049,
+    "cumulative_users": 143637.0
+  },
+  {
+    "join_week": 4,
+    "new_users": 18088,
+    "cumulative_users": 161725.0
+  },
+  {
+    "join_week": 5,
+    "new_users": 16545,
+    "cumulative_users": 178270.0
+  },
+  {
+    "join_week": 6,
+    "new_users": 15038,
+    "cumulative_users": 193308.0
+  },
+  {
+    "join_week": 7,
+    "new_users": 14065,
+    "cumulative_users": 207373.0
+  },
+  {
+    "join_week": 8,
+    "new_users": 11739,
+    "cumulative_users": 219112.0
+  },
+  {
+    "join_week": 9,
+    "new_users": 9938,
+    "cumulative_users": 229050.0
+  },
+  {
+    "join_week": 10,
+    "new_users": 9062,
+    "cumulative_users": 238112.0
+  },
+  {
+    "join_week": 11,
+    "new_users": 10781,
+    "cumulative_users": 248893.0
+  },
+  {
+    "join_week": 12,
+    "new_users": 13125,
+    "cumulative_users": 262018.0
+  },
+  {
+    "join_week": 13,
+    "new_users": 14100,
+    "cumulative_users": 276118.0
+  },
+  {
+    "join_week": 14,
+    "new_users": 14870,
+    "cumulative_users": 290988.0
+  },
+  {
+    "join_week": 15,
+    "new_users": 6643,
+    "cumulative_users": 297631.0
+  },
+  {
+    "join_week": 16,
+    "new_users": 4922,
+    "cumulative_users": 302553.0
+  },
+  {
+    "join_week": 17,
+    "new_users": 5071,
+    "cumulative_users": 307624.0
+  },
+  {
+    "join_week": 18,
+    "new_users": 3472,
+    "cumulative_users": 311096.0
+  },
+  {
+    "join_week": 19,
+    "new_users": 2550,
+    "cumulative_users": 313646.0
+  },
+  {
+    "join_week": 20,
+    "new_users": 1671,
+    "cumulative_users": 315317.0
+  },
+  {
+    "join_week": 21,
+    "new_users": 1698,
+    "cumulative_users": 317015.0
+  },
+  {
+    "join_week": 22,
+    "new_users": 2519,
+    "cumulative_users": 319534.0
+  },
+  {
+    "join_week": 23,
+    "new_users": 4086,
+    "cumulative_users": 323620.0
+  },
+  {
+    "join_week": 24,
+    "new_users": 33303,
+    "cumulative_users": 356923.0
+  },
+  {
+    "join_week": 25,
+    "new_users": 26310,
+    "cumulative_users": 383233.0
+  },
+  {
+    "join_week": 26,
+    "new_users": 19899,
+    "cumulative_users": 403132.0
+  },
+  {
+    "join_week": 27,
+    "new_users": 16484,
+    "cumulative_users": 419616.0
+  },
+  {
+    "join_week": 28,
+    "new_users": 14762,
+    "cumulative_users": 434378.0
+  },
+  {
+    "join_week": 29,
+    "new_users": 13969,
+    "cumulative_users": 448347.0
+  },
+  {
+    "join_week": 30,
+    "new_users": 13790,
+    "cumulative_users": 462137.0
+  },
+  {
+    "join_week": 31,
+    "new_users": 13064,
+    "cumulative_users": 475201.0
+  },
+  {
+    "join_week": 32,
+    "new_users": 4920,
+    "cumulative_users": 480121.0
+  },
+  {
+    "join_week": 33,
+    "new_users": 4023,
+    "cumulative_users": 484144.0
+  },
+  {
+    "join_week": 34,
+    "new_users": 14865,
+    "cumulative_users": 499009.0
+  },
+  {
+    "join_week": 35,
+    "new_users": 13997,
+    "cumulative_users": 513006.0
+  },
+  {
+    "join_week": 36,
+    "new_users": 13207,
+    "cumulative_users": 526213.0
+  },
+  {
+    "join_week": 37,
+    "new_users": 12449,
+    "cumulative_users": 538662.0
+  },
+  {
+    "join_week": 38,
+    "new_users": 9824,
+    "cumulative_users": 548486.0
+  },
+  {
+    "join_week": 39,
+    "new_users": 8199,
+    "cumulative_users": 556685.0
+  },
+  {
+    "join_week": 40,
+    "new_users": 7453,
+    "cumulative_users": 564138.0
+  },
+  {
+    "join_week": 41,
+    "new_users": 6654,
+    "cumulative_users": 570792.0
+  },
+  {
+    "join_week": 42,
+    "new_users": 4968,
+    "cumulative_users": 575760.0
+  },
+  {
+    "join_week": 43,
+    "new_users": 4167,
+    "cumulative_users": 579927.0
+  },
+  {
+    "join_week": 44,
+    "new_users": 8095,
+    "cumulative_users": 588022.0
+  },
+  {
+    "join_week": 45,
+    "new_users": 9801,
+    "cumulative_users": 597823.0
+  },
+  {
+    "join_week": 46,
+    "new_users": 6580,
+    "cumulative_users": 604403.0
+  },
+  {
+    "join_week": 47,
+    "new_users": 4874,
+    "cumulative_users": 609277.0
+  },
+  {
+    "join_week": 48,
+    "new_users": 3988,
+    "cumulative_users": 613265.0
+  },
+  {
+    "join_week": 49,
+    "new_users": 3227,
+    "cumulative_users": 616492.0
+  },
+  {
+    "join_week": 50,
+    "new_users": 3334,
+    "cumulative_users": 619826.0
+  },
+  {
+    "join_week": 51,
+    "new_users": 4169,
+    "cumulative_users": 623995.0
+  }
+]

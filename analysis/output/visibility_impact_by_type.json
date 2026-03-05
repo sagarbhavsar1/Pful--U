@@ -1,0 +1,66 @@
+[
+  {
+    "event_type": "Networking",
+    "campus_public_rate": 41.38,
+    "friends_only_rate": 35.98,
+    "lift_pct": 15.02,
+    "campus_public_n": 3919,
+    "friends_only_n": 9152
+  },
+  {
+    "event_type": "Club Event",
+    "campus_public_rate": 46.92,
+    "friends_only_rate": 40.84,
+    "lift_pct": 14.9,
+    "campus_public_n": 7932,
+    "friends_only_n": 18737
+  },
+  {
+    "event_type": "House Party",
+    "campus_public_rate": 60.69,
+    "friends_only_rate": 52.78,
+    "lift_pct": 14.98,
+    "campus_public_n": 11609,
+    "friends_only_n": 27772
+  },
+  {
+    "event_type": "Birthday",
+    "campus_public_rate": 68.92,
+    "friends_only_rate": 60.13,
+    "lift_pct": 14.61,
+    "campus_public_n": 5847,
+    "friends_only_n": 14108
+  },
+  {
+    "event_type": "Study Group",
+    "campus_public_rate": 55.19,
+    "friends_only_rate": 47.65,
+    "lift_pct": 15.82,
+    "campus_public_n": 3252,
+    "friends_only_n": 7385
+  },
+  {
+    "event_type": "Other",
+    "campus_public_rate": 49.8,
+    "friends_only_rate": 43.52,
+    "lift_pct": 14.44,
+    "campus_public_n": 1944,
+    "friends_only_n": 4578
+  },
+  {
+    "event_type": "Sports Watch",
+    "campus_public_rate": 52.72,
+    "friends_only_rate": 45.7,
+    "lift_pct": 15.35,
+    "campus_public_n": 2806,
+    "friends_only_n": 6600
+  },
+  {
+    "event_type": "Cultural",
+    "campus_public_rate": 49.63,
+    "friends_only_rate": 43.39,
+    "lift_pct": 14.36,
+    "campus_public_n": 1997,
+    "friends_only_n": 4750
+  }
+]

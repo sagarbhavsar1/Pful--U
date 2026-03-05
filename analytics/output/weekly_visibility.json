@@ -1,0 +1,834 @@
+[
+  {
+    "event_week": 0,
+    "visibility_scope": "campus_public",
+    "events": 1671,
+    "total_rsvps": 54759,
+    "yes_rsvps": 19699,
+    "yes_rate": 35.97
+  },
+  {
+    "event_week": 0,
+    "visibility_scope": "friends_only",
+    "events": 3887,
+    "total_rsvps": 129993,
+    "yes_rsvps": 40670,
+    "yes_rate": 31.29
+  },
+  {
+    "event_week": 1,
+    "visibility_scope": "campus_public",
+    "events": 1482,
+    "total_rsvps": 48954,
+    "yes_rsvps": 17706,
+    "yes_rate": 36.17
+  },
+  {
+    "event_week": 1,
+    "visibility_scope": "friends_only",
+    "events": 3566,
+    "total_rsvps": 122402,
+    "yes_rsvps": 38043,
+    "yes_rate": 31.08
+  },
+  {
+    "event_week": 2,
+    "visibility_scope": "campus_public",
+    "events": 1304,
+    "total_rsvps": 45049,
+    "yes_rsvps": 16117,
+    "yes_rate": 35.78
+  },
+  {
+    "event_week": 2,
+    "visibility_scope": "friends_only",
+    "events": 3038,
+    "total_rsvps": 104665,
+    "yes_rsvps": 32310,
+    "yes_rate": 30.87
+  },
+  {
+    "event_week": 3,
+    "visibility_scope": "campus_public",
+    "events": 1166,
+    "total_rsvps": 39241,
+    "yes_rsvps": 13886,
+    "yes_rate": 35.39
+  },
+  {
+    "event_week": 3,
+    "visibility_scope": "friends_only",
+    "events": 2844,
+    "total_rsvps": 96961,
+    "yes_rsvps": 30322,
+    "yes_rate": 31.27
+  },
+  {
+    "event_week": 4,
+    "visibility_scope": "campus_public",
+    "events": 1027,
+    "total_rsvps": 34537,
+    "yes_rsvps": 12295,
+    "yes_rate": 35.6
+  },
+  {
+    "event_week": 4,
+    "visibility_scope": "friends_only",
+    "events": 2506,
+    "total_rsvps": 87605,
+    "yes_rsvps": 27338,
+    "yes_rate": 31.21
+  },
+  {
+    "event_week": 5,
+    "visibility_scope": "campus_public",
+    "events": 980,
+    "total_rsvps": 33821,
+    "yes_rsvps": 12086,
+    "yes_rate": 35.74
+  },
+  {
+    "event_week": 5,
+    "visibility_scope": "friends_only",
+    "events": 2256,
+    "total_rsvps": 77737,
+    "yes_rsvps": 24046,
+    "yes_rate": 30.93
+  },
+  {
+    "event_week": 6,
+    "visibility_scope": "campus_public",
+    "events": 917,
+    "total_rsvps": 31598,
+    "yes_rsvps": 11135,
+    "yes_rate": 35.24
+  },
+  {
+    "event_week": 6,
+    "visibility_scope": "friends_only",
+    "events": 2212,
+    "total_rsvps": 74545,
+    "yes_rsvps": 23266,
+    "yes_rate": 31.21
+  },
+  {
+    "event_week": 7,
+    "visibility_scope": "campus_public",
+    "events": 880,
+    "total_rsvps": 31001,
+    "yes_rsvps": 10965,
+    "yes_rate": 35.37
+  },
+  {
+    "event_week": 7,
+    "visibility_scope": "friends_only",
+    "events": 2113,
+    "total_rsvps": 71498,
+    "yes_rsvps": 22239,
+    "yes_rate": 31.1
+  },
+  {
+    "event_week": 8,
+    "visibility_scope": "campus_public",
+    "events": 668,
+    "total_rsvps": 23080,
+    "yes_rsvps": 8150,
+    "yes_rate": 35.31
+  },
+  {
+    "event_week": 8,
+    "visibility_scope": "friends_only",
+    "events": 1685,
+    "total_rsvps": 56725,
+    "yes_rsvps": 17559,
+    "yes_rate": 30.95
+  },
+  {
+    "event_week": 9,
+    "visibility_scope": "campus_public",
+    "events": 524,
+    "total_rsvps": 17197,
+    "yes_rsvps": 6236,
+    "yes_rate": 36.26
+  },
+  {
+    "event_week": 9,
+    "visibility_scope": "friends_only",
+    "events": 1271,
+    "total_rsvps": 44760,
+    "yes_rsvps": 13643,
+    "yes_rate": 30.48
+  },
+  {
+    "event_week": 10,
+    "visibility_scope": "campus_public",
+    "events": 519,
+    "total_rsvps": 18260,
+    "yes_rsvps": 6469,
+    "yes_rate": 35.43
+  },
+  {
+    "event_week": 10,
+    "visibility_scope": "friends_only",
+    "events": 1368,
+    "total_rsvps": 45524,
+    "yes_rsvps": 14091,
+    "yes_rate": 30.95
+  },
+  {
+    "event_week": 11,
+    "visibility_scope": "campus_public",
+    "events": 656,
+    "total_rsvps": 21383,
+    "yes_rsvps": 7678,
+    "yes_rate": 35.91
+  },
+  {
+    "event_week": 11,
+    "visibility_scope": "friends_only",
+    "events": 1564,
+    "total_rsvps": 54228,
+    "yes_rsvps": 16864,
+    "yes_rate": 31.1
+  },
+  {
+    "event_week": 12,
+    "visibility_scope": "campus_public",
+    "events": 1069,
+    "total_rsvps": 36306,
+    "yes_rsvps": 12969,
+    "yes_rate": 35.72
+  },
+  {
+    "event_week": 12,
+    "visibility_scope": "friends_only",
+    "events": 2408,
+    "total_rsvps": 80910,
+    "yes_rsvps": 24832,
+    "yes_rate": 30.69
+  },
+  {
+    "event_week": 13,
+    "visibility_scope": "campus_public",
+    "events": 1049,
+    "total_rsvps": 35942,
+    "yes_rsvps": 12775,
+    "yes_rate": 35.54
+  },
+  {
+    "event_week": 13,
+    "visibility_scope": "friends_only",
+    "events": 2537,
+    "total_rsvps": 86912,
+    "yes_rsvps": 26694,
+    "yes_rate": 30.71
+  },
+  {
+    "event_week": 14,
+    "visibility_scope": "campus_public",
+    "events": 1104,
+    "total_rsvps": 37238,
+    "yes_rsvps": 13287,
+    "yes_rate": 35.68
+  },
+  {
+    "event_week": 14,
+    "visibility_scope": "friends_only",
+    "events": 2693,
+    "total_rsvps": 90813,
+    "yes_rsvps": 28369,
+    "yes_rate": 31.24
+  },
+  {
+    "event_week": 15,
+    "visibility_scope": "campus_public",
+    "events": 467,
+    "total_rsvps": 15771,
+    "yes_rsvps": 5535,
+    "yes_rate": 35.1
+  },
+  {
+    "event_week": 15,
+    "visibility_scope": "friends_only",
+    "events": 1108,
+    "total_rsvps": 36800,
+    "yes_rsvps": 11430,
+    "yes_rate": 31.06
+  },
+  {
+    "event_week": 16,
+    "visibility_scope": "campus_public",
+    "events": 405,
+    "total_rsvps": 12313,
+    "yes_rsvps": 4420,
+    "yes_rate": 35.9
+  },
+  {
+    "event_week": 16,
+    "visibility_scope": "friends_only",
+    "events": 888,
+    "total_rsvps": 29117,
+    "yes_rsvps": 8936,
+    "yes_rate": 30.69
+  },
+  {
+    "event_week": 17,
+    "visibility_scope": "campus_public",
+    "events": 336,
+    "total_rsvps": 12428,
+    "yes_rsvps": 4321,
+    "yes_rate": 34.77
+  },
+  {
+    "event_week": 17,
+    "visibility_scope": "friends_only",
+    "events": 757,
+    "total_rsvps": 25533,
+    "yes_rsvps": 7906,
+    "yes_rate": 30.96
+  },
+  {
+    "event_week": 18,
+    "visibility_scope": "campus_public",
+    "events": 265,
+    "total_rsvps": 8981,
+    "yes_rsvps": 3260,
+    "yes_rate": 36.3
+  },
+  {
+    "event_week": 18,
+    "visibility_scope": "friends_only",
+    "events": 518,
+    "total_rsvps": 18029,
+    "yes_rsvps": 5593,
+    "yes_rate": 31.02
+  },
+  {
+    "event_week": 19,
+    "visibility_scope": "campus_public",
+    "events": 182,
+    "total_rsvps": 5755,
+    "yes_rsvps": 2045,
+    "yes_rate": 35.53
+  },
+  {
+    "event_week": 19,
+    "visibility_scope": "friends_only",
+    "events": 457,
+    "total_rsvps": 15926,
+    "yes_rsvps": 4956,
+    "yes_rate": 31.12
+  },
+  {
+    "event_week": 20,
+    "visibility_scope": "campus_public",
+    "events": 137,
+    "total_rsvps": 4266,
+    "yes_rsvps": 1591,
+    "yes_rate": 37.29
+  },
+  {
+    "event_week": 20,
+    "visibility_scope": "friends_only",
+    "events": 357,
+    "total_rsvps": 12485,
+    "yes_rsvps": 3925,
+    "yes_rate": 31.44
+  },
+  {
+    "event_week": 21,
+    "visibility_scope": "campus_public",
+    "events": 165,
+    "total_rsvps": 5683,
+    "yes_rsvps": 2061,
+    "yes_rate": 36.27
+  },
+  {
+    "event_week": 21,
+    "visibility_scope": "friends_only",
+    "events": 313,
+    "total_rsvps": 10801,
+    "yes_rsvps": 3316,
+    "yes_rate": 30.7
+  },
+  {
+    "event_week": 22,
+    "visibility_scope": "campus_public",
+    "events": 171,
+    "total_rsvps": 5979,
+    "yes_rsvps": 2169,
+    "yes_rate": 36.28
+  },
+  {
+    "event_week": 22,
+    "visibility_scope": "friends_only",
+    "events": 435,
+    "total_rsvps": 13910,
+    "yes_rsvps": 4245,
+    "yes_rate": 30.52
+  },
+  {
+    "event_week": 23,
+    "visibility_scope": "campus_public",
+    "events": 261,
+    "total_rsvps": 8389,
+    "yes_rsvps": 3049,
+    "yes_rate": 36.35
+  },
+  {
+    "event_week": 23,
+    "visibility_scope": "friends_only",
+    "events": 619,
+    "total_rsvps": 21550,
+    "yes_rsvps": 6719,
+    "yes_rate": 31.18
+  },
+  {
+    "event_week": 24,
+    "visibility_scope": "campus_public",
+    "events": 1395,
+    "total_rsvps": 45836,
+    "yes_rsvps": 16439,
+    "yes_rate": 35.86
+  },
+  {
+    "event_week": 24,
+    "visibility_scope": "friends_only",
+    "events": 3377,
+    "total_rsvps": 115800,
+    "yes_rsvps": 36016,
+    "yes_rate": 31.1
+  },
+  {
+    "event_week": 25,
+    "visibility_scope": "campus_public",
+    "events": 1240,
+    "total_rsvps": 42180,
+    "yes_rsvps": 14974,
+    "yes_rate": 35.5
+  },
+  {
+    "event_week": 25,
+    "visibility_scope": "friends_only",
+    "events": 2868,
+    "total_rsvps": 97106,
+    "yes_rsvps": 29997,
+    "yes_rate": 30.89
+  },
+  {
+    "event_week": 26,
+    "visibility_scope": "campus_public",
+    "events": 1074,
+    "total_rsvps": 36638,
+    "yes_rsvps": 13021,
+    "yes_rate": 35.54
+  },
+  {
+    "event_week": 26,
+    "visibility_scope": "friends_only",
+    "events": 2617,
+    "total_rsvps": 87291,
+    "yes_rsvps": 27064,
+    "yes_rate": 31.0
+  },
+  {
+    "event_week": 27,
+    "visibility_scope": "campus_public",
+    "events": 992,
+    "total_rsvps": 32359,
+    "yes_rsvps": 11579,
+    "yes_rate": 35.78
+  },
+  {
+    "event_week": 27,
+    "visibility_scope": "friends_only",
+    "events": 2402,
+    "total_rsvps": 80397,
+    "yes_rsvps": 24751,
+    "yes_rate": 30.79
+  },
+  {
+    "event_week": 28,
+    "visibility_scope": "campus_public",
+    "events": 955,
+    "total_rsvps": 31898,
+    "yes_rsvps": 11350,
+    "yes_rate": 35.58
+  },
+  {
+    "event_week": 28,
+    "visibility_scope": "friends_only",
+    "events": 2227,
+    "total_rsvps": 76899,
+    "yes_rsvps": 23913,
+    "yes_rate": 31.1
+  },
+  {
+    "event_week": 29,
+    "visibility_scope": "campus_public",
+    "events": 930,
+    "total_rsvps": 30649,
+    "yes_rsvps": 10993,
+    "yes_rate": 35.87
+  },
+  {
+    "event_week": 29,
+    "visibility_scope": "friends_only",
+    "events": 2116,
+    "total_rsvps": 70337,
+    "yes_rsvps": 21685,
+    "yes_rate": 30.83
+  },
+  {
+    "event_week": 30,
+    "visibility_scope": "campus_public",
+    "events": 921,
+    "total_rsvps": 30384,
+    "yes_rsvps": 10950,
+    "yes_rate": 36.04
+  },
+  {
+    "event_week": 30,
+    "visibility_scope": "friends_only",
+    "events": 2186,
+    "total_rsvps": 72651,
+    "yes_rsvps": 22919,
+    "yes_rate": 31.55
+  },
+  {
+    "event_week": 31,
+    "visibility_scope": "campus_public",
+    "events": 1012,
+    "total_rsvps": 34938,
+    "yes_rsvps": 12396,
+    "yes_rate": 35.48
+  },
+  {
+    "event_week": 31,
+    "visibility_scope": "friends_only",
+    "events": 2266,
+    "total_rsvps": 78877,
+    "yes_rsvps": 24355,
+    "yes_rate": 30.88
+  },
+  {
+    "event_week": 32,
+    "visibility_scope": "campus_public",
+    "events": 316,
+    "total_rsvps": 10414,
+    "yes_rsvps": 3699,
+    "yes_rate": 35.52
+  },
+  {
+    "event_week": 32,
+    "visibility_scope": "friends_only",
+    "events": 740,
+    "total_rsvps": 25940,
+    "yes_rsvps": 8008,
+    "yes_rate": 30.87
+  },
+  {
+    "event_week": 33,
+    "visibility_scope": "campus_public",
+    "events": 254,
+    "total_rsvps": 8708,
+    "yes_rsvps": 3081,
+    "yes_rate": 35.38
+  },
+  {
+    "event_week": 33,
+    "visibility_scope": "friends_only",
+    "events": 681,
+    "total_rsvps": 22078,
+    "yes_rsvps": 7124,
+    "yes_rate": 32.27
+  },
+  {
+    "event_week": 34,
+    "visibility_scope": "campus_public",
+    "events": 1035,
+    "total_rsvps": 35065,
+    "yes_rsvps": 12462,
+    "yes_rate": 35.54
+  },
+  {
+    "event_week": 34,
+    "visibility_scope": "friends_only",
+    "events": 2488,
+    "total_rsvps": 82989,
+    "yes_rsvps": 25914,
+    "yes_rate": 31.23
+  },
+  {
+    "event_week": 35,
+    "visibility_scope": "campus_public",
+    "events": 1068,
+    "total_rsvps": 35851,
+    "yes_rsvps": 12666,
+    "yes_rate": 35.33
+  },
+  {
+    "event_week": 35,
+    "visibility_scope": "friends_only",
+    "events": 2505,
+    "total_rsvps": 83069,
+    "yes_rsvps": 25751,
+    "yes_rate": 31.0
+  },
+  {
+    "event_week": 36,
+    "visibility_scope": "campus_public",
+    "events": 1023,
+    "total_rsvps": 33963,
+    "yes_rsvps": 11824,
+    "yes_rate": 34.81
+  },
+  {
+    "event_week": 36,
+    "visibility_scope": "friends_only",
+    "events": 2361,
+    "total_rsvps": 78521,
+    "yes_rsvps": 24208,
+    "yes_rate": 30.83
+  },
+  {
+    "event_week": 37,
+    "visibility_scope": "campus_public",
+    "events": 945,
+    "total_rsvps": 31964,
+    "yes_rsvps": 11268,
+    "yes_rate": 35.25
+  },
+  {
+    "event_week": 37,
+    "visibility_scope": "friends_only",
+    "events": 2314,
+    "total_rsvps": 78232,
+    "yes_rsvps": 24420,
+    "yes_rate": 31.21
+  },
+  {
+    "event_week": 38,
+    "visibility_scope": "campus_public",
+    "events": 803,
+    "total_rsvps": 28100,
+    "yes_rsvps": 9936,
+    "yes_rate": 35.36
+  },
+  {
+    "event_week": 38,
+    "visibility_scope": "friends_only",
+    "events": 1756,
+    "total_rsvps": 59213,
+    "yes_rsvps": 18488,
+    "yes_rate": 31.22
+  },
+  {
+    "event_week": 39,
+    "visibility_scope": "campus_public",
+    "events": 627,
+    "total_rsvps": 22068,
+    "yes_rsvps": 7910,
+    "yes_rate": 35.84
+  },
+  {
+    "event_week": 39,
+    "visibility_scope": "friends_only",
+    "events": 1499,
+    "total_rsvps": 50336,
+    "yes_rsvps": 15571,
+    "yes_rate": 30.93
+  },
+  {
+    "event_week": 40,
+    "visibility_scope": "campus_public",
+    "events": 582,
+    "total_rsvps": 20291,
+    "yes_rsvps": 7173,
+    "yes_rate": 35.35
+  },
+  {
+    "event_week": 40,
+    "visibility_scope": "friends_only",
+    "events": 1298,
+    "total_rsvps": 43354,
+    "yes_rsvps": 13588,
+    "yes_rate": 31.34
+  },
+  {
+    "event_week": 41,
+    "visibility_scope": "campus_public",
+    "events": 440,
+    "total_rsvps": 15016,
+    "yes_rsvps": 5324,
+    "yes_rate": 35.46
+  },
+  {
+    "event_week": 41,
+    "visibility_scope": "friends_only",
+    "events": 1043,
+    "total_rsvps": 34606,
+    "yes_rsvps": 10833,
+    "yes_rate": 31.3
+  },
+  {
+    "event_week": 42,
+    "visibility_scope": "campus_public",
+    "events": 272,
+    "total_rsvps": 8913,
+    "yes_rsvps": 3190,
+    "yes_rate": 35.79
+  },
+  {
+    "event_week": 42,
+    "visibility_scope": "friends_only",
+    "events": 676,
+    "total_rsvps": 21542,
+    "yes_rsvps": 6759,
+    "yes_rate": 31.38
+  },
+  {
+    "event_week": 43,
+    "visibility_scope": "campus_public",
+    "events": 241,
+    "total_rsvps": 8509,
+    "yes_rsvps": 3010,
+    "yes_rate": 35.37
+  },
+  {
+    "event_week": 43,
+    "visibility_scope": "friends_only",
+    "events": 566,
+    "total_rsvps": 19634,
+    "yes_rsvps": 5989,
+    "yes_rate": 30.5
+  },
+  {
+    "event_week": 44,
+    "visibility_scope": "campus_public",
+    "events": 1387,
+    "total_rsvps": 47867,
+    "yes_rsvps": 17033,
+    "yes_rate": 35.58
+  },
+  {
+    "event_week": 44,
+    "visibility_scope": "friends_only",
+    "events": 3270,
+    "total_rsvps": 111165,
+    "yes_rsvps": 34745,
+    "yes_rate": 31.26
+  },
+  {
+    "event_week": 45,
+    "visibility_scope": "campus_public",
+    "events": 1593,
+    "total_rsvps": 53421,
+    "yes_rsvps": 19106,
+    "yes_rate": 35.76
+  },
+  {
+    "event_week": 45,
+    "visibility_scope": "friends_only",
+    "events": 3859,
+    "total_rsvps": 126518,
+    "yes_rsvps": 39569,
+    "yes_rate": 31.28
+  },
+  {
+    "event_week": 46,
+    "visibility_scope": "campus_public",
+    "events": 1238,
+    "total_rsvps": 42194,
+    "yes_rsvps": 15025,
+    "yes_rate": 35.61
+  },
+  {
+    "event_week": 46,
+    "visibility_scope": "friends_only",
+    "events": 2811,
+    "total_rsvps": 93079,
+    "yes_rsvps": 28942,
+    "yes_rate": 31.09
+  },
+  {
+    "event_week": 47,
+    "visibility_scope": "campus_public",
+    "events": 367,
+    "total_rsvps": 12923,
+    "yes_rsvps": 4625,
+    "yes_rate": 35.79
+  },
+  {
+    "event_week": 47,
+    "visibility_scope": "friends_only",
+    "events": 877,
+    "total_rsvps": 30772,
+    "yes_rsvps": 9732,
+    "yes_rate": 31.63
+  },
+  {
+    "event_week": 48,
+    "visibility_scope": "campus_public",
+    "events": 327,
+    "total_rsvps": 11091,
+    "yes_rsvps": 3975,
+    "yes_rate": 35.84
+  },
+  {
+    "event_week": 48,
+    "visibility_scope": "friends_only",
+    "events": 815,
+    "total_rsvps": 28030,
+    "yes_rsvps": 8660,
+    "yes_rate": 30.9
+  },
+  {
+    "event_week": 49,
+    "visibility_scope": "campus_public",
+    "events": 250,
+    "total_rsvps": 8830,
+    "yes_rsvps": 3125,
+    "yes_rate": 35.39
+  },
+  {
+    "event_week": 49,
+    "visibility_scope": "friends_only",
+    "events": 612,
+    "total_rsvps": 20938,
+    "yes_rsvps": 6365,
+    "yes_rate": 30.4
+  },
+  {
+    "event_week": 50,
+    "visibility_scope": "campus_public",
+    "events": 268,
+    "total_rsvps": 9271,
+    "yes_rsvps": 3208,
+    "yes_rate": 34.6
+  },
+  {
+    "event_week": 50,
+    "visibility_scope": "friends_only",
+    "events": 678,
+    "total_rsvps": 23364,
+    "yes_rsvps": 7093,
+    "yes_rate": 30.36
+  },
+  {
+    "event_week": 51,
+    "visibility_scope": "campus_public",
+    "events": 346,
+    "total_rsvps": 11423,
+    "yes_rsvps": 4073,
+    "yes_rate": 35.66
+  },
+  {
+    "event_week": 51,
+    "visibility_scope": "friends_only",
+    "events": 774,
+    "total_rsvps": 25401,
+    "yes_rsvps": 7857,
+    "yes_rate": 30.93
+  }
+]

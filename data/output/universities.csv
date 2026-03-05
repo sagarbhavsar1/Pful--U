@@ -1,0 +1,251 @@
+university_id,name,student_population,region,type,setting,adoption_rate
+UNI_0000,University of Michigan,17736,Midwest,Public,Urban,0.3062
+UNI_0001,Ohio State University,8466,Northeast,Private,Urban,0.2114
+UNI_0002,Penn State University,22664,West,Public,Suburban,0.1824
+UNI_0003,University of Florida,25162,South,Public,Urban,0.09
+UNI_0004,University of Texas at Austin,5129,Northeast,Public,Urban,0.3112
+UNI_0005,UCLA,7329,West,Private,Urban,0.2515
+UNI_0006,UC Berkeley,16092,Northeast,Public,Urban,0.1382
+UNI_0007,University of Wisconsin-Madison,12605,South,Public,Urban,0.1142
+UNI_0008,University of Illinois Urbana-Champaign,14862,Northeast,Public,Suburban,0.2116
+UNI_0009,University of Georgia,9382,Northeast,Public,Urban,0.1197
+UNI_0010,Indiana University Bloomington,24330,Northeast,Private,Suburban,0.1574
+UNI_0011,Michigan State University,23007,Northeast,Public,Rural,0.1222
+UNI_0012,University of Alabama,15554,Northeast,Public,Urban,0.03
+UNI_0013,Arizona State University,27883,Northeast,Public,Urban,0.2647
+UNI_0014,University of South Carolina,19398,Midwest,Private,Suburban,0.0814
+UNI_0015,University of Arizona,9350,Midwest,Public,Urban,0.2452
+UNI_0016,Rutgers University,18372,South,Private,Urban,0.2914
+UNI_0017,University of Minnesota,8852,South,Private,Rural,0.1238
+UNI_0018,University of Maryland,24317,South,Public,Rural,0.0425
+UNI_0019,University of Colorado Boulder,14593,West,Private,Suburban,0.0483
+UNI_0020,University of Virginia,13549,West,Private,Urban,0.1889
+UNI_0021,University of North Carolina at Chapel Hill,10314,Northeast,Public,Suburban,0.0938
+UNI_0022,University of Iowa,29383,Northeast,Private,Suburban,0.0481
+UNI_0023,University of Oregon,13777,Northeast,Public,Urban,0.1218
+UNI_0024,University of Washington,11851,Northeast,Private,Suburban,0.0565
+UNI_0025,Purdue University,12358,Midwest,Private,Urban,0.1095
+UNI_0026,Texas A&M University,20102,South,Public,Urban,0.1639
+UNI_0027,Virginia Tech,18339,Northeast,Private,Suburban,0.0423
+UNI_0028,University of Tennessee,18822,South,Public,Urban,0.0744
+UNI_0029,University of Kentucky,19010,South,Private,Urban,0.1474
+UNI_0030,USC,48713,Northeast,Private,Suburban,0.2376
+UNI_0031,NYU,11995,West,Public,Rural,0.1271
+UNI_0032,Boston University,11317,Northeast,Public,Suburban,0.0528
+UNI_0033,Northeastern University,9587,West,Public,Suburban,0.097
+UNI_0034,Georgetown University,21048,Northeast,Public,Rural,0.1237
+UNI_0035,George Washington University,27909,West,Public,Urban,0.065
+UNI_0036,Columbia University,14088,West,Public,Urban,0.1199
+UNI_0037,University of Chicago,9449,West,Public,Urban,0.1982
+UNI_0038,Stanford University,9531,West,Public,Urban,0.0834
+UNI_0039,MIT,21453,West,Private,Suburban,0.2699
+UNI_0040,Harvard University,22574,Midwest,Private,Urban,0.2878
+UNI_0041,Yale University,20222,West,Private,Suburban,0.0856
+UNI_0042,Princeton University,10402,Northeast,Public,Urban,0.0824
+UNI_0043,Duke University,17042,South,Private,Urban,0.316
+UNI_0044,Northwestern University,15994,South,Public,Rural,0.0866
+UNI_0045,Vanderbilt University,16917,West,Public,Urban,0.0483
+UNI_0046,Emory University,24223,South,Public,Urban,0.0498
+UNI_0047,Rice University,16962,South,Private,Urban,0.35
+UNI_0048,Tulane University,21790,Midwest,Public,Suburban,0.03
+UNI_0049,Wake Forest University,15568,South,Public,Suburban,0.03
+UNI_0050,University of Notre Dame,17585,Northeast,Private,Suburban,0.1517
+UNI_0051,Brown University,21226,South,Public,Urban,0.2471
+UNI_0052,Dartmouth College,6730,South,Public,Urban,0.1664
+UNI_0053,Cornell University,12581,Northeast,Private,Suburban,0.2085
+UNI_0054,University of Pennsylvania,11580,South,Public,Suburban,0.3171
+UNI_0055,Carnegie Mellon University,10555,South,Public,Suburban,0.0572
+UNI_0056,Johns Hopkins University,12893,South,Private,Suburban,0.1544
+UNI_0057,Tufts University,34133,South,Private,Suburban,0.0721
+UNI_0058,Brandeis University,9317,Midwest,Public,Urban,0.1118
+UNI_0059,American University,25549,South,Private,Urban,0.1048
+UNI_0060,Howard University,5944,West,Public,Suburban,0.1675
+UNI_0061,Spelman College,12476,West,Public,Urban,0.1805
+UNI_0062,Morehouse College,16404,South,Public,Suburban,0.066
+UNI_0063,Florida State University,20707,South,Public,Suburban,0.0475
+UNI_0064,University of Miami,22180,South,Private,Suburban,0.0728
+UNI_0065,Clemson University,23205,West,Private,Rural,0.35
+UNI_0066,Auburn University,12382,Midwest,Public,Suburban,0.0759
+UNI_0067,Mississippi State University,11631,West,Public,Rural,0.0362
+UNI_0068,University of Mississippi,24045,South,Public,Suburban,0.2169
+UNI_0069,LSU,13501,Midwest,Private,Rural,0.0942
+UNI_0070,University of Arkansas,7436,South,Public,Urban,0.0937
+UNI_0071,Oklahoma State University,8042,Midwest,Private,Suburban,0.109
+UNI_0072,University of Oklahoma,9046,Northeast,Public,Suburban,0.1397
+UNI_0073,Kansas State University,19717,Midwest,Public,Urban,0.2501
+UNI_0074,University of Kansas,16222,West,Private,Urban,0.1245
+UNI_0075,Iowa State University,21929,Northeast,Private,Rural,0.2036
+UNI_0076,University of Nebraska-Lincoln,11858,Midwest,Public,Suburban,0.1597
+UNI_0077,Colorado State University,16366,Northeast,Private,Urban,0.1416
+UNI_0078,University of Utah,21160,Midwest,Private,Urban,0.2105
+UNI_0079,Brigham Young University,12653,Northeast,Public,Urban,0.2352
+UNI_0080,Gonzaga University,19284,West,Public,Urban,0.1097
+UNI_0081,University of Portland,10422,Northeast,Public,Rural,0.2752
+UNI_0082,Oregon State University,12284,West,Private,Urban,0.3405
+UNI_0083,Washington State University,12159,West,Public,Urban,0.1868
+UNI_0084,Boise State University,7770,Midwest,Public,Suburban,0.2417
+UNI_0085,San Diego State University,19606,West,Public,Urban,0.2681
+UNI_0086,UC San Diego,11586,West,Private,Urban,0.0403
+UNI_0087,UC Davis,15103,West,Public,Suburban,0.03
+UNI_0088,UC Santa Barbara,19539,South,Private,Suburban,0.0617
+UNI_0089,UC Irvine,19175,Midwest,Public,Rural,0.232
+UNI_0090,Cal Poly SLO,21628,Northeast,Private,Suburban,0.1134
+UNI_0091,San Jose State University,14209,Midwest,Public,Suburban,0.0481
+UNI_0092,University of Hawaii,11884,Northeast,Public,Suburban,0.0681
+UNI_0093,University of Nevada Las Vegas,14356,Midwest,Private,Rural,0.181
+UNI_0094,University of New Mexico,5929,Midwest,Private,Suburban,0.2052
+UNI_0095,University of Houston,6767,South,Public,Rural,0.0768
+UNI_0096,SMU,7246,South,Public,Suburban,0.1609
+UNI_0097,TCU,8667,Midwest,Private,Rural,0.2315
+UNI_0098,Baylor University,18688,West,Private,Urban,0.35
+UNI_0099,Texas Tech University,9116,South,Public,Suburban,0.1298
+UNI_0100,Northern Alaska College,12183,Midwest,Public,Urban,0.35
+UNI_0101,Ridge Michigan Institute of Technology,30649,West,Private,Suburban,0.1257
+UNI_0102,Upper South Carolina State University,12330,Northeast,Private,Suburban,0.0804
+UNI_0103,Coastal New Mexico University,22503,Northeast,Private,Rural,0.2696
+UNI_0104,Summit South Dakota College,8976,Northeast,Public,Rural,0.2691
+UNI_0105,Southern Wyoming College,13397,Midwest,Public,Urban,0.0482
+UNI_0106,Southern North Carolina College,8895,South,Private,Suburban,0.0888
+UNI_0107,Upper California Polytechnic University,12448,West,Private,Suburban,0.1836
+UNI_0108,Coastal Alabama College,23812,Midwest,Private,Urban,0.35
+UNI_0109,Atlantic Montana Polytechnic University,5800,South,Public,Urban,0.0586
+UNI_0110,Metro Idaho State University,19048,West,Public,Urban,0.1394
+UNI_0111,Metro Washington Institute of Technology,17095,Midwest,Private,Suburban,0.3378
+UNI_0112,Upper New Jersey College,10818,South,Public,Suburban,0.1541
+UNI_0113,Eastern Kentucky Polytechnic University,6771,South,Private,Rural,0.1091
+UNI_0114,Harbor Connecticut University,15607,South,Public,Suburban,0.2051
+UNI_0115,Northern Indiana Polytechnic University,11210,Northeast,Private,Rural,0.2363
+UNI_0116,River Wisconsin University,17047,Northeast,Private,Urban,0.3287
+UNI_0117,Summit South Dakota College,15181,West,Public,Suburban,0.2557
+UNI_0118,Southern New Hampshire State University,36198,South,Public,Urban,0.1893
+UNI_0119,Harbor Mississippi Institute of Technology,13149,South,Private,Suburban,0.1298
+UNI_0120,Coastal Arkansas Polytechnic University,8543,Midwest,Public,Suburban,0.1561
+UNI_0121,River South Dakota University,16554,Midwest,Public,Rural,0.1405
+UNI_0122,Mountain Arkansas University,16929,West,Private,Suburban,0.0781
+UNI_0123,Mountain Mississippi Polytechnic University,31677,West,Private,Urban,0.35
+UNI_0124,Ridge Oregon University,23744,South,Public,Urban,0.1641
+UNI_0125,Pacific Colorado Polytechnic University,18252,South,Public,Urban,0.2673
+UNI_0126,Lake Iowa University,33544,West,Public,Urban,0.188
+UNI_0127,Ridge Missouri College,7800,Midwest,Public,Suburban,0.037
+UNI_0128,Pacific South Carolina Institute of Technology,10550,West,Public,Suburban,0.1362
+UNI_0129,Pacific Colorado Institute of Technology,9010,Northeast,Public,Suburban,0.0645
+UNI_0130,Upper Florida Institute of Technology,12105,West,Private,Rural,0.0691
+UNI_0131,Cascade Arkansas Institute of Technology,7034,Midwest,Public,Suburban,0.1194
+UNI_0132,Lake Washington University,21271,Northeast,Private,Suburban,0.1345
+UNI_0133,Atlantic New Hampshire University,13274,Midwest,Public,Urban,0.2714
+UNI_0134,Central Virginia Institute of Technology,6679,Midwest,Public,Urban,0.1138
+UNI_0135,Metro Missouri State University,8580,Northeast,Private,Suburban,0.1009
+UNI_0136,Mountain Rhode Island University,17822,South,Private,Rural,0.1122
+UNI_0137,Harbor Virginia University,23784,West,Public,Urban,0.2008
+UNI_0138,Central New Jersey College,44981,South,Public,Suburban,0.083
+UNI_0139,Metro South Carolina Polytechnic University,65000,South,Public,Suburban,0.1968
+UNI_0140,Pacific Florida University,18839,South,Public,Urban,0.1293
+UNI_0141,Harbor West Virginia Polytechnic University,8704,South,Public,Urban,0.0692
+UNI_0142,Lake Alabama State University,4643,West,Public,Rural,0.0835
+UNI_0143,Greater Idaho Polytechnic University,17379,West,Public,Suburban,0.0608
+UNI_0144,Northern Nevada University,9592,Northeast,Public,Urban,0.1163
+UNI_0145,Mountain Indiana College,11936,West,Private,Rural,0.0714
+UNI_0146,River California Polytechnic University,10712,West,Private,Urban,0.2649
+UNI_0147,Lake Missouri Polytechnic University,13882,South,Public,Rural,0.0955
+UNI_0148,Upper Nevada University,26959,West,Public,Urban,0.0409
+UNI_0149,Eastern Wisconsin University,16353,Northeast,Public,Suburban,0.1376
+UNI_0150,Cascade North Dakota University,13746,West,Public,Urban,0.1191
+UNI_0151,Prairie Montana Polytechnic University,8486,Midwest,Private,Urban,0.3067
+UNI_0152,Ridge Utah State University,5971,Midwest,Private,Rural,0.0575
+UNI_0153,Greater Alaska University,11479,Northeast,Private,Urban,0.2098
+UNI_0154,Greater Vermont State University,14562,West,Private,Urban,0.0619
+UNI_0155,Ridge Washington Polytechnic University,39662,Northeast,Private,Urban,0.0427
+UNI_0156,River South Dakota Polytechnic University,16114,Northeast,Private,Suburban,0.1727
+UNI_0157,River Ohio Polytechnic University,25753,Northeast,Public,Suburban,0.0916
+UNI_0158,Northern North Carolina State University,11397,West,Public,Rural,0.2139
+UNI_0159,Greater Wyoming University,7817,Northeast,Public,Urban,0.0773
+UNI_0160,Western Louisiana College,8821,West,Public,Urban,0.1936
+UNI_0161,Upper South Carolina Polytechnic University,10066,Midwest,Public,Urban,0.2333
+UNI_0162,Atlantic Nevada Polytechnic University,48361,Northeast,Private,Suburban,0.0804
+UNI_0163,Coastal Virginia College,9547,Northeast,Private,Rural,0.2072
+UNI_0164,Coastal Utah Institute of Technology,23788,Northeast,Public,Suburban,0.0865
+UNI_0165,Eastern Iowa State University,9128,Midwest,Public,Suburban,0.1139
+UNI_0166,Summit West Virginia Polytechnic University,25038,West,Public,Urban,0.1266
+UNI_0167,Atlantic Iowa Institute of Technology,18537,Northeast,Public,Rural,0.0698
+UNI_0168,Greater Oregon Institute of Technology,13761,West,Private,Suburban,0.1127
+UNI_0169,Western Minnesota University,14667,Northeast,Public,Urban,0.1255
+UNI_0170,Northern New Jersey Institute of Technology,10463,West,Private,Urban,0.1251
+UNI_0171,Western North Carolina College,19170,West,Public,Urban,0.141
+UNI_0172,Northern California State University,11679,West,Public,Urban,0.1206
+UNI_0173,Summit Virginia State University,7644,Midwest,Public,Urban,0.0924
+UNI_0174,Harbor Washington State University,7427,West,Private,Suburban,0.1231
+UNI_0175,Atlantic Utah Polytechnic University,16493,Northeast,Private,Suburban,0.1151
+UNI_0176,Mountain Wyoming Polytechnic University,35750,Northeast,Public,Urban,0.0949
+UNI_0177,Eastern Ohio Institute of Technology,16379,Northeast,Private,Urban,0.1241
+UNI_0178,Pacific Vermont College,14052,South,Public,Rural,0.0705
+UNI_0179,Lake Mississippi College,17553,Midwest,Private,Suburban,0.35
+UNI_0180,River Maryland State University,30764,Midwest,Public,Suburban,0.1368
+UNI_0181,Upper Vermont College,16923,West,Public,Urban,0.3031
+UNI_0182,Cascade Nevada College,11965,Northeast,Private,Rural,0.2157
+UNI_0183,Summit New Mexico College,27563,Midwest,Public,Urban,0.119
+UNI_0184,Summit North Dakota Polytechnic University,18989,Northeast,Public,Urban,0.1258
+UNI_0185,River Montana State University,34907,South,Public,Rural,0.03
+UNI_0186,Metro North Dakota College,16590,Midwest,Public,Suburban,0.1296
+UNI_0187,Coastal Vermont State University,7649,West,Private,Suburban,0.1462
+UNI_0188,Mountain Alabama Polytechnic University,7067,Midwest,Private,Suburban,0.0383
+UNI_0189,Central Nevada University,37190,Northeast,Private,Suburban,0.1232
+UNI_0190,Prairie New Jersey Polytechnic University,38708,Midwest,Public,Urban,0.3461
+UNI_0191,Southern California University,13589,Northeast,Public,Urban,0.072
+UNI_0192,Valley South Dakota State University,12149,West,Public,Urban,0.2383
+UNI_0193,Metro Montana Polytechnic University,33510,Midwest,Public,Urban,0.0788
+UNI_0194,Coastal Tennessee Polytechnic University,8159,Northeast,Public,Rural,0.2949
+UNI_0195,Pacific Missouri State University,9170,Northeast,Private,Urban,0.1278
+UNI_0196,Metro Michigan State University,21367,Northeast,Private,Suburban,0.1089
+UNI_0197,Cascade Alabama State University,12073,West,Private,Suburban,0.35
+UNI_0198,Summit North Dakota State University,14957,South,Public,Suburban,0.0809
+UNI_0199,River Idaho University,13710,West,Public,Urban,0.1491
+UNI_0200,Atlantic California College,18060,Midwest,Public,Suburban,0.2205
+UNI_0201,Ridge Missouri Institute of Technology,32530,Midwest,Public,Rural,0.0419
+UNI_0202,Harbor California College,15766,Northeast,Public,Suburban,0.03
+UNI_0203,Harbor Massachusetts College,21374,West,Public,Suburban,0.1159
+UNI_0204,Atlantic Indiana College,4857,South,Public,Rural,0.1055
+UNI_0205,Upper Rhode Island State University,14603,Midwest,Private,Suburban,0.0969
+UNI_0206,Coastal North Dakota Polytechnic University,9433,Midwest,Public,Urban,0.1568
+UNI_0207,Atlantic West Virginia Polytechnic University,7672,Midwest,Private,Suburban,0.1164
+UNI_0208,Lake Georgia Institute of Technology,9254,West,Public,Urban,0.03
+UNI_0209,Southern New Hampshire Polytechnic University,12481,Northeast,Public,Suburban,0.0663
+UNI_0210,Cascade New Hampshire Polytechnic University,24823,South,Public,Rural,0.0788
+UNI_0211,Mountain Indiana College,7232,South,Public,Suburban,0.1364
+UNI_0212,Greater Minnesota Polytechnic University,15254,South,Public,Urban,0.1124
+UNI_0213,Western South Dakota Polytechnic University,11493,Northeast,Public,Urban,0.163
+UNI_0214,River Oregon Institute of Technology,12526,Northeast,Private,Rural,0.1473
+UNI_0215,Pacific Pennsylvania College,26038,South,Public,Urban,0.1835
+UNI_0216,Coastal Maine Polytechnic University,20166,South,Private,Urban,0.0385
+UNI_0217,Central New Mexico University,31300,South,Public,Urban,0.18
+UNI_0218,Ridge Washington University,13777,Midwest,Public,Urban,0.2182
+UNI_0219,Valley Louisiana College,10229,Midwest,Public,Suburban,0.2479
+UNI_0220,Atlantic Texas Institute of Technology,13262,South,Public,Suburban,0.04
+UNI_0221,Cascade Louisiana University,17140,South,Private,Urban,0.1626
+UNI_0222,Eastern Maryland College,16529,Northeast,Private,Urban,0.2202
+UNI_0223,Atlantic Kentucky Institute of Technology,8261,Midwest,Private,Urban,0.1104
+UNI_0224,Lake Idaho University,15765,South,Public,Urban,0.35
+UNI_0225,Mountain New Jersey Polytechnic University,17006,Northeast,Public,Urban,0.26
+UNI_0226,Metro Wisconsin University,59899,South,Private,Suburban,0.1592
+UNI_0227,Ridge Kentucky College,42111,South,Public,Urban,0.2087
+UNI_0228,Mountain Massachusetts Institute of Technology,9381,Northeast,Public,Urban,0.03
+UNI_0229,Harbor South Carolina Institute of Technology,12806,Midwest,Public,Urban,0.2122
+UNI_0230,Eastern Minnesota University,6707,Midwest,Private,Urban,0.3047
+UNI_0231,Eastern Georgia State University,10839,Midwest,Private,Urban,0.0706
+UNI_0232,Coastal Wisconsin University,17843,Midwest,Private,Urban,0.1968
+UNI_0233,Central Washington Polytechnic University,29115,Midwest,Private,Rural,0.03
+UNI_0234,Prairie Tennessee College,10044,South,Public,Urban,0.0337
+UNI_0235,Eastern Nebraska Institute of Technology,10467,West,Private,Suburban,0.3204
+UNI_0236,Coastal Oklahoma College,4604,South,Public,Suburban,0.0518
+UNI_0237,Mountain Arizona College,13716,South,Private,Urban,0.1002
+UNI_0238,Lake Wyoming College,8362,Midwest,Public,Urban,0.35
+UNI_0239,Coastal Minnesota Polytechnic University,11210,South,Private,Suburban,0.0802
+UNI_0240,Pacific New York College,9260,South,Public,Suburban,0.03
+UNI_0241,Eastern Pennsylvania Institute of Technology,14242,Midwest,Public,Urban,0.0456
+UNI_0242,Central New York College,5704,West,Public,Urban,0.1737
+UNI_0243,Atlantic Arizona College,6693,West,Public,Urban,0.0838
+UNI_0244,Upper Michigan State University,48382,South,Public,Suburban,0.0855
+UNI_0245,Ridge Texas Institute of Technology,7388,South,Private,Suburban,0.1105
+UNI_0246,Central Oregon State University,8205,West,Public,Urban,0.1051
+UNI_0247,Metro Texas State University,41196,South,Private,Urban,0.0989
+UNI_0248,Greater Massachusetts College,65000,West,Public,Rural,0.1587
+UNI_0249,Southern Georgia University,7874,South,Private,Urban,0.2519

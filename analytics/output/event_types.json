@@ -1,0 +1,58 @@
+[
+  {
+    "event_type": "Club Event",
+    "event_count": 1792630,
+    "avg_invites": 86.56129597295593,
+    "yes_rate": 29.304485588213964,
+    "attendance_rate": 28.560662267171697
+  },
+  {
+    "event_type": "House Party",
+    "event_count": 1098000,
+    "avg_invites": 36.09338160291439,
+    "yes_rate": 37.88688524590164,
+    "attendance_rate": 42.39863387978142
+  },
+  {
+    "event_type": "Networking",
+    "event_count": 582323,
+    "avg_invites": 57.33764594563498,
+    "yes_rate": 25.90709966805364,
+    "attendance_rate": 22.521521561058037
+  },
+  {
+    "event_type": "Birthday",
+    "event_count": 331843,
+    "avg_invites": 21.592066127656754,
+    "yes_rate": 43.09176327359625,
+    "attendance_rate": 52.56883526245845
+  },
+  {
+    "event_type": "Cultural",
+    "event_count": 265374,
+    "avg_invites": 51.25053697800086,
+    "yes_rate": 31.116085223119068,
+    "attendance_rate": 31.780053810848084
+  },
+  {
+    "event_type": "Sports Watch",
+    "event_count": 208033,
+    "avg_invites": 28.660279859445378,
+    "yes_rate": 32.89141626568862,
+    "attendance_rate": 33.544197314849086
+  },
+  {
+    "event_type": "Other",
+    "event_count": 107017,
+    "avg_invites": 21.106151359129857,
+    "yes_rate": 31.265126101460517,
+    "attendance_rate": 30.25407178298775
+  },
+  {
+    "event_type": "Study Group",
+    "event_count": 91043,
+    "avg_invites": 11.124512592950584,
+    "yes_rate": 34.39034302472458,
+    "attendance_rate": 36.73209362608877
+  }
+]
