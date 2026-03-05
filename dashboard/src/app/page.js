@@ -5,60 +5,70 @@ import summaryData from "@/data/summary.json";
 export default function LandingPage() {
   return (
     <div className="landing-page">
-      {/* Background */}
+      {/* Background image */}
       <div className="landing-bg">
         <img
-          src="/images/hero-bg.png"
+          src="/images/pgulbg.avif"
           alt=""
           width={1920}
           height={1080}
         />
       </div>
 
-      {/* Content */}
-      <div className="landing-content">
-        {/* Logo */}
-        <div className="landing-logo">
-          <div className="landing-logo-icon">P</div>
-          <div className="landing-logo-text">
-            <h1>Partiful U</h1>
-            <span>Campus Event Discovery</span>
+      {/* Split hero */}
+      <div className="landing-hero">
+        {/* Left side: text + search */}
+        <div className="landing-hero-left">
+          <div className="landing-badge">
+            <img src="/images/pful.png" alt="Partiful" className="landing-badge-logo" />
+            <span>Partiful U</span>
+          </div>
+
+          <h1 className="landing-h1">
+            your campus,<br />
+            <span className="landing-h1-accent">all its events.</span>
+          </h1>
+
+          <p className="landing-subtitle">
+            Find parties, study groups, club events, and
+            everything in between. Scoped to your university.
+          </p>
+
+          <div className="landing-search-area">
+            <UniversitySearch autoFocus />
+          </div>
+
+          {/* Inline stats as floating pills */}
+          <div className="landing-pills">
+            <div className="landing-pill">
+              🎓 <strong>{summaryData.total_universities}</strong> campuses
+            </div>
+            <div className="landing-pill">
+              👥 <strong>{Math.round(summaryData.total_users / 1000)}K</strong> students
+            </div>
+            <div className="landing-pill">
+              🎉 <strong>{Math.round(summaryData.total_events / 1000)}K</strong> events
+            </div>
           </div>
         </div>
 
-        {/* Headline */}
-        <h2 className="landing-headline">
-          Discover what&apos;s happening on{" "}
-          <span className="highlight">your campus</span>
-        </h2>
-
-        <p className="landing-subheadline">
-          Find parties, study groups, club events, and everything in between —
-          all in one place, scoped to your university.
-        </p>
-
-        {/* Search */}
-        <UniversitySearch autoFocus />
-
-        {/* Stats */}
-        <div className="landing-stats">
-          <div className="landing-stat">
-            <div className="landing-stat-value">
-              {summaryData.total_universities}
+        {/* Right side: stacked event previews */}
+        <div className="landing-hero-right">
+          <div className="landing-preview-stack">
+            <div className="landing-preview-card lpc-1">
+              <img src="/images/colP.webp" alt="" />
+              <div className="lpc-label">Friday Night Pregame 🎉</div>
+              <div className="lpc-meta">87 going</div>
             </div>
-            <div className="landing-stat-label">Campuses</div>
-          </div>
-          <div className="landing-stat">
-            <div className="landing-stat-value">
-              {Math.round(summaryData.total_users / 1000)}K
+            <div className="landing-preview-card lpc-2">
+              <img src="/images/ColP1.jpg" alt="" />
+              <div className="lpc-label">End of Finals Blowout</div>
+              <div className="lpc-meta">134 going</div>
             </div>
-            <div className="landing-stat-label">Students</div>
-          </div>
-          <div className="landing-stat">
-            <div className="landing-stat-value">
-              {Math.round(summaryData.total_events / 1000)}K
+            <div className="landing-preview-card lpc-3">
+              <img src="/images/pful.gif" alt="" />
+              <div className="lpc-label">Partiful vibes ✨</div>
             </div>
-            <div className="landing-stat-label">Events</div>
           </div>
         </div>
       </div>

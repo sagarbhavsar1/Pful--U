@@ -12,22 +12,22 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <title>Partiful U — Campus Event Discovery</title>
+        <title>Partiful U | Campus Event Discovery</title>
         <meta name="description" content="Discover events happening on your campus with Partiful U" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="theme-color" content="#0D0D0D" />
+        <meta name="theme-color" content="#6236FF" />
       </head>
       <body>
-        {isLanding ? (
-          /* Landing page — no chrome */
+        {(isLanding || isParties) ? (
           <>{children}</>
         ) : (
-          /* All other pages get the topbar */
           <>
             <header className="topbar">
               <div className="topbar-left">
                 <Link href="/" aria-label="Back to home">
-                  <div className="topbar-logo">P</div>
+                  <div className="topbar-logo">
+                    <img src="/images/pful.png" alt="Partiful" />
+                  </div>
                 </Link>
                 <div>
                   <div className="topbar-title">Partiful U</div>
@@ -40,10 +40,6 @@ export default function RootLayout({ children }) {
                 {isExplorer ? (
                   <Link href="/parties" className="topbar-back">
                     ← Campus Feed
-                  </Link>
-                ) : isParties ? (
-                  <Link href="/explorer" className="btn-explorer">
-                    📊 Data Explorer
                   </Link>
                 ) : null}
               </div>

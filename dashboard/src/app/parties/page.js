@@ -1,27 +1,26 @@
 "use client";
 import { useSearchParams } from "next/navigation";
-import { useMemo, Suspense } from "react";
+import { useMemo, useState, Suspense } from "react";
 import Link from "next/link";
 import EventCard from "@/components/EventCard";
 import uniPerformance from "@/data/university_performance.json";
 import eventTypes from "@/data/event_types.json";
 
-/* ─── Mock event name templates ─── */
 const namesByType = {
     "House party": [
-        "End of Finals Blowout 🎉", "Friday Night Pregame", "Rooftop Kickback",
-        "Welcome Week Mixer", "Last Day of Classes Party", "Apartment Warming Rager",
+        "End of Finals Blowout", "Friday Night Pregame", "Rooftop Kickback",
+        "Welcome Week Mixer", "Last Day of Classes Party", "Apartment Warming",
         "Spring Fling Bash", "Post-Midterm Celebration", "Sunset Vibes Only",
-        "Themed Costume Party 🎭", "Day Drink & Chill ☀️", "Block Party Madness"
+        "Themed Costume Party", "Day Drink & Chill", "Block Party Madness"
     ],
     "Club event": [
         "CS Club Demo Night", "Debate Society Social", "Engineering Showcase",
-        "Finance Club Networking Night", "Photography Club Gallery Walk",
-        "Film Club Screening Night 🎬", "Startup Pitch Night"
+        "Finance Club Networking", "Photography Club Gallery Walk",
+        "Film Club Screening Night", "Startup Pitch Night"
     ],
     "Birthday": [
-        "Sarah's 21st! 🎂", "Jake's Birthday Bash", "Surprise Birthday Party",
-        "Mia's Golden Birthday 🌟", "Rooftop Birthday Dinner"
+        "Sarah's 21st!", "Jake's Birthday Bash", "Surprise Birthday Party",
+        "Mia's Golden Birthday", "Rooftop Birthday Dinner"
     ],
     "Networking": [
         "Tech Industry Mixer", "Alumni Career Panel", "Startup Founders Night",
@@ -29,18 +28,18 @@ const namesByType = {
     ],
     "Study group": [
         "Calc III Study Session", "Organic Chem Review", "Physics Notes Swap",
-        "CS 101 Office Hours Hangout", "Library Grind Squad 📚"
+        "CS 101 Office Hours", "Library Grind Squad"
     ],
     "Sports watch": [
-        "March Madness Watch Party 🏀", "Super Bowl Screening", "Game Day Tailgate",
+        "March Madness Watch Party", "Super Bowl Screening", "Game Day Tailgate",
         "Championship Finals Watch"
     ],
     "Cultural": [
-        "Diwali Celebration 🪔", "Lunar New Year Fest", "Latin Night Dance",
-        "International Food Festival 🌍", "K-Pop Dance Cover Night"
+        "Diwali Celebration", "Lunar New Year Fest", "Latin Night Dance",
+        "International Food Festival", "K-Pop Dance Cover Night"
     ],
     "Other": [
-        "Karaoke Night 🎤", "Open Mic Comedy", "Movie Night on the Quad",
+        "Karaoke Night", "Open Mic Comedy", "Movie Night on the Quad",
         "Thrift Swap Meet", "Board Game Tournament"
     ],
 };
@@ -49,6 +48,12 @@ const hostNames = [
     "Alex Martinez", "Jordan Patel", "Sam Kim", "Taylor Nguyen",
     "Morgan Chen", "Riley Santos", "Casey Williams", "Avery Thompson",
     "Jamie Rodriguez", "Quinn Davis", "Drew Park", "Skylar Washington",
+];
+
+const locations = [
+    "Student Center", "Main Quad", "Rooftop Lounge", "The Basement",
+    "Room 204, Engineering Hall", "Campus Green", "Off-campus House",
+    "Library Atrium", "Frat Row", "Downtown Venue", "Art Gallery",
 ];
 
 const times = ["7:00 PM", "8:00 PM", "9:00 PM", "6:30 PM", "10:00 PM", "5:00 PM", "8:30 PM", "3:00 PM"];
@@ -69,23 +74,29 @@ function generateEvents(uniId) {
         const names = namesByType[type] || namesByType["Other"];
         const nameIdx = (seed + i * 7) % names.length;
         const hostIdx = (seed + i * 5) % hostNames.length;
+        const locIdx = (seed + i * 4) % locations.length;
 
         events.push({
             id: `evt-${i}`,
             name: names[nameIdx],
             type,
             host: hostNames[hostIdx],
+            location: locations[locIdx],
             date: days[i % days.length],
             time: times[(seed + i) % times.length],
             rsvps: 15 + ((seed * (i + 1) * 7) % 120),
+            interested: 30 + ((seed * (i + 1) * 3) % 200),
         });
     }
     return events;
 }
 
+const allCategories = ["All", "House party", "Club event", "Birthday", "Networking", "Study group", "Sports watch", "Cultural", "Other"];
+
 function PartiesContent() {
     const searchParams = useSearchParams();
     const uniId = searchParams.get("uni");
+    const [activeFilter, setActiveFilter] = useState("All");
 
     const uni = useMemo(
         () => uniPerformance.find((u) => u.university_id === uniId) || uniPerformance[0],
@@ -93,61 +104,65 @@ function PartiesContent() {
     );
 
     const events = useMemo(() => generateEvents(uniId), [uniId]);
+    const filteredEvents = activeFilter === "All" ? events : events.filter(e => e.type === activeFilter);
 
     return (
-        <div className="parties-page">
-            {/* Hero banner */}
-            <div className="parties-hero">
-                <h1 className="parties-uni-name">{uni.name}</h1>
-                <p className="parties-uni-subtitle">
-                    {uni.region} • {uni.type} • {uni.setting}
-                </p>
-                <div className="parties-stats-row">
-                    <div className="parties-stat-chip">
-                        🎉 <strong>{uni.total_events.toLocaleString()}</strong> events
+        <div className="pf-discover">
+            {/* Top bar */}
+            <div className="pf-discover-topbar">
+                <div className="pf-discover-topbar-left">
+                    <Link href="/" className="pf-discover-logo">
+                        <img src="/images/pful.png" alt="Partiful" />
+                    </Link>
+                    <div className="pf-discover-topbar-text">
+                        <span className="pf-discover-topbar-title">discover</span>
                     </div>
-                    <div className="parties-stat-chip">
-                        👥 <strong>{uni.total_users.toLocaleString()}</strong> students
-                    </div>
-                    <div className="parties-stat-chip">
-                        ✅ <strong>{uni.rsvp_yes_rate}%</strong> RSVP rate
-                    </div>
-                    <div className="parties-stat-chip">
-                        📈 <strong>{uni.attendance_rate}%</strong> attendance
-                    </div>
+                </div>
+                <Link href="/explorer" className="pf-discover-explore-btn">
+                    Data Explorer
+                </Link>
+            </div>
+
+            {/* City / University header */}
+            <div className="pf-discover-header">
+                <h1 className="pf-discover-city">{uni.name.toLowerCase()}</h1>
+                <div className="pf-discover-meta">
+                    {uni.region} · {uni.type} · {uni.total_users.toLocaleString()} students
                 </div>
             </div>
 
-            {/* Events */}
-            <div className="parties-content">
-                <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: 24 }}>
-                    <div className="parties-section-title">
-                        🔥 Happening This Week
-                    </div>
-                    <Link href="/explorer" className="btn-explorer" style={{ fontSize: 14 }}>
-                        📊 Open Data Explorer
-                    </Link>
-                </div>
+            {/* Category filter pills */}
+            <div className="pf-discover-filters">
+                {allCategories.map(cat => (
+                    <button
+                        key={cat}
+                        className={`pf-filter-pill ${activeFilter === cat ? "active" : ""}`}
+                        onClick={() => setActiveFilter(cat)}
+                    >
+                        {cat}
+                    </button>
+                ))}
+            </div>
 
-                <div className="events-grid">
-                    {events.map((evt, i) => (
-                        <EventCard key={evt.id} event={evt} index={i} />
-                    ))}
-                </div>
+            {/* Event grid */}
+            <div className="pf-discover-grid">
+                {filteredEvents.map((evt, i) => (
+                    <EventCard key={evt.id} event={evt} index={i} />
+                ))}
+            </div>
 
-                {/* CTA */}
-                <div style={{
-                    textAlign: "center",
-                    padding: "48px 24px",
-                    borderTop: "1px solid var(--border)",
-                }}>
-                    <p style={{ color: "var(--text-muted)", fontSize: 14, marginBottom: 16 }}>
-                        Want to see the data behind campus discovery?
-                    </p>
-                    <Link href="/explorer" className="btn-explorer" style={{ fontSize: 15, padding: "14px 28px" }}>
-                        📊 Explore the Analytics Dashboard
-                    </Link>
+            {filteredEvents.length === 0 && (
+                <div className="pf-discover-empty">
+                    No events found for this category. Try "All" to see everything.
                 </div>
+            )}
+
+            {/* Footer CTA */}
+            <div className="pf-discover-footer">
+                <p>want to see the analytics?</p>
+                <Link href="/explorer" className="pf-discover-footer-btn">
+                    open data explorer
+                </Link>
             </div>
         </div>
     );
@@ -155,7 +170,7 @@ function PartiesContent() {
 
 export default function PartiesPage() {
     return (
-        <Suspense fallback={<div className="loading">Loading campus events…</div>}>
+        <Suspense fallback={<div className="loading" style={{ background: "#000", color: "#666", minHeight: "100vh" }}>Loading...</div>}>
             <PartiesContent />
         </Suspense>
     );

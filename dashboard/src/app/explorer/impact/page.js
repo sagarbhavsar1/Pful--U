@@ -193,7 +193,7 @@ export default function ImpactPage() {
                 </div>
                 <div style={{ fontSize: 13, color: "#8b8b9e", lineHeight: 1.7 }}>
                     <p style={{ marginBottom: 12 }}>
-                        Partiful U lets students discover events happening across their campus — not just within their
+                        Partiful U lets students discover events happening across their campus, not just within their
                         existing friend graph. Hosts can tag events for campus-wide visibility, surfacing them in the
                         <strong style={{ color: "#6236FF" }}> Campus Discovery Feed</strong> for all students at that university.
                     </p>
