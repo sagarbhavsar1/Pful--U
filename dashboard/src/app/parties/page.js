@@ -91,7 +91,17 @@ function generateEvents(uniId) {
     return events;
 }
 
-const allCategories = ["All", "House party", "Club event", "Birthday", "Networking", "Study group", "Sports watch", "Cultural", "Other"];
+const allCategories = [
+    { key: "All", label: "All", emoji: "🌐" },
+    { key: "House party", label: "Rager", emoji: "🤪" },
+    { key: "Club event", label: "Hype", emoji: "🔥" },
+    { key: "Birthday", label: "Bougie", emoji: "✨" },
+    { key: "Cultural", label: "Aesthetic", emoji: "🦋" },
+    { key: "Study group", label: "Chill", emoji: "😌" },
+    { key: "Sports watch", label: "Hype", emoji: "🏈" },
+    { key: "Networking", label: "Professional", emoji: "💼" },
+    { key: "Other", label: "Lowkey", emoji: "🌿" },
+];
 
 function PartiesContent() {
     const searchParams = useSearchParams();
@@ -106,8 +116,15 @@ function PartiesContent() {
     const events = useMemo(() => generateEvents(uniId), [uniId]);
     const filteredEvents = activeFilter === "All" ? events : events.filter(e => e.type === activeFilter);
 
+
     return (
         <div className="pf-discover">
+            {/* Ambient Background Glows */}
+            <div className="pf-discover-ambient">
+                <div className="pf-ambient-orb orb-1"></div>
+                <div className="pf-ambient-orb orb-2"></div>
+            </div>
+
             {/* Top bar */}
             <div className="pf-discover-topbar">
                 <div className="pf-discover-topbar-left">
@@ -118,28 +135,30 @@ function PartiesContent() {
                         <span className="pf-discover-topbar-title">discover</span>
                     </div>
                 </div>
-                <Link href="/explorer" className="pf-discover-explore-btn">
-                    Data Explorer
-                </Link>
+                <div className="pf-topbar-actions">
+                    <Link href="/explorer" className="pf-discover-explore-btn">
+                        Data Explorer
+                    </Link>
+                    <button className="pf-create-party-btn">
+                        + Create Your Party
+                    </button>
+                </div>
             </div>
 
             {/* City / University header */}
             <div className="pf-discover-header">
-                <h1 className="pf-discover-city">{uni.name.toLowerCase()}</h1>
-                <div className="pf-discover-meta">
-                    {uni.region} · {uni.type} · {uni.total_users.toLocaleString()} students
-                </div>
+                <h1 className="pf-discover-city">{uni.name}</h1>
             </div>
 
             {/* Category filter pills */}
             <div className="pf-discover-filters">
                 {allCategories.map(cat => (
                     <button
-                        key={cat}
-                        className={`pf-filter-pill ${activeFilter === cat ? "active" : ""}`}
-                        onClick={() => setActiveFilter(cat)}
+                        key={cat.key}
+                        className={`pf-filter-pill ${activeFilter === cat.key ? "active" : ""}`}
+                        onClick={() => setActiveFilter(cat.key)}
                     >
-                        {cat}
+                        {cat.emoji} {cat.label}
                     </button>
                 ))}
             </div>

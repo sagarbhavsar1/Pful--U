@@ -4,7 +4,7 @@ import { usePathname } from "next/navigation";
 
 const navItems = [
     { href: "/explorer", label: "Executive Overview", icon: "📊" },
-    { href: "/explorer/campus", label: "Campus Comparison", icon: "🏫" },
+    { href: "/explorer/campus", label: "Campus Insights", icon: "🏫" },
     { href: "/explorer/seasonality", label: "Seasonality", icon: "📅" },
     { href: "/explorer/impact", label: "Campus Discovery", icon: "🎯" },
     { href: "/explorer/insights", label: "Insights", icon: "💡" },

@@ -28,12 +28,12 @@ const CustomTooltip = ({ active, payload, label }) => {
     if (!active || !payload?.length) return null;
     return (
         <div style={{
-            background: "rgba(10,10,15,0.95)", border: "1px solid rgba(255,255,255,0.1)",
-            borderRadius: 8, padding: "10px 14px", fontSize: 12,
+            background: "#fff", border: "3px solid #111",
+            borderRadius: 8, padding: "10px 14px", fontSize: 13, boxShadow: "6px 6px 0px #111"
         }}>
-            <p style={{ color: "#f0f0f5", fontWeight: 600, marginBottom: 4 }}>{label}</p>
+            <p style={{ color: "#111", fontWeight: 800, marginBottom: 6 }}>{label}</p>
             {payload.map((p, i) => (
-                <p key={i} style={{ color: p.color }}>
+                <p key={i} style={{ color: p.color || "#3D3D4E", margin: "2px 0", fontWeight: 700 }}>
                     {p.name}: {typeof p.value === "number" ? Math.round(p.value * 10) / 10 : p.value}
                 </p>
             ))}
@@ -74,11 +74,11 @@ export default function SeasonalityPage() {
                         <div key={i} style={{
                             display: "flex", alignItems: "center", gap: 6,
                             padding: "4px 10px", borderRadius: 6,
-                            background: `${p.color}15`, border: `1px solid ${p.color}30`,
-                            fontSize: 11, color: p.color, fontWeight: 500,
+                            background: `${p.color}25`, border: `2px solid #111`,
+                            fontSize: 12, color: "#111", fontWeight: 800,
                         }}>
                             <span>W{p.start}–W{p.end}</span>
-                            <span style={{ color: "#8b8b9e" }}>{p.label}</span>
+                            <span style={{ color: "#3D3D4E", fontWeight: 600 }}>{p.label}</span>
                         </div>
                     ))}
                 </div>
@@ -99,11 +99,11 @@ export default function SeasonalityPage() {
                                 <stop offset="100%" stopColor="#6236FF" stopOpacity={0} />
                             </linearGradient>
                         </defs>
-                        <CartesianGrid strokeDasharray="3 3" stroke="rgba(255,255,255,0.05)" />
-                        <XAxis dataKey="label" tick={{ fontSize: 9, fill: "#5a5a6e" }} interval={2} />
-                        <YAxis tick={{ fontSize: 10, fill: "#5a5a6e" }} />
+                        <CartesianGrid strokeDasharray="3 3" stroke="rgba(0,0,0,0.1)" />
+                        <XAxis dataKey="label" tick={{ fontSize: 9, fill: "#666" }} interval={2} />
+                        <YAxis tick={{ fontSize: 10, fill: "#666" }} />
                         <Tooltip content={<CustomTooltip />} />
-                        <Area type="monotone" dataKey="events" name="Events" stroke="#6236FF" fill="url(#gradEventsS)" strokeWidth={2} />
+                        <Area type="monotone" dataKey="events" name="Events" stroke="#6236FF" fill="url(#gradEventsS)" strokeWidth={3} />
                     </AreaChart>
                 </ResponsiveContainer>
             </div>
@@ -118,11 +118,11 @@ export default function SeasonalityPage() {
                     </div>
                     <ResponsiveContainer width="100%" height={240}>
                         <LineChart data={decomp}>
-                            <CartesianGrid strokeDasharray="3 3" stroke="rgba(255,255,255,0.05)" />
-                            <XAxis dataKey="label" tick={{ fontSize: 9, fill: "#5a5a6e" }} interval={4} />
-                            <YAxis tick={{ fontSize: 10, fill: "#5a5a6e" }} />
+                            <CartesianGrid strokeDasharray="3 3" stroke="rgba(0,0,0,0.1)" />
+                            <XAxis dataKey="label" tick={{ fontSize: 9, fill: "#666" }} interval={4} />
+                            <YAxis tick={{ fontSize: 10, fill: "#666" }} />
                             <Tooltip content={<CustomTooltip />} />
-                            <Line type="monotone" dataKey="trend" name="Trend" stroke="#3b82f6" strokeWidth={2} dot={false} connectNulls />
+                            <Line type="monotone" dataKey="trend" name="Trend" stroke="#3b82f6" strokeWidth={3} dot={false} connectNulls />
                         </LineChart>
                     </ResponsiveContainer>
                 </div>
@@ -136,9 +136,9 @@ export default function SeasonalityPage() {
                     </div>
                     <ResponsiveContainer width="100%" height={240}>
                         <BarChart data={decomp}>
-                            <CartesianGrid strokeDasharray="3 3" stroke="rgba(255,255,255,0.05)" />
-                            <XAxis dataKey="label" tick={{ fontSize: 9, fill: "#5a5a6e" }} interval={4} />
-                            <YAxis tick={{ fontSize: 10, fill: "#5a5a6e" }} />
+                            <CartesianGrid strokeDasharray="3 3" stroke="rgba(0,0,0,0.1)" />
+                            <XAxis dataKey="label" tick={{ fontSize: 9, fill: "#666" }} interval={4} />
+                            <YAxis tick={{ fontSize: 10, fill: "#666" }} />
                             <Tooltip content={<CustomTooltip />} />
                             <Bar dataKey="seasonal" name="Seasonal" fill="#EC4899" radius={[2, 2, 0, 0]} />
                         </BarChart>
@@ -155,13 +155,13 @@ export default function SeasonalityPage() {
                 </div>
                 <ResponsiveContainer width="100%" height={300}>
                     <LineChart data={engagement}>
-                        <CartesianGrid strokeDasharray="3 3" stroke="rgba(255,255,255,0.05)" />
-                        <XAxis dataKey="label" tick={{ fontSize: 9, fill: "#5a5a6e" }} interval={3} />
-                        <YAxis tick={{ fontSize: 10, fill: "#5a5a6e" }} unit="%" />
+                        <CartesianGrid strokeDasharray="3 3" stroke="rgba(0,0,0,0.1)" />
+                        <XAxis dataKey="label" tick={{ fontSize: 9, fill: "#666" }} interval={3} />
+                        <YAxis tick={{ fontSize: 10, fill: "#666" }} unit="%" />
                         <Tooltip content={<CustomTooltip />} />
-                        <Legend wrapperStyle={{ fontSize: 11 }} />
-                        <Line type="monotone" dataKey="yes_rate" name="RSVP Yes %" stroke="#6236FF" strokeWidth={2} dot={false} />
-                        <Line type="monotone" dataKey="attendance_rate" name="Attendance %" stroke="#22c55e" strokeWidth={2} dot={false} />
+                        <Legend wrapperStyle={{ fontSize: 12, fontWeight: 700, color: "#111" }} />
+                        <Line type="monotone" dataKey="yes_rate" name="RSVP Yes %" stroke="#6236FF" strokeWidth={3} dot={false} />
+                        <Line type="monotone" dataKey="attendance_rate" name="Attendance %" stroke="#22c55e" strokeWidth={3} dot={false} />
                     </LineChart>
                 </ResponsiveContainer>
             </div>

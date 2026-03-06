@@ -4,6 +4,55 @@ import { useRouter } from "next/navigation";
 
 import uniPerformance from "@/data/university_performance.json";
 
+// Map universities to representative emojis
+function getUniEmoji(name) {
+    const emojiMap = {
+        'Harvard': '📕', 'MIT': '🤖', 'Stanford': '🌲', 'Yale': '🐶',
+        'Princeton': '🐅', 'Columbia': '🦁', 'Cornell': '🐻', 'Brown': '🐻',
+        'Dartmouth': '🌲', 'NYU': '🗽', 'UCLA': '🐻', 'UC Berkeley': '🐻',
+        'USC': '✌️', 'Duke': '😈', 'Georgetown': '🐶', 'Rice': '🦉',
+        'Vanderbilt': '⚓', 'Emory': '🦅', 'Tufts': '🐘', 'Brandeis': '⚖️',
+        'Northwestern': '🐱', 'Michigan': '〽️', 'Notre Dame': '☘️',
+        'Texas A&M': '👍', 'Penn State': '🦁', 'Ohio State': '🌰',
+        'Florida State': '🍢', 'Clemson': '🐅', 'Auburn': '🦅',
+        'Baylor': '🐻', 'TCU': '🐸', 'SMU': '🐴', 'LSU': '🐯',
+        'Virginia Tech': '🦃', 'Purdue': '🚂', 'Iowa State': '🌪️',
+        'Oregon State': '🦫', 'Boise State': '🟦', 'Gonzaga': '🐶',
+        'Wake Forest': '😈', 'Tulane': '🌊', 'Spelman': '💙',
+        'Morehouse': '🐅', 'Howard': '🦬', 'Northeastern': '🐾',
+        'BYU': '🏔️', 'Brigham Young': '🏔️', 'Carnegie Mellon': '🏗️',
+        'Johns Hopkins': '🩺', 'Boston University': '🐕', 'American': '🦅',
+        'George Washington': '🏛️', 'Cal Poly': '🐎',
+        'Arizona State': '😈', 'Colorado State': '🐏',
+        'Kansas State': '🐱', 'Mississippi State': '🐶',
+        'Oklahoma State': '🤠', 'Washington State': '🐆',
+        'Michigan State': '💚', 'Indiana University': '🔴',
+        'San Diego State': '⚡', 'San Jose State': '⚡',
+        'Texas Tech': '🔴',
+        'UC Irvine': '🐜', 'UC Santa Barbara': '🌊',
+        'UC San Diego': '🔱', 'UC Davis': '🐄',
+    };
+
+    for (const [key, emoji] of Object.entries(emojiMap)) {
+        if (name.includes(key)) return emoji;
+    }
+
+    // Fallback based on keywords
+    const n = name.toLowerCase();
+    if (n.includes('coastal') || n.includes('pacific') || n.includes('harbor')) return '🌊';
+    if (n.includes('mountain') || n.includes('ridge') || n.includes('summit')) return '⛰️';
+    if (n.includes('lake') || n.includes('river')) return '🏞️';
+    if (n.includes('valley') || n.includes('prairie')) return '🌾';
+    if (n.includes('northern') || n.includes('cascade')) return '🏔️';
+    if (n.includes('southern')) return '☀️';
+    if (n.includes('eastern') || n.includes('atlantic')) return '🌅';
+    if (n.includes('western')) return '🌄';
+    if (n.includes('metro') || n.includes('central') || n.includes('greater') || n.includes('upper')) return '🏙️';
+    if (n.includes('institute') || n.includes('polytechnic')) return '⚙️';
+    if (n.includes('university of')) return '🎓';
+    return '🏫';
+}
+
 export default function UniversitySearch({ autoFocus = false }) {
     const [query, setQuery] = useState("");
     const [results, setResults] = useState([]);
@@ -113,11 +162,11 @@ export default function UniversitySearch({ autoFocus = false }) {
                             aria-selected={i === highlightedIndex}
                             id={`search-result-${uni.university_id}`}
                         >
-                            <div className="search-result-icon">🏫</div>
+                            <div className="search-result-icon">{getUniEmoji(uni.name)}</div>
                             <div className="search-result-info">
                                 <div className="search-result-name">{uni.name}</div>
                                 <div className="search-result-detail">
-                                    {uni.region} • {uni.type} • {uni.student_population.toLocaleString()} students
+                                    {uni.region} • {uni.type} • {uni.student_population.toLocaleString()} users
                                 </div>
                             </div>
                         </div>
